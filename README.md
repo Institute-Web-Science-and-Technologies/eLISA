@@ -1,2 +1,5 @@
 eLISA
 =====
+LISA – Local information, search and aggregation. The attractiveness of a city is a very subjective assessment that bases on different criteria depending on the age and life circumstances. Often it is difficult to bring own ideas in accordance with local conditions. Also, there are many different factors that can play a role in assessing a place.
+
+LISA allows the user to select individual important indicators, prioritize and store them in a user profile. Then an individual location-based attractiveness factor is calculated and clearly displayed on a map. The user can see at a glance the streets, neighborhoods or regions that are interesting to him because they are marked accordingly. This allows arbitrary regions to be analyzed quickly and easily using various individual criteria.
