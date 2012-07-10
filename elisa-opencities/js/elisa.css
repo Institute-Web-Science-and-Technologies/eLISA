@@ -1,0 +1,28 @@
+﻿@charset "UTF-8";
+
+body {
+	font-family:sans-serif;
+	margin:0px;
+}
+
+#map {
+	vertical-align:top;position: relative;
+}
+
+#widtest {
+	position: absolute; 
+	width: 320px; 
+	right: 10px; 
+	top: 10px; 
+	padding: 10px;
+}
+
+#widtest img {
+	display:block;
+	margin: 0 auto;
+}
+
+#widtest .ui-dialog-content {
+	background: none;
+	border: 1;
+}
