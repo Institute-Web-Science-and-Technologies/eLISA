@@ -11,7 +11,9 @@ function plugin_test(){
 		html += "<div style=\"font-size:11px;\">test2</div>";
 		return html;
 	}
-	
+	this.init = function(map) {
+		// do further init stuff on the map
+	}	
 }
 
 // add plugin to system

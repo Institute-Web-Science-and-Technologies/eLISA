@@ -49,6 +49,8 @@ function addPlugin(plugin){
 			collapsible: true
 		});		
 	}	
+	// final initializations
+	plugin.init(MAP);
 }
 
 function loadjsfile(filename){
