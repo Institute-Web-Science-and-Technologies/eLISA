@@ -6,6 +6,7 @@ function plugin_voronoi(){
 			"TestLayer",
 			{renderers:["Canvas"]}
 		);		
+		
 		return x;
 		
 	};
