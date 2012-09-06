@@ -2,8 +2,10 @@
 <html>
 <head>
 	<title>LISA - Koblenz Edition</title>
-	<script src="js/jquery-1.7.1.min.js" type="text/javascript"></script>
+	<script src="js/jquery-1.8.0.min.js" type="text/javascript"></script>
 	<script src="js/jquery.qtip-1.0.0-rc3.min.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="css/ui-lightness/jquery-ui-1.8.23.custom.css">
+	<script src="js/jquery-ui-1.8.23.custom.min.js" type="text/javascript"></script>
 	<script src="js/main.js" type="text/javascript"></script>
 	<script src="js/main__vars.js" type="text/javascript"></script>
 	<script src="js/map.js" type="text/javascript"></script>
@@ -11,22 +13,20 @@
 	<script src="js/util.js" type="text/javascript"></script>
 	<script src="js/poi.js" type="text/javascript"></script>
 	<script src="js/heatmap.js" type="text/javascript"></script>
-	<script src="js/slider.js" type="text/javascript"></script>
+	<!--<script src="js/slider.js" type="text/javascript"></script>-->
 	<script src="js/util.js" type="text/javascript"></script>
 
-	<script src="jsdaten/haushalte_2011_norm.js" type=text/javascript></script>
-	<script src="jsdaten/familienstand_2011_norm.js" type=text/javascript></script>
-	<script src="jsdaten/altersgruppen_2011_norm.js" type=text/javascript></script>
-	<script src="jsdaten/verkehrsdichte_2011_norm.js" type=text/javascript></script>
+	<script src="jsdaten/haushalte_2011_norm.js" type="text/javascript"></script>
+	<script src="jsdaten/familienstand_2011_norm.js" type="text/javascript"></script>
+	<script src="jsdaten/altersgruppen_2011_norm.js" type="text/javascript"></script>
+	<script src="jsdaten/verkehrsdichte_2011_norm.js" type="text/javascript"></script>
 	
-
-
-
+	<link rel="stylesheet" type="text/css" href="elisa.css">
 	<!-- Yahoo YUI Slider--> 
-	<script src="http://yui.yahooapis.com/2.9.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
-	<script src="http://yui.yahooapis.com/2.9.0/build/dragdrop/dragdrop-min.js"></script>
- 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.9.0/build/slider/assets/skins/sam/slider.css">
- 	<script src="http://yui.yahooapis.com/2.9.0/build/slider/slider-min.js"></script>
+	<!--<script src="http://yui.yahooapis.com/2.9.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>-->
+	<!--<script src="http://yui.yahooapis.com/2.9.0/build/dragdrop/dragdrop-min.js"></script>-->
+ 	<!--<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.9.0/build/slider/assets/skins/sam/slider.css">-->
+ 	<!--<script src="http://yui.yahooapis.com/2.9.0/build/slider/slider-min.js"></script>-->
 
         
 	<!-- Bring in the map layer libraries.
@@ -35,19 +35,161 @@
               
 	<!-- OpenLayers javascript library -->
 	<script src="OpenLayers/OpenLayers.js"></script>
-<!--	<script src="OpenLayers/OpenLayers.js"></script> -->
+	<!--<script src="OpenLayers/OpenLayers.js"></script> -->
 	<!-- OpenStreetMap OpenLayers layer -->
 	<script src="OpenLayers/OpenStreetMap.js"></script>
 	<!-- Google Maps layers -->
-        <script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
+    <script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
 
 </head>
-<body class="yui-skin-sam" style="font-family:sans-serif;" onload="init()">
+<body>
+<div id="map"></div>
+<div id="widtest" class="ui-widget ui-widget-content ui-corner-all">
+	<div class="ui-dialog-content ui-widget-content">
+	<img src="img/elisa.png" alt="eLisa"></img>
+	<div id="plugin_guis">
+		<div>
+			<h1>Bezirkskriterien</h1>
+			<div class="accordion">
+				<h2><a href="#">Altersdurchschnitt (von 'jung' nach 'alt')</a></h2>
+				<div>
+					<div id="slider_feature_age" kind="feature" number="0" class="slider" style="width:220px;"></div>
+					<form><input type="checkbox" name="feature" value="age">aktiv</input></form>
+				</div>
+				
+				<h2><a href="#">Verkehrsdichte (von 'wenig' nach 'viel')</a></h2>
+				<div>
+					<div id="slider_features_cars" kind="feature" number="1" class="slider" style="width:220px;"></div>
+					<form><input type="checkbox" name="feature" value="cars">aktiv</input></form>
+				</div>
+				<h2><a href="#">Haushaltsstruktur (von 'singles' nach 'Familien')</a></h2>
+				<div>
+					<div id="slider_feature_households" kind="feature" number="2" class="slider" style="width:220px;"></div>
+					<form><input type="checkbox" name="feature" value="housholds">aktiv</input></form>
+				</div>
+			</div>
+		</div>
+		<div>
+			<h1>Lokalit&auml;ten</h1>
+			<div class="accordion">
+				<h2><a href="#">Kinderg&auml;rten (von 'unwichtig' nach 'wichtig')</a></h2>
+				<div>
+					<div id="slider_poi_kindergartens" kind="poi" number="0" class="slider" style="width:220px;"></div>
+					<form><input type="checkbox" name="poi" value="kindergartens">aktiv</input></form>
+				</div>
+				<h2><a href="#">Tankstellen (von 'unwichtig' nach 'wichtig')</a></h2>
+				<div>
+					<div id="slider_poi_gasstations" kind="poi" number="1" class="slider" style="width:220px;"></div>
+					<form><input type="checkbox" name="poi" value="gassstations">aktiv</input></form>
+				</div>
+				<h2><a href="#">Schulen (von 'unwichtig' nach 'wichtig')</a></h2>
+				<div>
+					<div id="slider_poi_schools" kind="poi" number="2" class="slider" style="width:220px;"></div>
+					<form><input type="checkbox" name="poi" value="schools">aktiv</input></form>
+				</div>
+				
+				<h2><a href="#">Superm&auml;rkte (von 'unwichtig' nach 'wichtig')</a></h2>
+				<div>
+					<div id="slider_poi_supermakets" kind="poi" number="3" class="slider" style="width:220px;"></div>
+					<form><input type="checkbox" name="poi" value="supermakets">aktiv</input></form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<!--
+					</table>
+					<a style="color:#3a63ad;" href="#" onclick="javascript:handleSelectFeatures();">ausw&auml;hlen</a>
+					<br/><br/><br/>
+					<span style="color:#3a63ad;font-size:14pt;">Lokalit&auml;ten</span>
+					<hr style="color:#3a63ad;" size="1"></hr>
+					<table cellspacing=0 cellpadding=0>
+						<tr id="tr_poi_kindergartens" title="N&auml;he zu Kinderg&auml;rten von 'unwichtig' zu 'wichtig'">
+							<td style="width:180px;">Kinderg&auml;rten</td>
+							<td>
+							<table width="100%" cellpadding=0 cellspacing=0>
+								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_kindergartens" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_kindergartens" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
+								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
+							</table>
+							</td>
+						</tr>
+						<tr id="tr_poi_gasstations" title="N&auml;he zu Tankstellen von 'unwichtig' zu 'wichtig'">
+							<td style="width:180px;">Tankstellen</td>
+							<td>
+							<table width="100%" cellpadding=0 cellspacing=0>
+								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_gasstations" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_gasstations" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
+								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
+							</table>
+							</td>
+						</tr>
+						<tr id="tr_poi_schools">
+							<td style="width:180px;" title="N&auml;he zu Schulen von 'unwichtig' zu 'wichtig'">Schulen</td>
+							<td>
+							<table width="100%" cellpadding=0 cellspacing=0>
+								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_schools" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_schools" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
+								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
+							</table>
+							</td>
+						</tr>
+						<tr id="tr_poi_supermarkets" title="N&auml;he zu Superm&auml;rkten von 'unwichtig' zu 'wichtig'">
+							<td style="width:180px;">Superm&auml;rkte</td>
+							<td>
+							<table width="100%" cellpadding=0 cellspacing=0>
+								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_supermarkets" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_supermarkets" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
+								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
+							</table>
+							</td>
+						</tr>
+						<tr id="tr_poi_restaurants" title="N&auml;he zu Restaurants von 'unwichtig' zu 'wichtig'">
+							<td style="width:180px;">Restaurants</td>
+							<td>
+							<table width="100%" cellpadding=0 cellspacing=0>
+								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_restaurants" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_restaurants" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
+								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
+							</table>
+							</td>
+						</tr>
+						<tr id="tr_poi_doctors" title="N&auml;he zu &Auml;rzten von 'unwichtig' zu 'wichtig'">
+							<td style="width:180px;">&Auml;rzte</td>
+							<td>
+							<table width="100%" cellpadding=0 cellspacing=0>
+								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_doctors" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_doctors" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
+								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
+							</table>
+							</td>
+						</tr>
+						<tr id="tr_poi_pharmacies" title="N&auml;he zu Apotheken von 'unwichtig' zu 'wichtig'">
+							<td style="width:180px;">Apotheken</td>
+							<td>
+							<table width="100%" cellpadding=0 cellspacing=0>
+								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_pharmacies" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_pharmacies" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
+								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
+							</table>
+							</td>
+						</tr>
+						<tr id="tr_poi_hardwarestores" title="N&auml;he zu Baum&auml;rkten von 'unwichtig' zu 'wichtig'">
+							<td style="width:180px;">Baum&auml;rkte</td>
+								<td>
+							<table width="100%" cellpadding=0 cellspacing=0>
+								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_hardwarestores" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_hardwarestores" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
+								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
+							</table>
+							</td>
+						</tr>
+					</table>
+					<a style="color:#3a63ad;" href="#" onclick="javascript:handleSelectPois();">ausw&auml;hlen</a>
+				</div></td>
+			</tr>
+	</div>
+	</div>
+</div>
+<!-- <body class="yui-skin-sam" style="font-family:sans-serif;" onload="init()">
 	<div align="center" width="100%">
 		<table style="text-align:center;" cellpadding="10">
 			<tr>
-				<td rowspan="2"><div style="text-align:center;border:1px solid black;vertical-align:top;" width="700" id="main_div">
+				<td rowspan="2"><div style="text-align:center;border:1px solid black;vertical-align:top;" width="700" id="main_div"> -->
 					<!-- define a DIV into which the map will appear. -->
+					<!--
 					<div id="map" style="width:800px; height:700px;vertical-align:top;"></div>
 				</div></td>
 				<td>
@@ -89,6 +231,7 @@
 							</table>
 						</td>
 						</tr>
+-->
 <!-- 						<tr id="tr_feature_unemployment" title="Erwerbst&auml;tigenquote von 'niedrig' nach 'hoch'"> -->
 <!-- 							<td style="width:180px;">Erwerbst&auml;tigenquote</td> -->
 <!-- 							<td style="vertical-align:top;"> -->
@@ -98,6 +241,7 @@
 <!-- 							</table> -->
 <!-- 						</td> -->
 <!-- 						</tr> -->
+<!--
 					</table>
 					<a style="color:#3a63ad;" href="#" onclick="javascript:handleSelectFeatures();">ausw&auml;hlen</a>
 					<br/><br/><br/>
@@ -197,5 +341,28 @@
 			</tr>
 		</table>			
 	</div>
+	-->
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	init();
+	
+	jQuery(".accordion").accordion({
+		collapsible: true
+	});
+	
+	jQuery(".slider").slider({
+		max: 200,
+		value: 100,
+		change: function(event, ui) {
+			if(jQuery(this).attr("kind") == "feature")
+				features_weight[jQuery(this).attr("number")] = ui.value / 200;
+			else{
+				pois_weight[jQuery(this).attr("number")] = ui.value / 200;
+			}
+			handleUpdate(features, features_labels, features_selection, features_weight, pois, pois_labels, pois_selection, pois_weight);	
+		}
+	});
+});
+</script>
 </body>
 </html>

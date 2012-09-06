@@ -5,6 +5,14 @@ body {
 	margin:0px;
 }
 
+form {
+	display:inline-block;
+}
+
+.slider {
+	display: inline-block;
+}
+
 #map {
 	vertical-align:top;position: relative;
 }
@@ -25,4 +33,15 @@ body {
 #widtest .ui-dialog-content {
 	background: none;
 	border: 1;
+}
+
+#plugin_guis {
+	font-size: 10px;
+}
+
+#plugin_guis h1 {
+	font-size: 14px;
+}
+#plugin_guis h2 {
+	font-size: 12px;
 }
