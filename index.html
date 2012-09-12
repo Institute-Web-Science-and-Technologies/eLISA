@@ -49,54 +49,80 @@
 	<img src="img/elisa.png" alt="eLisa"></img>
 	<div id="plugin_guis">
 		<div>
-			<h1>Bezirkskriterien</h1>
+			<h1>district criteria</h1>
 			<div class="accordion">
-				<h2><a href="#">Altersdurchschnitt (von 'jung' nach 'alt')</a></h2>
+				<h2><a href="#">age (from 'young' to 'older')</a></h2>
 				<div>
-					<div id="slider_feature_age" kind="feature" number="0" class="slider" style="width:220px;"></div>
+					<div id="slider_feature_age" kind="feature" number="0" class="slider" style="width:200px;"></div>
 					<input type="checkbox" id="age"/><label for="age">active</label></form>
 				</div>
 				
-				<h2><a href="#">Verkehrsdichte (von 'wenig' nach 'viel')</a></h2>
+				<h2><a href="#">traffic density (from 'low' to 'high')</a></h2>
 				<div>
-					<div id="slider_features_cars" kind="feature" number="1" class="slider" style="width:220px;"></div>
+					<div id="slider_features_cars" kind="feature" number="1" class="slider" style="width:200px;"></div>
 					<input type="checkbox" id="cars"/><label for="cars">active</label></form>
 				</div>
-				<h2><a href="#">Haushaltsstruktur (von 'singles' nach 'Familien')</a></h2>
+				<h2><a href="#">households (from 'singles' to 'families')</a></h2>
 				<div>
-					<div id="slider_feature_households" kind="feature" number="2" class="slider" style="width:220px;"></div>
-					<form><input type="checkbox" id ="housholds"/><label for="housholds">active</label></form>
+					<div id="slider_feature_households" kind="feature" number="2" class="slider" style="width:200px;"></div>
+					<input type="checkbox" id="housholds"/><label for="housholds">active</label>
 				</div>
 			</div>
 		</div>
 		<div>
-			<h1>Lokalit&auml;ten</h1>
+			<h1>points of interest</h1>
 			<div class="accordion">
-				<h2><a href="#">Kinderg&auml;rten (von 'unwichtig' nach 'wichtig')</a></h2>
+				<h2><a href="#">kindergartens (from 'unimportant' to 'important')</a></h2>
 				<div>
-					<div id="slider_poi_kindergartens" kind="poi" number="0" class="slider" style="width:220px;"></div>
-					<form><input type="checkbox" name="poi" value="kindergartens">aktiv</input></form>
+					<div id="slider_poi_kindergartens" kind="poi" number="0" class="slider" style="width:200px;"></div>
+					<input type="checkbox" name="poi" value="kindergartens">active</input>
 				</div>
-				<h2><a href="#">Tankstellen (von 'unwichtig' nach 'wichtig')</a></h2>
+				<h2><a href="#">gas stations (from 'unimportant' to 'important')</a></h2>
 				<div>
-					<div id="slider_poi_gasstations" kind="poi" number="1" class="slider" style="width:220px;"></div>
-					<form><input type="checkbox" name="poi" value="gassstations">aktiv</input></form>
+					<div id="slider_poi_gasstations" kind="poi" number="1" class="slider" style="width:200px;"></div>
+					<input type="checkbox" name="poi" value="gassstations">active</input>
 				</div>
-				<h2><a href="#">Schulen (von 'unwichtig' nach 'wichtig')</a></h2>
+				<h2><a href="#">schools (from 'unimportant' to 'important')</a></h2>
 				<div>
-					<div id="slider_poi_schools" kind="poi" number="2" class="slider" style="width:220px;"></div>
-					<form><input type="checkbox" name="poi" value="schools">aktiv</input></form>
+					<div id="slider_poi_schools" kind="poi" number="2" class="slider" style="width:200px;"></div>
+					<input type="checkbox" name="poi" value="schools">active</input>
 				</div>
 				
-				<h2><a href="#">Superm&auml;rkte (von 'unwichtig' nach 'wichtig')</a></h2>
+				<h2><a href="#">super markets (from 'unimportant' to 'important')</a></h2>
 				<div>
-					<div id="slider_poi_supermakets" kind="poi" number="3" class="slider" style="width:220px;"></div>
-					<form><input type="checkbox" name="poi" value="supermakets">aktiv</input></form>
+					<div id="slider_poi_supermakets" kind="poi" number="3" class="slider" style="width:200px;"></div>
+					<input type="checkbox" name="poi" value="supermakets">active</input>
 				</div>
 			</div>
 		</div>
 	</div>
 
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	init();
+	
+	jQuery(".accordion").accordion({
+		collapsible: true
+	});
+	
+	jQuery(".slider").slider({
+		max: 200,
+		value: 100,
+		change: function(event, ui) {
+			if(jQuery(this).attr("kind") == "feature")
+				features_weight[jQuery(this).attr("number")] = ui.value / 200;
+			else{
+				pois_weight[jQuery(this).attr("number")] = ui.value / 200;
+			}
+			handleUpdate(features, features_labels, features_selection, features_weight, pois, pois_labels, pois_selection, pois_weight);	
+		}
+	});
+	
+	jQuery("input[type=checkbox]").button();
+});u
+</script>
+</body>
+</html>
 <!--
 					</table>
 					<a style="color:#3a63ad;" href="#" onclick="javascript:handleSelectFeatures();">ausw&auml;hlen</a>
@@ -342,27 +368,4 @@
 		</table>			
 	</div>
 	-->
-<script type="text/javascript">
-jQuery(document).ready(function() {
-	init();
-	
-	jQuery(".accordion").accordion({
-		collapsible: true
-	});
-	
-	jQuery(".slider").slider({
-		max: 200,
-		value: 100,
-		change: function(event, ui) {
-			if(jQuery(this).attr("kind") == "feature")
-				features_weight[jQuery(this).attr("number")] = ui.value / 200;
-			else{
-				pois_weight[jQuery(this).attr("number")] = ui.value / 200;
-			}
-			handleUpdate(features, features_labels, features_selection, features_weight, pois, pois_labels, pois_selection, pois_weight);	
-		}
-	});
-});
-</script>
-</body>
-</html>
+
