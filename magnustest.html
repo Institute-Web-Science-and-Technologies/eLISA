@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<title>eLISA OSM - JSON Interface</title>
+	
+	<script src="http://userpages.uni-koblenz.de/~smagnus/opencities2012/php/osm2json.php" type="text/javascript"></script>
+</head>
+<body
+<p>
+<h1> eLISA OSM - JSON Interface</h1>
+<script>
+var pois = osm2json();
+
+document.write("<br>anfang<br>");
+document.write(pois[1].name);
+document.write(pois[1].lat);
+document.write(pois[1].lng);
+document.write("<br>ende");
+</script>
+</p>
+
+</body>
+</html>
