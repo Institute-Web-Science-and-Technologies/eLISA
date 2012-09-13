@@ -8,7 +8,7 @@ var feature_status = new Array();
 
 function handleUpdate(features, features_labels, features_selection, features_weight, pois, pois_labels, pois_selection, pois_weight){
 
-	var tableOfFeature;  // tablee aus des feature i entnommen wird
+	var tableOfFeature;  // table aus des feature i entnommen wird
 	var indexOfFeature;  //index fuer jedes feature
 	
 	var tableOfFeature = new Array();

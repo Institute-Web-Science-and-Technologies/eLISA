@@ -1,7 +1,6 @@
 var poi_cache = Array();
 
 function poi_draw(poi_options, callback) {
-
 	// check for missing POI data
 	var urlsToLoad = new Array();
 	for (var i=0; i<poi_options.length; i++) {
