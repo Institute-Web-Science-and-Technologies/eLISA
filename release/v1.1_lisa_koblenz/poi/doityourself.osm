@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis SNAPSHOT-r26564">
+  <node id="401914362" version="2" timestamp="2011-10-05T22:20:17Z" uid="290680" user="wheelmap_visitor" changeset="9474855" lat="50.3967107" lon="7.5110803">
+    <tag k="addr:postcode" v="56218"/>
+    <tag k="shop" v="doityourself"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Bauhaus"/>
+    <tag k="addr:street" v="In der Pützgewann"/>
+    <tag k="addr:city" v="Mülheim-Kärlich"/>
+    <tag k="addr:housenumber" v="2"/>
+  </node>
+</osm>

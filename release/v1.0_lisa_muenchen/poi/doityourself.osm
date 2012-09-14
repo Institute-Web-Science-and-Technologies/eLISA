@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis SNAPSHOT-r26564">
+  <node id="199332018" version="10" timestamp="2011-09-28T18:16:24Z" uid="8748" user="ToniE" changeset="9421646" lat="48.0712363" lon="11.655381">
+    <tag k="addr:postcode" v="85521"/>
+    <tag k="shop" v="doityourself"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Automatiktür, Aufzug in den 1. Stock"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Werkmarkt Rettenberger"/>
+    <tag k="wheelchair:description:de" v="Automatiktür, Aufzug in den 1. Stock"/>
+    <tag k="addr:street" v="Alte Landstraße"/>
+    <tag k="addr:city" v="Ottobrunn"/>
+    <tag k="addr:housenumber" v="1"/>
+  </node>
+  <node id="199333000" version="10" timestamp="2011-08-03T14:32:52Z" uid="13219" user="Pyrokrat" changeset="8910583" lat="48.075826" lon="11.6584172">
+    <tag k="addr:postcode" v="85579"/>
+    <tag k="shop" v="doityourself"/>
+    <tag k="phone" v="+49 89 6060870"/>
+    <tag k="fax" v="+49 89 60608710"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="http://toom.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="TOOM"/>
+    <tag k="addr:street" v="Äußere Hauptstraße"/>
+    <tag k="addr:city" v="Neubiberg"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-20:00"/>
+  </node>
+  <node id="250046640" version="5" timestamp="2011-07-11T19:10:40Z" uid="290680" user="wheelmap_visitor" changeset="8696541" lat="48.1085987" lon="11.721378">
+    <tag k="created_by" v="xybot"/>
+    <tag k="addr:postcode" v="85540"/>
+    <tag k="shop" v="doityourself"/>
+    <tag k="phone" v="+49 89 456407-0"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="OBI"/>
+    <tag k="addr:street" v="Münchener Straße"/>
+    <tag k="addr:city" v="Haar"/>
+    <tag k="addr:housenumber" v="18"/>
+  </node>
+  <node id="295734830" version="5" timestamp="2012-01-01T15:22:21Z" uid="290680" user="wheelmap_visitor" changeset="10259953" lat="48.1495953" lon="11.6407742">
+    <tag k="shop" v="doityourself"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Mächtlinger"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:00; Sa 08:30-13:00"/>
+  </node>
+  <node id="312881879" version="5" timestamp="2012-01-04T03:55:52Z" uid="64164" user="osmkurt" changeset="10287910" lat="48.1342505" lon="11.5839385">
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="shop" v="doityourself"/>
+    <tag k="phone" v="+49 89 226013"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Joseph Hepfinger"/>
+    <tag k="addr:street" v="Thierschstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="1"/>
+  </node>
+  <node id="322621889" version="2" timestamp="2009-01-20T19:12:48Z" uid="80809" user="muenchner" changeset="818646" lat="48.17834" lon="11.6332547">
+    <tag k="shop" v="doityourself"/>
+    <tag k="name" v="OBI"/>
+  </node>
+  <node id="342293241" version="1" timestamp="2009-02-06T20:23:19Z" uid="80809" user="muenchner" changeset="208667" lat="48.1400503" lon="11.5201616">
+    <tag k="shop" v="doityourself"/>
+    <tag k="name" v="Brillux"/>
+  </node>
+  <node id="342293257" version="1" timestamp="2009-02-06T20:23:19Z" uid="80809" user="muenchner" changeset="208667" lat="48.1395167" lon="11.5208975">
+    <tag k="shop" v="doityourself"/>
+    <tag k="name" v="Oskar Huber Bauzentrum"/>
+  </node>
+  <node id="390080064" version="5" timestamp="2011-01-24T19:17:55Z" uid="342705" user="KLMB" changeset="7076696" lat="48.1492661" lon="11.5750745">
+    <tag k="shop" v="doityourself"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Suckfüll"/>
+    <tag k="contact:phone" v="+49 89 286610 0"/>
+  </node>
+  <node id="442539005" version="2" timestamp="2011-01-19T15:23:40Z" uid="290680" user="wheelmap_visitor" changeset="7020349" lat="48.13959" lon="11.5247267">
+    <tag k="shop" v="doityourself"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Bauhaus"/>
+  </node>
+  <node id="567203659" version="1" timestamp="2009-11-19T21:56:44Z" uid="20601" user="SabineSW" changeset="3164549" lat="48.1514547" lon="11.5646089">
+    <tag k="shop" v="doityourself"/>
+    <tag k="name" v="Farben Wegrath"/>
+  </node>
+  <node id="617847880" version="2" timestamp="2010-11-15T13:56:28Z" uid="65148" user="tixuwuoz" changeset="6377564" lat="48.1068914" lon="11.6619043">
+    <tag k="addr:postcode" v="81735"/>
+    <tag k="shop" v="doityourself"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:street" v="Michelweg"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="3"/>
+  </node>
+  <node id="669099200" version="4" timestamp="2010-09-02T17:16:01Z" uid="336460" user="robgeb" changeset="5663995" lat="48.1274849" lon="11.5865488">
+    <tag k="addr:postcode" v="81669"/>
+    <tag k="shop" v="doityourself"/>
+    <tag k="contact:email" v="info@iseg-eg.de"/>
+    <tag k="phone" v="+49 89 489061-0"/>
+    <tag k="fax" v="+49 89 489061-40"/>
+    <tag k="website" v="http://www.iseg-eg.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="ISEG"/>
+    <tag k="addr:street" v="Kegelhof"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="note" v="Großhandel"/>
+    <tag k="addr:housenumber" v="3"/>
+  </node>
+  <node id="674917880" version="2" timestamp="2011-03-29T18:11:14Z" uid="342705" user="KLMB" changeset="7709150" lat="48.1439303" lon="11.4645675">
+    <tag k="shop" v="doityourself"/>
+    <tag k="amenity" v="recycling"/>
+  </node>
+  <node id="798875453" version="2" timestamp="2011-10-08T12:40:51Z" uid="290723" user="sulagaloh" changeset="9502190" lat="48.1129801" lon="11.4514292">
+    <tag k="shop" v="doityourself"/>
+    <tag k="name" v="OBI"/>
+  </node>
+  <node id="934791952" version="2" timestamp="2011-11-26T03:56:36Z" uid="16394" user="ysae" changeset="9951368" lat="48.1287221" lon="11.5719467">
+    <tag k="addr:postcode" v="80469"/>
+    <tag k="shop" v="doityourself"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Schrauben Mutter"/>
+    <tag k="addr:street" v="Ickstattstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="12"/>
+  </node>
+  <node id="954815362" version="7" timestamp="2011-07-04T18:54:30Z" uid="89943" user="Bengatzer" changeset="8632478" lat="48.1287308" lon="11.6019836">
+    <tag k="shop" v="doityourself"/>
+    <tag k="phone" v="0 89 - 4 48 06 23"/>
+    <tag k="website" v="http://www.hei-muenchen.de/"/>
+    <tag k="name" v="HEi, Haus der Eigenarbeit"/>
+    <tag k="opening_hours" v="Tu-Fr 15:00-21:00; Sa 12:00-18:00"/>
+  </node>
+  <node id="1083291542" version="2" timestamp="2011-01-05T10:15:30Z" uid="391616" user="hdusel" changeset="6869924" lat="48.1167398" lon="11.5710069">
+    <tag k="shop" v="doityourself"/>
+    <tag k="tourism" v="artwork"/>
+    <tag k="amenity" v="bench"/>
+  </node>
+  <node id="1369035434" version="1" timestamp="2011-07-21T13:37:48Z" uid="446175" user="schiwi" changeset="8788552" lat="48.1186069" lon="11.6878929">
+    <tag k="shop" v="doityourself"/>
+    <tag k="name" v="Hagebaumarkt"/>
+  </node>
+  <node id="1369035457" version="2" timestamp="2012-01-06T18:50:48Z" uid="580874" user="PAule666" changeset="10314109" lat="48.1192551" lon="11.6867717">
+    <tag k="shop" v="doityourself"/>
+    <tag k="name" v="Praktiker Baumarkt"/>
+  </node>
+  <node id="1495219732" version="1" timestamp="2011-11-08T10:57:36Z" uid="90333" user="Quasimondo" changeset="9772144" lat="48.1492323" lon="11.542002">
+    <tag k="addr:postcode" v="80636"/>
+    <tag k="shop" v="doityourself"/>
+    <tag k="website" v="http://www.fablab-muenchen.de"/>
+    <tag k="name" v="FabLab München e.V."/>
+    <tag k="leisure" v="hackerspace"/>
+    <tag k="addr:housename" v="Rückgebäude"/>
+    <tag k="addr:street" v="Elvirastraße"/>
+    <tag k="addr:housenumber" v="11"/>
+  </node>
+</osm>
