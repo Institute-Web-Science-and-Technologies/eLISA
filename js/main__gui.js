@@ -17,42 +17,44 @@ function handleSelectPois(){
 }
 
 function setPreset(preset){
-	features_selection[0] = preset == 2;
-	features_weight[0] = 0.7;
-	features_selection[1] = preset == 1;
-	features_weight[1] = 0.1;
-	features_selection[2] = preset == 1 || preset == 3;
-	features_weight[2] = (preset == 1) ? 0.8 : 0.9;
+document.write("test");
+//	features_selection[0] = preset == 2;
+//	features_weight[0] = 0.7;
+//	features_selection[1] = preset == 1;
+//	features_weight[1] = 0.1;
+//	features_selection[2] = preset == 1 || preset == 3;
+//	features_weight[2] = (preset == 1) ? 0.8 : 0.9;
 //	features_selection[3] = preset == 3;
 //	features_weight[3] = 0.7;
 	
-	pois_selection[0] = preset == 1 || preset == 3;
-	pois_weight[0] = 0.8;
-	pois_selection[1] = preset == 1;
-	pois_weight[1] = 0.3;
-	pois_selection[2] = preset == 1 || preset == 3;
-	pois_weight[2] = 0.2;
-	pois_selection[3] = preset == 1;
-	pois_weight[3] = 0.5;
-	pois_selection[4] = preset == 2;
-	pois_weight[4] = 0.8;
-	pois_selection[5] = false;
-	pois_weight[5] = 0;
-	pois_selection[6] = preset == 1; 
-	pois_weight[6] = 0.1;
-	pois_selection[7] = false;
-	pois_weight[7] = false;
-	pois_selection[8] = preset == 1 || preset == 2;
-	pois_weight[8] = 0;
-	pois_selection[9] = preset == 1 || preset == 3;
-	pois_weight[9] = 0;
+//	pois_selection[0] = preset == 1 || preset == 3;
+//	pois_weight[0] = 0.8;
+//	pois_selection[1] = preset == 1;
+//	pois_weight[1] = 0.3;
+//	pois_selection[2] = preset == 1 || preset == 3;
+//	pois_weight[2] = 0.2;
+//	pois_selection[3] = preset == 1;
+//	pois_weight[3] = 0.5;
+//	pois_selection[4] = preset == 2;
+//	pois_weight[4] = 0.8;
+//	pois_selection[5] = false;
+//	pois_weight[5] = 0;
+//	pois_selection[6] = preset == 1; 
+//	pois_weight[6] = 0.1;
+//	pois_selection[7] = false;
+//	pois_weight[7] = false;
+//	pois_selection[8] = preset == 1 || preset == 2;
+//	pois_weight[8] = 0;
+//	pois_selection[9] = preset == 1 || preset == 3;
+//	pois_weight[9] = 0;
 	
-	for(i = 0; i< 4; i++)
-		slider_features[i].setValue(features_weight[i]*100);
-	for(i = 0; i< 10; i++)
-		slider_pois[i].setValue(pois_weight[i]*100);
+//	for(i = 0; i< 4; i++)
+//		slider_features[i].setValue(features_weight[i]*100);
+//	for(i = 0; i< 10; i++)
+//		slider_pois[i].setValue(pois_weight[i]*100);
 	
-	handleFeatureSelectionUpdate();
+	document.write("test");
+//	handleFeatureSelectionUpdate();
 }
 
 function handleFeatureSelection(){
