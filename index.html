@@ -10,6 +10,7 @@
 	<link rel="stylesheet" type="text/css" href="css/ui-lightness/jquery-ui-1.8.23.custom.css">
 	<script src="js/jquery-ui-1.8.23.custom.min.js" type="text/javascript"></script>
 	<script src="js/main.js" type="text/javascript"></script>
+	<script src="js/main__gui.js" type="text/javascript"></script>
 	<script src="js/main__vars.js" type="text/javascript"></script>
 	<script src="js/map.js" type="text/javascript"></script>
 	<script src="js/poly.js" type="text/javascript"></script>
@@ -98,6 +99,29 @@
 					<input type="checkbox" id="supermakets" /><label for="supermarkets">active</label>
 				</div>
 
+				<h2><a href="#">restaurants (from 'unimportant' to 'important')</a></h2>
+				<div>
+					<div id="slider_poi_restaurants" kind="poi" number="3" class="slider" style="width:200px;"></div>
+					<input type="checkbox" id="restaurants" /><label for="restaurants">active</label>
+				</div>
+				
+				<h2><a href="#">doctors (from 'unimportant' to 'important')</a></h2>
+				<div>
+					<div id="slider_poi_doctors" kind="poi" number="3" class="slider" style="width:200px;"></div>
+					<input type="checkbox" id="doctors" /><label for="doctors">active</label>
+				</div>
+				
+				<h2><a href="#">restaurants (from 'unimportant' to 'important')</a></h2>
+				<div>
+					<div id="slider_poi_pharmacies" kind="poi" number="3" class="slider" style="width:200px;"></div>
+					<input type="checkbox" id="pharmacies" /><label for="pharmacies">active</label>
+				</div>
+				
+				<h2><a href="#">hardware stores (from 'unimportant' to 'important')</a></h2>
+				<div>
+					<div id="slider_poi_hardwarestores" kind="poi" number="3" class="slider" style="width:200px;"></div>
+					<input type="checkbox" id="hardwarestores" /><label for="hardwarestores">active</label>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -131,14 +155,11 @@ jQuery(document).ready(function() {
 	jQuery("input[type=checkbox]").click(function() {
 		if(jQuery(this).is(":checked")) {
 			jQuery(this).button("option","label","active");
-			if(jQuery(this).attr("kind") == "feature")
-					features_weight[jQuery(this).attr("number")] = ui.value / 200;
-				else{
-					pois_weight[jQuery(this).attr("number")] = ui.value / 200;
-				}
+			features_selection[features[jQuery(this).attr("id")]] = true;
 		}
 		else {
 			jQuery(this).button("option","label","inactive");
+			features_selection[features[jQuery(this).attr("id")]] = false;
 		}
 		handleFeatureSelection();
 		handlePoisSelection();
