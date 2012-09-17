@@ -32,7 +32,7 @@ function slider_init(){
 	slider_pois[1].subscribe('slideEnd', function(){ handleSliderChange(slider_pois[1], "poi", 1); });
 	slider_pois[2] = YAHOO.widget.Slider.getHorizSlider("slider_poi_schools", "sliderthumb_poi_schools", 0, 200);
 	slider_pois[2].subscribe('slideEnd', function(){ handleSliderChange(slider_pois[2], "poi", 2); });
-	slider_pois[3] = YAHOO.widget.Slider.getHorizSlider("slider_poi_supermarkets", "sliderthumb_poi_supermarkets", 0, 200);
+	slider_pois[3] = YAHOO.widget.Slider.getHorizSlider("slider_poi_fastfood", "sliderthumb_poi_fastfood", 0, 200);
 	slider_pois[3].subscribe('slideEnd', function(){ handleSliderChange(slider_pois[3], "poi", 3); });
 	slider_pois[4] = YAHOO.widget.Slider.getHorizSlider("slider_poi_restaurants", "sliderthumb_poi_restaurants", 0, 200);
 	slider_pois[4].subscribe('slideEnd', function(){ handleSliderChange(slider_pois[4], "poi", 4); });
@@ -40,8 +40,13 @@ function slider_init(){
 	slider_pois[5].subscribe('slideEnd', function(){ handleSliderChange(slider_pois[5], "poi", 5); });
 	slider_pois[6] = YAHOO.widget.Slider.getHorizSlider("slider_poi_pharmacies", "sliderthumb_poi_pharmacies", 0, 200);
 	slider_pois[6].subscribe('slideEnd', function(){ handleSliderChange(slider_pois[6], "poi", 6); });
-	slider_pois[7] = YAHOO.widget.Slider.getHorizSlider("slider_poi_hardwarestores", "sliderthumb_poi_hardwarestores", 0, 200);
+	slider_pois[7] = YAHOO.widget.Slider.getHorizSlider("slider_poi_pubs", "sliderthumb_poi_pubs", 0, 200);
 	slider_pois[7].subscribe('slideEnd', function(){ handleSliderChange(slider_pois[7], "poi", 7); });
+	slider_pois[8] = YAHOO.widget.Slider.getHorizSlider("slider_poi_parking", "sliderthumb_poi_parking", 0, 200);
+	slider_pois[8].subscribe('slideEnd', function(){ handleSliderChange(slider_pois[8], "poi", 7); });
+	slider_pois[9] = YAHOO.widget.Slider.getHorizSlider("slider_poi_atm", "sliderthumb_poi_atm", 0, 200);
+	slider_pois[9].subscribe('slideEnd', function(){ handleSliderChange(slider_pois[9], "poi", 7); });
+
 }
 
 var tmpSema = false;
@@ -80,11 +85,13 @@ function handlePoisSelection(){
 	opener.pois_selection[0] = document.all.poi_kindergartens.checked;
 	opener.pois_selection[1] = document.all.poi_gasstations.checked;
 	opener.pois_selection[2] = document.all.poi_schools.checked;
-	opener.pois_selection[3] = document.all.poi_supermarkets.checked;
+	opener.pois_selection[3] = document.all.poi_fastfood.checked;
 	opener.pois_selection[4] = document.all.poi_restaurants.checked;
 	opener.pois_selection[5] = document.all.poi_doctors.checked;
 	opener.pois_selection[6] = document.all.poi_pharmacies.checked;
-	opener.pois_selection[7] = document.all.poi_hardwarestores.checked;
+	opener.pois_selection[7] = document.all.poi_pubs.checked;
+	opener.pois_selection[8] = document.all.poi_parking.checked;
+	opener.pois_selection[9] = document.all.poi_atm.checked;
 	opener.handlePoisSelectionUpdate();
 	window.close();
 }
@@ -106,6 +113,8 @@ function handlePoisSelectionUpdate(){
 	document.all.tr_poi_doctors.style.display = pois_selection[5] ? 'block' : 'none';
 	document.all.tr_poi_pharmacies.style.display = pois_selection[6] ? 'block' : 'none';
 	document.all.tr_poi_hardwarestores.style.display = pois_selection[7] ? 'block' : 'none';
+	document.all.tr_poi_hardwarestores.style.display = pois_selection[8] ? 'block' : 'none';
+	document.all.tr_poi_hardwarestores.style.display = pois_selection[9] ? 'block' : 'none';
 	handleUpdate(features, features_labels, features_selection, features_weight, pois, pois_labels, pois_selection, pois_weight);
 }
 
@@ -164,6 +173,14 @@ function setPreset(preset){
 
 	pois_selection[7] = false;
 	pois_weight[7] = 0;
+
+	pois_selection[8] = (preset == 1); 
+	pois_weight[8] = 0.1;
+	if(preset == 1) slider_pois[8].setValue(pois_weight[8]*200);
+
+	pois_selection[9] = (preset == 1); 
+	pois_weight[9] = 0.1;
+	if(preset == 1) slider_pois[9].setValue(pois_weight[9]*200);
 	
 	tmpSema = false;
 	

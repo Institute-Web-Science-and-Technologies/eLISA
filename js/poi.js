@@ -1,46 +1,19 @@
 var poi_cache = Array();
 
 function poi_draw(poi_options, callback) {
-	// check for missing POI data
-	var urlsToLoad = new Array();
-	for (var i=0; i<poi_options.length; i++) {
-		var poi = poi_options[i];
-
-		// add URL to load list and remove entry from poi options
-		if (poi_cache[poi.id] == null) {
-			urlsToLoad[poi_setup[poi.id].file] = poi;
-			poi_options.splice(i--, 1);
-		}
-	}
-
-	// prepare URLs for missing POI data
-	var urlList = new Array();
-	for (var i in urlsToLoad) { urlList.push(i); }
-
+	for (var i in poi_status)
+	{
 	// load and draw missing POI data
-	loadFiles(urlList, function(xmlDoc, url, done) {
-		var poi = urlsToLoad[url];
-		poi_cache[poi.id] = parsePOIs(xmlDoc);
-//		poi_cache[poi.id] = parsePOIsjson(poipub);
-		drawPoiMarker(poi.id, poi.weight);
-
-		// signal done when all POI data has been loaded
-		if (done) { callback(); }
-	});
-
-	// draw cached POI data
-	for (var i in poi_options) {
-		var poi = poi_options[i];
-		drawPoiMarker(poi.id, poi.weight);
-	}
+//debug	document.write(poi_status[i].id);
+			var poitodraw = parsePOIsjson(poi_setup[poi_status[i].id].poijson);
+			drawPoiMarker(poi_status[i].id, poitodraw, poi_status[i].weight);
+   }
 
 	// signal done if no more POIs are being loaded
-	if (urlList.length == 0) {
-		callback();
-	}
+   callback();
 }
 
-function drawPoiMarker(id, weight) {
+function drawPoiMarker(id, poitodraw, weight) {
 	// ignore POIs with zero weight
 	if (weight == 0) return;
 
@@ -51,7 +24,7 @@ function drawPoiMarker(id, weight) {
 	if (poi_cache[id] == null)
 		log(id + ' has no points');
 
-	drawGradientCircles(poi_cache[id], maxRad, maxInt);
+	drawGradientCircles(poitodraw, maxRad, maxInt);
 }
 
 /*

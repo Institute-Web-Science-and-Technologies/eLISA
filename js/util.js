@@ -40,7 +40,7 @@ function loadFiles(urlList, callback) {
 		requests.push(urlList[i]);
 
 		// do ajax request
-		$.ajax(urlList[i], {beforeSend: function(jqXHR) { jqXHR.overrideMimeType( 'text/xml; charset=UTF-8' ); }})
+		$.ajax(urlList[i], {beforeSend: function(jqXHR) { jqXHR.overrideMimeType( 'text/xml; charset=UTF-8' ); }})//
 			.done(function(data, textStatus, jqXHR) {
 				// remove request from request queue and handle result
 				requests.splice(this.url, 1);
