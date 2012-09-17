@@ -173,6 +173,7 @@ jQuery(document).ready(function() {
 	jQuery("input[type=checkbox]").click(function() {
 		if(jQuery(this).is(":checked")) {
 			jQuery(this).button("option","label","active");
+			console.log(jQuery(this).attr("kind"));
 			if(jQuery(this).attr("kind") == "poi") {
 				pois_selection[pois.indexOf(jQuery(this).attr("id"))] = true;
 			} else {
