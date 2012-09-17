@@ -6,7 +6,7 @@ var features_weight = [0,0,0,0];	// weights are in [0,1]
 var pois = ['kindergartens','gasstations','schools','fastfood','restaurants','doctors','pharmacies','pubs','parking','atm'];
 var pois_labels = ['Kinderg&auml;rten','Tankstellen','Schulen','Superm&auml;rkte','Restaurants','&Auml;rzte','Apotheken','Pubs','Parking','ATM'];
 
-var pois_selection = [true,true,true,true,true,true,true,true,true,true];
+var pois_selection = [true,true,true,false,true,true,true,true,true,true];
 var pois_weight = [0,0,0,0,0,0,0,0,0,0];	// weights are in [0,1]
 
 
