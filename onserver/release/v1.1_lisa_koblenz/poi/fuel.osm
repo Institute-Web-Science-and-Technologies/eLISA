@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis SNAPSHOT-r26564">
+  <node id="27352257" version="5" timestamp="2011-12-12T18:48:25Z" uid="114405" user="Pajopath" changeset="10101649" lat="50.3808689" lon="7.5777079">
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Shell"/>
+  </node>
+  <node id="266664989" version="4" timestamp="2011-12-30T17:29:45Z" uid="290680" user="wheelmap_visitor" changeset="10242031" lat="50.3481322" lon="7.5510081">
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Shell"/>
+  </node>
+  <node id="266696667" version="6" timestamp="2011-07-13T19:09:30Z" uid="290680" user="wheelmap_visitor" changeset="8715162" lat="50.3469006" lon="7.5065264">
+    <tag k="fuel:cng" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Esso Autohof"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Esso"/>
+  </node>
+  <node id="270663687" version="2" timestamp="2009-03-11T10:02:01Z" uid="43447" user="astersteiner" changeset="786000" lat="50.337897" lon="7.6117761">
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="283593125" version="4" timestamp="2011-10-05T22:27:51Z" uid="290680" user="wheelmap_visitor" changeset="9474855" lat="50.334558" lon="7.5829926">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="288504750" version="4" timestamp="2011-10-08T19:40:35Z" uid="290680" user="wheelmap_visitor" changeset="9499106" lat="50.3246139" lon="7.6053365">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Kölner Straße"/>
+    <tag k="addr:city" v="Lahnstein"/>
+    <tag k="operator" v="Shell"/>
+    <tag k="addr:housenumber" v="43"/>
+  </node>
+  <node id="288507060" version="5" timestamp="2010-10-22T17:02:35Z" uid="290680" user="wheelmap_visitor" changeset="6133243" lat="50.3700927" lon="7.5701212">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="ED-Tankstelle"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Trierer Straße"/>
+    <tag k="operator" v="ED"/>
+    <tag k="addr:housenumber" v="81"/>
+  </node>
+  <node id="310071334" version="4" timestamp="2011-10-05T22:19:15Z" uid="290680" user="wheelmap_visitor" changeset="9474855" lat="50.3894876" lon="7.4893631">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Agip"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Agip"/>
+  </node>
+  <node id="310415835" version="7" timestamp="2011-10-05T22:21:28Z" uid="290680" user="wheelmap_visitor" changeset="9474855" lat="50.3870998" lon="7.5551448">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Günstig Tanken"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-20:00"/>
+  </node>
+  <node id="316033195" version="4" timestamp="2011-08-18T15:12:08Z" uid="114405" user="Pajopath" changeset="9057752" lat="50.401743" lon="7.6076562">
+    <tag k="name" v="Esso"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Esso"/>
+  </node>
+  <node id="322199680" version="2" timestamp="2010-07-30T17:13:01Z" uid="44217" user="kjon" changeset="5356568" lat="50.3093009" lon="7.5065346">
+    <tag k="name" v="Bootstankstelle"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="340026830" version="2" timestamp="2012-03-11T23:31:40Z" uid="178444" user="wrifka" changeset="10949878" lat="50.3625873" lon="7.5714587">
+    <tag k="phone" v="+49 (0)261 43111"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Schlachthofstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="operator" v="TOTAL"/>
+    <tag k="addr:housenumber" v="88"/>
+  </node>
+  <node id="340026835" version="3" timestamp="2011-03-26T09:14:16Z" uid="5359" user="user_5359" changeset="7673255" lat="50.3628216" lon="7.5746347">
+    <tag k="fuel:GTL_diesel" v="yes"/>
+    <tag k="payment:fuel_cards" v="dkv"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="tenant" v="Maik Nendza"/>
+    <tag k="fuel:HGV_diesel" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="fuel:e10" v="yes"/>
+    <tag k="operator" v="ARAL"/>
+  </node>
+  <node id="403144133" version="3" timestamp="2012-03-11T23:31:38Z" uid="178444" user="wrifka" changeset="10949878" lat="50.3712101" lon="7.6454501">
+    <tag k="addr:postcode" v="56077"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="In den Sieben Morgen"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="2"/>
+  </node>
+  <node id="428840950" version="3" timestamp="2012-01-22T07:59:18Z" uid="64255" user="look4book" changeset="10462225" lat="50.37785" lon="7.61786">
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="name" v="ED"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="428840952" version="2" timestamp="2011-07-01T21:48:08Z" uid="178113" user="KO-TG" changeset="8603297" lat="50.37879" lon="7.58275">
+    <tag k="name" v="ARAL"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="428840960" version="4" timestamp="2011-10-05T22:20:26Z" uid="290680" user="wheelmap_visitor" changeset="9474855" lat="50.3941841" lon="7.5352786">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="ED"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="428840970" version="4" timestamp="2012-02-08T20:12:00Z" uid="234214" user="Anubis85" changeset="10628204" lat="50.3967367" lon="7.5129144">
+    <tag k="fuel:GTL_diesel" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="brand" v="Aral"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="fuel:e10" v="yes"/>
+    <tag k="operator" v="Martin Gehlen"/>
+  </node>
+  <node id="441936539" version="2" timestamp="2011-12-16T19:32:19Z" uid="114405" user="Pajopath" changeset="10133538" lat="50.3930353" lon="7.5719589">
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="ARAL"/>
+  </node>
+  <node id="458501369" version="5" timestamp="2011-12-11T16:24:35Z" uid="114405" user="Pajopath" changeset="10091346" lat="50.3803717" lon="7.5771937">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Shell"/>
+  </node>
+  <node id="477946561" version="1" timestamp="2009-08-30T20:48:26Z" uid="8764" user="egore911" changeset="2318922" lat="50.3564799" lon="7.588399">
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Shell"/>
+  </node>
+  <node id="479523580" version="4" timestamp="2010-08-11T15:41:14Z" uid="192395" user="BBO" changeset="5464014" lat="50.2848741" lon="7.6292146">
+    <tag k="fuel:GTL_diesel" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="name" v="Shell"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Shell"/>
+    <tag k="opening_hours" v="mo-su 8:00-22:00"/>
+    <tag k="fuel:1_25" v="yes"/>
+  </node>
+  <node id="487211163" version="6" timestamp="2012-02-18T14:03:17Z" uid="457241" user="DuProfNick" changeset="10720545" lat="50.3898546" lon="7.6783257">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="shop" v="kiosk"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="fuel:e10" v="yes"/>
+    <tag k="operator" v="Bernd Schugard"/>
+  </node>
+  <node id="512754817" version="5" timestamp="2010-03-28T11:26:34Z" uid="44217" user="kjon" changeset="4255383" lat="50.3691486" lon="7.6588764">
+    <tag k="addr:postcode" v="56077"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Markant"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Pfarrer-Kraus-Straße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="154"/>
+  </node>
+  <node id="575945106" version="5" timestamp="2011-10-08T19:43:26Z" uid="290680" user="wheelmap_visitor" changeset="9499106" lat="50.3026958" lon="7.6050386">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Hoffeller"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Gutenbergstraße"/>
+    <tag k="operator" v="Klaus Hoffeller"/>
+    <tag k="addr:housenumber" v="5"/>
+  </node>
+  <node id="648922269" version="3" timestamp="2011-01-09T23:01:42Z" uid="66835" user="protopyte" changeset="6921936" lat="50.3725615" lon="7.5287044">
+    <tag k="website" v="www.ed-tankstelle-koblenz.de"/>
+    <tag k="name" v="ED-Tankstelle"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Aachener Straße"/>
+    <tag k="operator" v="ED"/>
+    <tag k="addr:housenumber" v="15"/>
+  </node>
+  <node id="671503356" version="1" timestamp="2010-03-21T16:25:56Z" uid="234214" user="Anubis85" changeset="4193114" lat="50.3915031" lon="7.6179846">
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Aral"/>
+  </node>
+  <node id="732711871" version="4" timestamp="2011-05-30T13:22:19Z" uid="116044" user="berndw" changeset="8291981" lat="50.3916706" lon="7.5861729">
+    <tag k="addr:postcode" v="56070"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="source" v="http://www.gas-tankstellen.de"/>
+    <tag k="name" v="BfT"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Carl-Spaeter-Straße"/>
+    <tag k="addr:city" v="Koblenz-Kesselheim"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-22:00; Sa 07:00-15:00"/>
+  </node>
+  <node id="732712273" version="4" timestamp="2010-05-22T11:12:23Z" uid="5164" user="woodpeck" changeset="4773350" lat="50.3693759" lon="7.55452">
+    <tag k="addr:postcode" v="56072"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="automated" v="yes"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="source" v="http://www.gas-tankstellen.de"/>
+    <tag k="name" v="Rheingastankstelle Koblenz"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Am Metternicher Bahnhof"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="4"/>
+  </node>
+  <node id="1078854618" version="1" timestamp="2011-01-02T15:53:44Z" uid="44217" user="kjon" changeset="6839497" lat="50.3105504" lon="7.5178799">
+    <tag k="name" v="Bootstankstelle"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="ED"/>
+  </node>
+</osm>

@@ -1,0 +1,826 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis SNAPSHOT-r26564">
+  <node id="246782553" version="3" timestamp="2011-02-27T12:54:29Z" uid="323389" user="Michael_H" changeset="7410270" lat="48.1282202" lon="11.3764026">
+    <tag k="name" v="Internistische Gemeinschaftspraxis Germering"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="264004273" version="5" timestamp="2011-04-27T16:51:55Z" uid="8748" user="ToniE" changeset="7986837" lat="48.1136726" lon="11.6150533">
+    <tag k="addr:postcode" v="81669"/>
+    <tag k="phone" v="+49 89 12189586"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. med. Dorothee Westenhuber"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Aribonenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="12"/>
+  </node>
+  <node id="314992404" version="6" timestamp="2010-02-18T07:47:27Z" uid="3360" user="RalfZ" changeset="3906891" lat="48.1166838" lon="11.6564046">
+    <tag k="addr:postcode" v="81825"/>
+    <tag k="phone" v="+49 89 42 19 55"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. med. Wolfgang Hofmeister"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Bajuwarenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="opening_hours" v="Mo-Tu 09:00-12:30;Mo 16:00-18:00;Tu 16:00-19:30;Th 09:00-12:30;Th 16:00-18:00;Fr 09:00-15:00"/>
+  </node>
+  <node id="321226884" version="8" timestamp="2011-10-22T15:50:32Z" uid="8748" user="ToniE" changeset="9625241" lat="48.0741456" lon="11.6524738">
+    <tag k="addr:postcode" v="85521"/>
+    <tag k="phone" v="+49 89 6659090"/>
+    <tag k="website" v="http://www.radiologie-ottobrunn.de"/>
+    <tag k="email" v="info@radiologie-ottobrunn.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Radiologie Ottobrunn"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Haidgraben"/>
+    <tag k="addr:city" v="Ottobrunn"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="opening_hours" v="Mo-Th 08:00-18:00; Fr 08:00-16:00"/>
+  </node>
+  <node id="331170599" version="3" timestamp="2010-02-19T18:14:26Z" uid="72235" user="Basstoelpel" changeset="3917491" lat="48.1983772" lon="11.5449687">
+    <tag k="name" v="Dr. San Nicolò Overbeck"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="331568574" version="7" timestamp="2010-04-15T15:35:13Z" uid="70696" user="xybot" changeset="4431179" lat="48.142321" lon="11.5883981">
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="phone" v="+49 89 21939575"/>
+    <tag k="website" v="http://tibez.de"/>
+    <tag k="email" v="info@tibez.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="subject" v="psychotherapy"/>
+    <tag k="name" v="Dr.med. Carl Thora"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Wagmüllerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="note" v="Tinitus Beratungszentrum"/>
+    <tag k="addr:housenumber" v="21"/>
+  </node>
+  <node id="331579778" version="6" timestamp="2009-07-27T11:17:08Z" uid="42123" user="Ropino" changeset="1953907" lat="48.1424122" lon="11.5883841">
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="phone" v="+49 89 292305"/>
+    <tag k="level" v="3"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="subject" v="physiotherapy"/>
+    <tag k="name" v="Gudrun Mayer"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Wagmüllerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="21"/>
+  </node>
+  <node id="331603030" version="6" timestamp="2009-08-03T13:35:05Z" uid="31231" user="Andre68" changeset="2025045" lat="48.1408627" lon="11.5897318">
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="phone" v="+49 89 297063"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="subject" v="eye_doctor"/>
+    <tag k="name" v="Dr. med. Kai Raithel"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Liebigstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="10b"/>
+    <tag k="opening_hours" v="Mo,We,Fr 09:00-12:00; Tu 14:00-18:00; Th 09:00-12:00,14:00-18:00"/>
+  </node>
+  <node id="332292002" version="5" timestamp="2009-07-27T11:17:14Z" uid="42123" user="Ropino" changeset="1953907" lat="48.1399823" lon="11.589679">
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="phone" v="+49 89 97343379"/>
+    <tag k="website" v="http://osteopathie.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="subject" v="osteopathy"/>
+    <tag k="name" v="Osteopathie im Lehel"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="3"/>
+  </node>
+  <node id="335168229" version="1" timestamp="2009-01-22T09:45:23Z" uid="93534" user="Retz" changeset="823225" lat="48.1390381" lon="11.5394328">
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="339255715" version="4" timestamp="2009-08-07T09:46:38Z" uid="31231" user="Andre68" changeset="2063492" lat="48.1414313" lon="11.5874577">
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="phone" v="+49 89 292424"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="subject" v="general_medicine"/>
+    <tag k="name" v="Britta Vrieslander"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Liebigstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="opening_hours" v="Mo 09:00-12:00,17:00-19:00; Tu,Fr 09:00-12:00; We 09:00-11:00,15:00-17:00; Th 15:00-17:00"/>
+  </node>
+  <node id="341387487" version="5" timestamp="2011-10-16T07:19:16Z" uid="290680" user="wheelmap_visitor" changeset="9569216" lat="48.1662231" lon="11.6566176">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="349128619" version="2" timestamp="2010-02-20T14:11:07Z" uid="72235" user="Basstoelpel" changeset="3923855" lat="48.1977129" lon="11.5457084">
+    <tag k="addr:postcode" v="80935"/>
+    <tag k="name" v="Dr. Agnes Homann"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Glockenblumenstraße"/>
+    <tag k="addr:housenumber" v="36"/>
+  </node>
+  <node id="383909161" version="6" timestamp="2011-10-18T20:13:56Z" uid="290680" user="wheelmap_visitor" changeset="9587957" lat="48.1693971" lon="11.5936333">
+    <tag k="addr:postcode" v="80805"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Drs. med. Herold"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Ungererstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="90"/>
+  </node>
+  <node id="383909162" version="7" timestamp="2011-10-18T20:14:57Z" uid="290680" user="wheelmap_visitor" changeset="9587957" lat="48.1694071" lon="11.5936418">
+    <tag k="addr:postcode" v="80805"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. med. Ch. Mühlbacher-Nickl"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Ungererstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="90"/>
+  </node>
+  <node id="390082538" version="8" timestamp="2012-01-02T08:26:16Z" uid="287306" user="Matthias Frank" changeset="10268228" lat="48.1509276" lon="11.5740586">
+    <tag k="name" v="Dr. Anneliese Klaus"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="390083940" version="6" timestamp="2012-01-02T08:08:13Z" uid="287306" user="Matthias Frank" changeset="10268228" lat="48.1512383" lon="11.5730421">
+    <tag k="name" v="Dr. med. Tigris Seyfarth"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="414178361" version="3" timestamp="2010-10-01T14:33:27Z" uid="290680" user="wheelmap_visitor" changeset="5928465" lat="48.0659165" lon="11.6141102">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Ärztehaus"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="419974586" version="3" timestamp="2009-06-13T23:23:04Z" uid="108674" user="Infoman" changeset="1509324" lat="48.179956" lon="11.5111511">
+    <tag k="name" v="Kinder-Zahnarzt-Praxis &quot;Kinderlächeln&quot;"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="427236783" version="5" timestamp="2009-10-03T18:39:48Z" uid="179968" user="Ich_hasse_doitsche_OSM-Korinthenkacker" changeset="2727120" lat="48.077539" lon="11.5267157">
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="445826209" version="1" timestamp="2009-07-22T20:28:09Z" uid="20244" user="Jeffrey Ratcliffe" changeset="1908463" lat="48.0880279" lon="11.5202962">
+    <tag k="name" v="Thielemann"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="448856455" version="3" timestamp="2009-07-27T12:31:21Z" uid="42123" user="Ropino" changeset="1954498" lat="48.167592" lon="11.4702192">
+    <tag k="website" v="http://www.drbrand.de/"/>
+    <tag k="name" v="Dr. med. Claudia Brand u. Dr. med. Giselher Brand"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="450168728" version="2" timestamp="2010-11-07T01:11:23Z" uid="290680" user="wheelmap_visitor" changeset="6300162" lat="48.0907802" lon="11.5565153">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Dres. med. Zenkel &amp; Ulbrich"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="473777399" version="4" timestamp="2009-10-03T18:37:11Z" uid="179968" user="Ich_hasse_doitsche_OSM-Korinthenkacker" changeset="2727120" lat="48.0717131" lon="11.529688">
+    <tag k="name" v="Villa Med"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="497223782" version="3" timestamp="2009-10-31T20:17:40Z" uid="51782" user="maxbe" changeset="3001042" lat="48.1687641" lon="11.713136">
+    <tag k="addr:postcode" v="85609"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Pohl, Daniel, Patrick, Wolfgang"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Merowingerstraße"/>
+    <tag k="addr:city" v="Aschheim"/>
+    <tag k="addr:housenumber" v="9"/>
+  </node>
+  <node id="532673466" version="3" timestamp="2011-10-07T20:16:59Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.082447" lon="11.5045382">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Facharztzentrum Süd"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="626565050" version="1" timestamp="2010-02-02T12:53:39Z" uid="39803" user="Harti" changeset="3775299" lat="48.110354" lon="11.6774197">
+    <tag k="name" v="Dr. hermann-Weisser"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-10:00"/>
+  </node>
+  <node id="627854895" version="1" timestamp="2010-02-03T18:12:54Z" uid="224490" user="Geo-Tobi" changeset="3784882" lat="48.1062896" lon="11.5224571">
+    <tag k="name" v="Dr. Maria Lang"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="654252804" version="2" timestamp="2011-04-06T12:39:28Z" uid="47544" user="SveLil" changeset="7784546" lat="48.1218808" lon="11.5267155">
+    <tag k="name" v="Dr. med. Claus-Michael Grimm; Dr. Gunther Penzel"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="656323135" version="2" timestamp="2011-10-18T12:17:34Z" uid="290680" user="wheelmap_visitor" changeset="9587957" lat="48.2013063" lon="11.5469043">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="K. E. Banhardt"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="662395222" version="1" timestamp="2010-03-07T17:29:22Z" uid="72235" user="Basstoelpel" changeset="4063702" lat="48.2011845" lon="11.5379229">
+    <tag k="name" v="Laszlo Selinger;Dierk Poppert, Christine Schmidt-Poppert"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Franz-Sperr-Weg"/>
+    <tag k="specialization" v="Cardiology;Internist; Psychosomatry"/>
+    <tag k="addr:housenumber" v="11"/>
+  </node>
+  <node id="662525295" version="2" timestamp="2011-10-25T20:04:59Z" uid="290680" user="wheelmap_visitor" changeset="9650151" lat="48.198021" lon="11.5346475">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Michael Achatz;Andreas Heigert;Orest Marko Mialkowskyi"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="specialization" v="General medicin"/>
+  </node>
+  <node id="699805205" version="4" timestamp="2011-08-19T00:19:04Z" uid="56526" user="JJ Rammerl" changeset="9061768" lat="48.1378855" lon="11.573877">
+    <tag k="addr:postcode" v="80331"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Privatpraxis am Dom"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Frauenplatz"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="7"/>
+  </node>
+  <node id="703266523" version="2" timestamp="2011-02-03T20:12:19Z" uid="8748" user="ToniE" changeset="7177410" lat="48.1386911" lon="11.5746794">
+    <tag k="name" v="Cristopher Ofenstein MFT"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="note" v="ganzheitliche Persönlichkeitsentwicklung"/>
+  </node>
+  <node id="703294126" version="1" timestamp="2010-04-21T15:41:13Z" uid="65148" user="tixuwuoz" changeset="4487685" lat="48.1378653" lon="11.5738728">
+    <tag k="name" v="Dr. Med. Trapmann"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="note" v="Naturheil;Akopunktur;PräventivmedizienChirotherapie"/>
+  </node>
+  <node id="703294127" version="1" timestamp="2010-04-21T15:41:13Z" uid="65148" user="tixuwuoz" changeset="4487685" lat="48.1378416" lon="11.5738644">
+    <tag k="name" v="Hechler"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="note" v="Schmerztherapie;Handchirugie u.a."/>
+  </node>
+  <node id="714308714" version="1" timestamp="2010-04-30T23:49:35Z" uid="46472" user="sendelhorst" changeset="4571023" lat="48.0988396" lon="11.523421">
+    <tag k="name" v="Verschiedene Arztpraxen"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="790030207" version="2" timestamp="2010-07-24T09:11:13Z" uid="31231" user="Andre68" changeset="5301852" lat="48.1626465" lon="11.5230939">
+    <tag k="addr:postcode" v="80638"/>
+    <tag k="website" v="http://www.naturheilpraxis-schridde.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Naturheilpraxis Schridde"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Klugstraße"/>
+    <tag k="addr:city" v="München"/>
+  </node>
+  <node id="803755685" version="2" timestamp="2010-09-26T20:41:46Z" uid="65148" user="tixuwuoz" changeset="5885620" lat="48.1409649" lon="11.5625831">
+    <tag k="description" v="Unfallschirurgie, Chirurgie, D-Arztpraxis der Berufsgenossenschaft, Sportmedizin, Chirotherapie, ambulante und stationäre operative Chirurgie"/>
+    <tag k="name" v="Orthopädie Elisenhof"/>
+    <tag k="contact:phone" v="+49 89 5490780"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="opening_hours" v="Mo-Tu 08:00-19:00; Th 08:00-19:00; We 07:00-18:00; Fr 07:00-14:00"/>
+  </node>
+  <node id="803755686" version="2" timestamp="2010-09-26T20:42:02Z" uid="65148" user="tixuwuoz" changeset="5885620" lat="48.140947" lon="11.5625724">
+    <tag k="description" v="Dr. med. G. O. Breyer, Dr. med. K. Kuris, Dipl.-Psych. D. Mernitz, Dr. med. F. Powitz"/>
+    <tag k="name" v="Pneumologie Elisenhof"/>
+    <tag k="contact:phone" v="+49 89 5525530"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="opening_hours" v="Mo-Tu 08:00-12:00, 13:00-18:00; We 08:00-14:00; Th 08:00-12:00, 13:00-18:00; Fr 08:00-14:00"/>
+  </node>
+  <node id="853161792" version="4" timestamp="2011-07-18T16:22:29Z" uid="338611" user="marek kleciak" changeset="8760078" lat="48.249513" lon="11.647166">
+    <tag k="addr:postcode" v="85748"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. Röntsch"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Schleißheimer Straße"/>
+    <tag k="addr:city" v="Garching"/>
+    <tag k="addr:housenumber" v="17"/>
+  </node>
+  <node id="869949981" version="1" timestamp="2010-08-20T08:33:23Z" uid="8748" user="ToniE" changeset="5541850" lat="48.0611701" lon="11.6614183">
+    <tag k="phone" v="+49 89 6083376"/>
+    <tag k="name" v="Dr. med. Konstanze Oversohl, Dr. med. Klaus Oversohl"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="869949987" version="10" timestamp="2011-09-28T17:55:32Z" uid="8748" user="ToniE" changeset="9421465" lat="48.0642923" lon="11.6630284">
+    <tag k="phone" v="+49 89 6097066"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Aufzug"/>
+    <tag k="name" v="Dr. med. Peter Conrad"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="wheelchair:description:en" v="Lift"/>
+    <tag k="wheelchair:description:de" v="Aufzug"/>
+    <tag k="note" v="Praktische Arzt"/>
+    <tag k="opening_hours" v="Mo-We 08:00-12:30,15:00-18:00; Th 08:00-12:30; Fr 08:00-12:00,14:00-16:00"/>
+  </node>
+  <node id="884575365" version="1" timestamp="2010-08-28T14:34:05Z" uid="323389" user="Michael_H" changeset="5616610" lat="48.1322503" lon="11.3614442">
+    <tag k="name" v="HNO-Praxis Gabriele Wierlacher"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="884575370" version="1" timestamp="2010-08-28T14:34:05Z" uid="323389" user="Michael_H" changeset="5616610" lat="48.1327816" lon="11.3610766">
+    <tag k="name" v="Arnold/Göldel/Mittermüller/Obermüller"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="884575375" version="1" timestamp="2010-08-28T14:34:05Z" uid="323389" user="Michael_H" changeset="5616610" lat="48.1328008" lon="11.3611413">
+    <tag k="name" v="Dr. med. Heike Schulz"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="888551477" version="2" timestamp="2011-01-10T15:51:14Z" uid="382934" user="NepoMUC69" changeset="6927589" lat="48.1412969" lon="11.5632082">
+    <tag k="name" v="Techniker Krankenkasse, Ärztehaus"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="888984218" version="6" timestamp="2011-02-27T17:28:16Z" uid="81983" user="Ogmios" changeset="7413141" lat="48.1603947" lon="11.5662077">
+    <tag k="addr:postcode" v="80796"/>
+    <tag k="contact:email" v="mail@allgemeinmedizin-schwabing.de"/>
+    <tag k="contact:fax" v="+49-89-27375019"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. med. Margit Süßmann Privatärztliche Praxis"/>
+    <tag k="contact:website" v="http://www.allgemeinmedizin-schwabing.de/"/>
+    <tag k="contact:phone" v="+49-89-273750-18"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Horscheltstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Dr. med. Margit Süßmann"/>
+  </node>
+  <node id="895627310" version="2" timestamp="2010-09-26T20:41:49Z" uid="65148" user="tixuwuoz" changeset="5885620" lat="48.1593266" lon="11.6401369">
+    <tag k="speciality" v="otolaryngology"/>
+    <tag k="name" v="Dr. Med. H.-P. Stillenmunkes"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="opening_hours" v="Mo-Th 07:30-12:00, 15:00-18:00; Fr 07:30-12:00"/>
+    <tag k="healthcare" v="physician"/>
+  </node>
+  <node id="899224740" version="3" timestamp="2011-03-27T09:31:07Z" uid="323389" user="Michael_H" changeset="7683802" lat="48.1332226" lon="11.3758288">
+    <tag k="addr:postcode" v="82110"/>
+    <tag k="website" v="http://www.augenzentrum-bayern.de/wir-ueber-uns/standorte/augenzentrum-germering/"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Augenzentrum Germering"/>
+    <tag k="FIXME" v="Das Augenzentrum soll Anfang 2011 umziehen"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Luitpoldstraße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="addr:housenumber" v="14"/>
+  </node>
+  <node id="933515517" version="1" timestamp="2010-10-01T16:44:25Z" uid="323389" user="Michael_H" changeset="5929492" lat="48.1254196" lon="11.3659635">
+    <tag k="name" v="Dr. med. Florian Bauer"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="956233883" version="1" timestamp="2010-10-18T18:20:33Z" uid="43190" user="DSkywalker" changeset="6085027" lat="48.073898" lon="11.604807">
+    <tag k="phone" v="0896117941"/>
+    <tag k="description" v="Allgemeinmedizin, Homöopathie, Akupunktur"/>
+    <tag k="name" v="Dr. med. Peter Schlosser &amp; Marianne Stadler-Newid"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Münchner Straße"/>
+    <tag k="addr:housenumber" v="60"/>
+  </node>
+  <node id="956240504" version="2" timestamp="2010-10-18T18:36:38Z" uid="43190" user="DSkywalker" changeset="6085027" lat="48.072561" lon="11.605892">
+    <tag k="phone" v="0896113849"/>
+    <tag k="description" v="Hautarzt"/>
+    <tag k="name" v="Dr. med. Sven Hawerkamp"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Münchner Straße"/>
+    <tag k="addr:housenumber" v="48"/>
+  </node>
+  <node id="956244059" version="3" timestamp="2011-02-05T16:40:36Z" uid="8748" user="ToniE" changeset="7194421" lat="48.0724591" lon="11.6059927">
+    <tag k="phone" v="089618989"/>
+    <tag k="description" v="Internist, Kardiologe, Angiologe"/>
+    <tag k="name" v="Dr. med. Michael Heinz"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Münchner Straße"/>
+    <tag k="addr:housenumber" v="48"/>
+  </node>
+  <node id="956249024" version="1" timestamp="2010-10-18T18:33:29Z" uid="43190" user="DSkywalker" changeset="6085027" lat="48.071808" lon="11.606917">
+    <tag k="phone" v="089619588"/>
+    <tag k="description" v="Allgemeinmedizin, Naturheilverfahren"/>
+    <tag k="name" v="Dr. med. Tobias Lerner"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Münchner Straße"/>
+    <tag k="addr:housenumber" v="42"/>
+  </node>
+  <node id="957103151" version="2" timestamp="2010-10-19T19:40:40Z" uid="70696" user="xybot" changeset="6102506" lat="48.069125" lon="11.611671">
+    <tag k="name" v="Dr. med. Nikola Seidel"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Fasanenstraße"/>
+    <tag k="addr:housenumber" v="8b"/>
+  </node>
+  <node id="957104544" version="2" timestamp="2010-10-19T19:40:41Z" uid="70696" user="xybot" changeset="6102506" lat="48.069161" lon="11.61166">
+    <tag k="name" v="Gerhard Hachinger"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Fasanenstraße"/>
+    <tag k="addr:housenumber" v="8b"/>
+  </node>
+  <node id="957266451" version="4" timestamp="2011-10-07T17:18:50Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.0794284" lon="11.6067761">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="description" v="Allgemeinmedizin"/>
+    <tag k="name" v="Gemeinschaftspraxis Straßburg &amp; Frisch"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Parkstraße"/>
+    <tag k="addr:housenumber" v="19"/>
+  </node>
+  <node id="992563331" version="2" timestamp="2011-02-03T20:42:41Z" uid="8748" user="ToniE" changeset="7177710" lat="48.0652028" lon="11.6140345">
+    <tag k="website" v="http://www.drkerler.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. Kerler"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Albrecht-Dürer-Straße"/>
+    <tag k="addr:city" v="Unterhaching"/>
+    <tag k="addr:housenumber" v="1a"/>
+  </node>
+  <node id="996804516" version="2" timestamp="2011-01-21T19:57:25Z" uid="290680" user="wheelmap_visitor" changeset="7042238" lat="48.1351925" lon="11.3764807">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Nóra Szabó-Preiß"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="1008177088" version="2" timestamp="2011-06-03T11:54:51Z" uid="8748" user="ToniE" changeset="8328809" lat="48.0629565" lon="11.6629044">
+    <tag k="phone" v="+49 89 6096606"/>
+    <tag k="name" v="Dr.med. Karl Hans Joseph"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="note:de" v="Arzt für Allgemeinmedizin"/>
+    <tag k="opening_hours" v="Mo-Th 10:00-12:00,15:00-17:00; We 10:00-12:00,15:00-19:00; Fr 10:00-12:00"/>
+  </node>
+  <node id="1008432047" version="3" timestamp="2011-06-19T12:05:25Z" uid="8748" user="ToniE" changeset="8483246" lat="48.0642745" lon="11.6645954">
+    <tag k="phone" v="+49 89 6085184"/>
+    <tag k="name" v="Praxis für Traditionelle Chinesische Medizin, Franziska Kohlmüller"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="1043669734" version="4" timestamp="2011-08-24T21:32:47Z" uid="56526" user="JJ Rammerl" changeset="9116860" lat="48.1491258" lon="11.5588156">
+    <tag k="addr:postcode" v="80335"/>
+    <tag k="phone" v="(089)57004426"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Pharmazentrum München"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Dachauer Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="70"/>
+  </node>
+  <node id="1061614986" version="2" timestamp="2011-02-22T19:21:34Z" uid="367380" user="Mloni" changeset="7366512" lat="48.1396334" lon="11.5628673">
+    <tag k="name" v="Dr.Alschibaja"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="1061619197" version="2" timestamp="2011-01-31T01:32:16Z" uid="342705" user="KLMB" changeset="7141606" lat="48.1313685" lon="11.5880929">
+    <tag k="name" v="Dr.Vogel"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="1066578362" version="4" timestamp="2011-12-29T03:58:48Z" uid="64164" user="osmkurt" changeset="10232080" lat="48.1153641" lon="11.5793621">
+    <tag k="name" v="Dr. med. Siepmann"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="1071605149" version="1" timestamp="2010-12-29T21:38:20Z" uid="287645" user="Don Kostino" changeset="6803737" lat="48.1813469" lon="11.5293843">
+    <tag k="name" v="AOK &amp; Ärtzte"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="note" v="29-DEZ-10 21:48:38"/>
+  </node>
+  <node id="1085317662" version="6" timestamp="2011-05-23T22:10:11Z" uid="51782" user="maxbe" changeset="8231068" lat="48.1384125" lon="11.5812563">
+    <tag k="addr:postcode" v="80331"/>
+    <tag k="phone" v="+4989232392990"/>
+    <tag k="website" v="http://www.dr-hierl.net"/>
+    <tag k="email" v="info@dr-hierl.net"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="description" v="Privatpraxis für Kardiologie und Innere Medizin"/>
+    <tag k="name" v="Dr. Alexander Hierl"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:housename" v="Privatpraxis für Kardiologie und Innere Medizin - Dr. Hierl"/>
+    <tag k="addr:street" v="Am Kosttor"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="1"/>
+  </node>
+  <node id="1085326360" version="5" timestamp="2011-05-23T22:13:42Z" uid="51782" user="maxbe" changeset="8231091" lat="48.1171048" lon="11.5389845">
+    <tag k="addr:postcode" v="80331"/>
+    <tag k="phone" v="+498974118918"/>
+    <tag k="website" v="http://www.dr-hierl.net"/>
+    <tag k="email" v="info@dr-hierl.net"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="description" v="Kardiologe und Internist"/>
+    <tag k="name" v="Privatpraxis für Kardiologie und Innere Medizin - Dr. Hierl"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Albert-Roßhaupter-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Dr. Alexander Hierl"/>
+    <tag k="addr:housenumber" v="2"/>
+  </node>
+  <node id="1085677367" version="7" timestamp="2011-12-19T22:33:49Z" uid="6367" user="mackerski" changeset="10159840" lat="48.1575866" lon="11.58656">
+    <tag k="addr:postcode" v="80802"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="Stufe"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Munich Detal Clinic"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Trautenwolfstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="8"/>
+  </node>
+  <node id="1100815762" version="8" timestamp="2012-01-04T03:12:20Z" uid="64164" user="osmkurt" changeset="10287689" lat="48.1338966" lon="11.5833831">
+    <tag k="office" v="physician"/>
+    <tag k="health_facility:type" v="office"/>
+    <tag k="addr:postcode" v="80331"/>
+    <tag k="website" v="http://www.opai.de"/>
+    <tag k="health_specialty:chiropractic" v="yes"/>
+    <tag k="contact:phone" v="+49 89 2112110"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Isartorplatz"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="health_specialty:sports_medicine" v="yes"/>
+    <tag k="day_surgery" v="yes"/>
+    <tag k="medical_system:western" v="yes"/>
+    <tag k="health_specialty:orthopaedics" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Orthopädische Praxis am Isartor"/>
+    <tag k="health_specialty:acupuncture" v="yes"/>
+  </node>
+  <node id="1138722199" version="2" timestamp="2011-02-15T12:13:57Z" uid="293774" user="Oli-Wan" changeset="7294326" lat="48.1320087" lon="11.5641673">
+    <tag k="phone" v="+49 89 268543"/>
+    <tag k="healthcare:speciality" v="pulmonology"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="operator" v="Dr. med. M. Kamaterou-Munker"/>
+    <tag k="opening_hours" v="Mo-Th 09:00-12:00; Mo, Tu, Th 16:00-19:00"/>
+    <tag k="healthcare" v="doctor"/>
+  </node>
+  <node id="1138722202" version="2" timestamp="2011-02-06T09:28:27Z" uid="42875" user="burnus" changeset="7200694" lat="48.1315327" lon="11.565723">
+    <tag k="addr:postcode" v="80337"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Augsburgerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="healthcare" v="centre"/>
+  </node>
+  <node id="1138722205" version="1" timestamp="2011-02-06T08:37:59Z" uid="42875" user="burnus" changeset="7200694" lat="48.1326647" lon="11.5653885">
+    <tag k="phone" v="+49 89 2606262"/>
+    <tag k="healthcare:speciality" v="dental_oral_maxillo_facial_surgery"/>
+    <tag k="name" v="Dr. med. Werner Zeintl"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="healthcare" v="doctor"/>
+  </node>
+  <node id="1138788474" version="1" timestamp="2011-02-06T09:28:23Z" uid="42875" user="burnus" changeset="7200694" lat="48.1315971" lon="11.5657391">
+    <tag k="addr:postcode" v="80337"/>
+    <tag k="healthcare:speciality" v="internal"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. Monika Willer-Neff"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Augsburgerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="healthcare" v="doctor"/>
+  </node>
+  <node id="1138788475" version="1" timestamp="2011-02-06T09:28:23Z" uid="42875" user="burnus" changeset="7200694" lat="48.1316009" lon="11.5657225">
+    <tag k="addr:postcode" v="80337"/>
+    <tag k="healthcare:speciality" v="internal"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Augsburgerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Dr. Hans G. Krezdorn"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="healthcare" v="doctor"/>
+  </node>
+  <node id="1138788485" version="1" timestamp="2011-02-06T09:28:24Z" uid="42875" user="burnus" changeset="7200694" lat="48.1315933" lon="11.5657713">
+    <tag k="addr:postcode" v="80337"/>
+    <tag k="contact:fax" v="+49 89 267345"/>
+    <tag k="phone" v="+49 89 2604420"/>
+    <tag k="healthcare:speciality" v="internal"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. med. Knut Pfeiffer"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Augsburgerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="opening_hours" v="Mo-Th 08:00-12:30,14:00-18:00"/>
+  </node>
+  <node id="1138788494" version="2" timestamp="2011-06-27T22:31:05Z" uid="81983" user="Ogmios" changeset="8567142" lat="48.1311425" lon="11.5687214">
+    <tag k="website" v="http://www.glockenbachpraxis.de/"/>
+    <tag k="name" v="Glockenbachpraxis"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="healthcare" v="centre"/>
+  </node>
+  <node id="1138788520" version="1" timestamp="2011-02-06T09:28:26Z" uid="42875" user="burnus" changeset="7200694" lat="48.1315933" lon="11.5657552">
+    <tag k="addr:postcode" v="80337"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. Helena Krezdorn"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Augsburgerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="healthcare" v="alternative"/>
+  </node>
+  <node id="1138814232" version="1" timestamp="2011-02-06T09:50:48Z" uid="42875" user="burnus" changeset="7200694" lat="48.127315" lon="11.5692361">
+    <tag k="healthcare:speciality" v="internal"/>
+    <tag k="name" v="Dr. med. Diana von Welser"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-13:00; Tu,Th 14:00-16:00"/>
+  </node>
+  <node id="1138814238" version="1" timestamp="2011-02-06T09:50:49Z" uid="42875" user="burnus" changeset="7200694" lat="48.1273328" lon="11.5692367">
+    <tag k="healthcare:speciality" v="internal"/>
+    <tag k="name" v="Prof. Dr. med. Dietrich Hepp"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-13:00; Tu,Th 14:00-16:00"/>
+    <tag k="healthcare" v="doctor"/>
+  </node>
+  <node id="1139202894" version="1" timestamp="2011-02-06T14:44:31Z" uid="8748" user="ToniE" changeset="7204403" lat="48.0638393" lon="11.6627663">
+    <tag k="name" v="Dr. med. Andrea Dornaus"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="note" v="Allgemeinärztin, Chirotherapie, Naturheilkunde, Akupunktur"/>
+    <tag k="opening_hours" v="Mo,We,Fr 08:30-12:30; Th 08:30-12:30,16:00-18:30"/>
+  </node>
+  <node id="1139202922" version="1" timestamp="2011-02-06T14:44:33Z" uid="8748" user="ToniE" changeset="7204403" lat="48.0638204" lon="11.6627785">
+    <tag k="phone" v="+49 89 6106676"/>
+    <tag k="name" v="Dr. med. Harald K. Müller"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="note" v="Internist"/>
+    <tag k="opening_hours" v="Mo,Th 09:00-12:30,15:00-17:30; Tu 07:00-12:30,15:00-17:30; Fr 09:00-12:30"/>
+  </node>
+  <node id="1139202932" version="2" timestamp="2011-09-28T17:55:33Z" uid="8748" user="ToniE" changeset="9421465" lat="48.0643127" lon="11.6630119">
+    <tag k="phone" v="+49 89 6097064"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Aufzug"/>
+    <tag k="name" v="Dr.Dr. Uwe B. Siedow, Dr. Boris Kornetzky"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="wheelchair:description:en" v="Lift"/>
+    <tag k="wheelchair:description:de" v="Aufzug"/>
+    <tag k="note" v="Fachärtzte für Orthopädie, Unfallärzte"/>
+    <tag k="opening_hours" v="Mo-Th 09:00-12:00,15:00-17:00; Fr 09:00-12:00"/>
+  </node>
+  <node id="1144060208" version="1" timestamp="2011-02-09T17:11:34Z" uid="336643" user="BigBen2003" changeset="7237967" lat="48.1549675" lon="11.6303108">
+    <tag k="name" v="Dr. med Helmut Hager - Orthopädie, Physiotherapie"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="1144060354" version="1" timestamp="2011-02-09T17:11:39Z" uid="336643" user="BigBen2003" changeset="7237967" lat="48.1542438" lon="11.630433">
+    <tag k="name" v="Dr. med. Hans Joachin Lüddeke - Arzt für Innere Medizin Endokrinologie und Diabetologie"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="1154506486" version="3" timestamp="2011-12-25T21:45:06Z" uid="290680" user="wheelmap_visitor" changeset="10197936" lat="48.1495857" lon="11.4593099">
+    <tag k="addr:postcode" v="81241"/>
+    <tag k="phone" v="+49 89 288526 0"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Ärztepunkt Pasing"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Kaflerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="opening_hours" v="Mo-Th 07:00-20:00; Fr 07:00-17:00"/>
+  </node>
+  <node id="1159537678" version="2" timestamp="2011-12-29T14:47:50Z" uid="290680" user="wheelmap_visitor" changeset="10232645" lat="48.1194307" lon="11.58362">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Praxiszentrum St.Bonifazuis-Straße 5"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="1224690349" version="1" timestamp="2011-03-29T21:00:31Z" uid="429204" user="maxiikiing" changeset="7710909" lat="48.2415641" lon="11.4418754">
+    <tag k="name" v="Zahnarzt Dr.Käufl"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="1225723677" version="3" timestamp="2011-10-14T14:37:02Z" uid="290680" user="wheelmap_visitor" changeset="9552229" lat="48.1767646" lon="11.4065616">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Hausärztliche Gemeinschaftspraxis"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="1313388054" version="2" timestamp="2011-06-06T19:47:20Z" uid="336643" user="BigBen2003" changeset="8363871" lat="48.1161928" lon="11.5263864">
+    <tag k="phone" v="+49 (0) 89 / 7 69 22 65"/>
+    <tag k="name" v="Dr. med. Ayman Mahdi-Joest"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="note" v="Di. Vormittag Operationen - Di. Nachmittag: 16:00 - 19:00"/>
+    <tag k="opening_hours" v="Mo,Th 08:30-12:30,15:00-18:30; We,Fr 08:30-13:00"/>
+    <tag k="doctor" v="ORL, chirurg, audit,plastical Operations, allergy"/>
+  </node>
+  <node id="1319768840" version="1" timestamp="2011-06-11T07:20:23Z" uid="336643" user="BigBen2003" changeset="8403417" lat="48.1553994" lon="11.6373177">
+    <tag k="addr:postcode" v="81927"/>
+    <tag k="phone" v="+49 (0) 89/93 50 41"/>
+    <tag k="fax" v="+49 (0) 89/93 93 30 45"/>
+    <tag k="website" v="http://dr-keydel.de/"/>
+    <tag k="layer" v="1"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Wilhelm-Dieß-Weg"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="opening_hours" v="Mo,Tu 08:30-12:45,15:00-18:45; We 08:30-12:45; Th 08:30-12:45,15:00-18:30; Fr 08:30-13:00"/>
+    <tag k="email" v="orthopaedie@dr-keydel.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. med. Markus Keydel"/>
+    <tag k="FIXME" v="Facharzt: Orthopädie"/>
+  </node>
+  <node id="1363204217" version="4" timestamp="2011-12-11T17:12:59Z" uid="290680" user="wheelmap_visitor" changeset="10086894" lat="48.1433044" lon="11.6045116">
+    <tag k="addr:postcode" v="81679"/>
+    <tag k="phone" v="+49 (0) 89/913 191"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. med. Michael Roth"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Cuvilliésstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="14a"/>
+  </node>
+  <node id="1377925515" version="10" timestamp="2011-08-04T18:04:33Z" uid="495268" user="WLG" changeset="8921811" lat="48.1538799" lon="11.5846215">
+    <tag k="addr:postcode" v="80802"/>
+    <tag k="phone" v="089 393979"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="Zahnarztpraxis. kein Rolli-WC, Räume sonst voll rollstuhltauglich. Achtung: Behindertenparkplatz dort ist privat und darf  keines fallsbeparkt werden ( es wird abgeschleppt ) !!"/>
+    <tag k="name" v="Dr.Dr.Brader"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Ohmstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="8"/>
+  </node>
+  <node id="1377967371" version="3" timestamp="2011-08-22T09:16:48Z" uid="495268" user="WLG" changeset="9092065" lat="48.1538978" lon="11.5846083">
+    <tag k="addr:postcode" v="80802"/>
+    <tag k="phone" v="089 398302"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="Internistin, Hausarzt, Diabetologin, DDG.. Praxisräume außer Labor rollstuhlzugänglich. Kein Rolli-WC. Achtung: Behindertenparkplatz dort ist privat  ( nicht beparken, es wird abgescleppt !! )"/>
+    <tag k="name" v="Dr. Kroder"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Ohmstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="8"/>
+  </node>
+  <node id="1377981470" version="4" timestamp="2011-08-04T18:05:34Z" uid="495268" user="WLG" changeset="8921811" lat="48.1538748" lon="11.5846756">
+    <tag k="addr:postcode" v="80802"/>
+    <tag k="phone" v="089 398302"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="Internistin, Hausarzt, Diabetologin, DDG.. Praxisräume außer Labor rollstuhlzugänglich. Kein Rolli-WC. Achtung: Behindertenparkplatz  dort ist privat und darf keinesfalls beparkt werden! ( es wird abgeschleppt !!)"/>
+    <tag k="name" v="Dr. Kroder"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Ohmstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="8"/>
+  </node>
+  <node id="1381982920" version="2" timestamp="2011-08-04T18:06:35Z" uid="495268" user="WLG" changeset="8921811" lat="48.1567835" lon="11.5837746">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="kleinere Schwelle am Hauseingang, schwierige Haustüre, Lift, Innenräume etwas eng, kein Rolli-WC"/>
+    <tag k="name" v="Zahnärztin Dr. Gillich"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Leopoldstraße"/>
+    <tag k="addr:city" v="München"/>
+  </node>
+  <node id="1381986931" version="2" timestamp="2011-08-04T18:00:30Z" uid="495268" user="WLG" changeset="8921811" lat="48.1574715" lon="11.5850283">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="Kleine Schwellen, Lift, kein Rolli-WC, Räume z.T. etwas eng"/>
+    <tag k="name" v="Augenärztin Dr. Venhofen"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Leopoldstraße"/>
+    <tag k="addr:city" v="München"/>
+  </node>
+  <node id="1382001796" version="3" timestamp="2011-09-22T15:24:51Z" uid="495268" user="WLG" changeset="9369653" lat="48.2023185" lon="11.5864854">
+    <tag k="addr:postcode" v="80939"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="kein WC, sehr schwierige Parkplatzsituation"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Augenarzt Dr. Butenberg"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Ingolstädter Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="166"/>
+  </node>
+  <node id="1383564429" version="2" timestamp="2011-12-16T08:37:29Z" uid="290680" user="wheelmap_visitor" changeset="10129388" lat="48.1505975" lon="11.4626695">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="1384032461" version="2" timestamp="2011-08-24T15:43:50Z" uid="13219" user="Pyrokrat" changeset="9113131" lat="48.1358677" lon="11.5983327">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="kein Behinderten-WC; Parkplatzsituation sehr schwierig"/>
+    <tag k="name" v="Urologe Dr. Matalon"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Einsteinstraße"/>
+    <tag k="addr:city" v="81675 München"/>
+    <tag k="addr:housenumber" v="1"/>
+  </node>
+  <node id="1384075374" version="2" timestamp="2011-08-14T16:54:32Z" uid="495268" user="WLG" changeset="9017486" lat="48.162018" lon="11.5866093">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="Praxis ist in der Häuserzeile gegenüber der Haltestelle.Kein Rolli-WC, schwer zu öffnende Hauseingangstüre"/>
+    <tag k="name" v="HNO Dr. Prinz-Bruchhage"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Münchener Freiheit"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="4"/>
+  </node>
+  <node id="1400108855" version="2" timestamp="2011-08-21T03:11:51Z" uid="64164" user="osmkurt" changeset="9080307" lat="48.1511761" lon="11.6089307">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="kein Rolli-WC"/>
+    <tag k="name" v="Radiologische Diagnostik Dr. Wachter u.a."/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="1406080609" version="1" timestamp="2011-08-20T14:39:30Z" uid="495268" user="WLG" changeset="9074832" lat="48.1546121" lon="11.5808593">
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="Stufe"/>
+    <tag k="name" v="Lautenschlager / Bayer  ( Zahnarztpraxis )"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Georgenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="20"/>
+  </node>
+  <node id="1425997547" version="2" timestamp="2011-09-10T17:08:15Z" uid="89943" user="Bengatzer" changeset="9263818" lat="48.246383" lon="11.6508895">
+    <tag k="name" v="Hausärzte Garching"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="opening_hours" v="Mo-Tu 08:30-12:00,14:00-18:00; Th 08:30-16:00"/>
+  </node>
+  <node id="1453552852" version="2" timestamp="2011-10-14T20:22:09Z" uid="290680" user="wheelmap_visitor" changeset="9552229" lat="48.1504514" lon="11.618434">
+    <tag k="addr:postcode" v="81925"/>
+    <tag k="phone" v="+49 (0) 89/5404745-0"/>
+    <tag k="fax" v="+49 (0) 89/5404735-10"/>
+    <tag k="website" v="http://www.deutsches-schmerz-zentrum.de"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:housename" v="Arabella Sheraton"/>
+    <tag k="addr:street" v="Arabellastraße"/>
+    <tag k="operator" v="Dr. med Martin Gessler"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="opening_hours" v="Mo-Th 10:00-12:00,14:00-16:00; Fr 10:00-12:00"/>
+    <tag k="email" v="info@dsz-m.de"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Deutsche Schmerzzentrum München"/>
+  </node>
+  <node id="1487147475" version="4" timestamp="2011-10-31T14:10:31Z" uid="44395" user="route662" changeset="9703775" lat="48.1785449" lon="11.5960444">
+    <tag k="health_facility:type" v="office"/>
+    <tag k="name" v="Dr. Stephan Seidel"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="healthcare" v="doctor"/>
+  </node>
+  <node id="1487747901" version="1" timestamp="2011-10-31T20:52:28Z" uid="44395" user="route662" changeset="9707859" lat="48.1478287" lon="11.5593191">
+    <tag k="addr:postcode" v="80335"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:city" v="München"/>
+  </node>
+</osm>

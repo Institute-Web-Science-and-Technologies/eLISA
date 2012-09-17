@@ -1,0 +1,3268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis SNAPSHOT-r26564">
+  <node id="76027115" version="4" timestamp="2009-09-02T14:40:52Z" uid="85761" user="klausis" changeset="2348916" lat="48.1815568" lon="11.5845746">
+    <tag k="name" v="Möwenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="82551275" version="22" timestamp="2011-09-28T17:55:32Z" uid="8748" user="ToniE" changeset="9421465" lat="48.0642412" lon="11.6629473">
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Automatiktüren"/>
+    <tag k="name" v="Apotheke am Rathaus"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="wheelchair:description:de" v="Automatiktüren"/>
+  </node>
+  <node id="82552069" version="7" timestamp="2011-10-04T12:45:44Z" uid="290680" user="wheelmap_visitor" changeset="9466302" lat="48.0657094" lon="11.66102">
+    <tag k="phone" v="+49 89 62998888"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="St.-Otto-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-13:00"/>
+  </node>
+  <node id="87636374" version="10" timestamp="2009-10-14T00:07:44Z" uid="36809" user="lmaa-du-osm-korinthenkacker" changeset="2841175" lat="48.0992499" lon="11.5196821">
+    <tag k="name" v="Olympia-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="94067821" version="8" timestamp="2011-05-16T13:30:20Z" uid="290680" user="wheelmap_visitor" changeset="8160663" lat="48.2245948" lon="11.6686808">
+    <tag k="addr:postcode" v="85737"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Korbinian Apotheke"/>
+    <tag k="contact:phone" v="+49 89 966050"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Korbinianstraße"/>
+    <tag k="addr:city" v="Ismaning"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa 08:30-12:30"/>
+  </node>
+  <node id="94067824" version="9" timestamp="2011-06-21T20:43:38Z" uid="56526" user="JJ Rammerl" changeset="8508571" lat="48.2252155" lon="11.6711978">
+    <tag k="addr:postcode" v="85737"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke Dr. Aurnhammer"/>
+    <tag k="contact:phone" v="+49 89 968680"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Bahnhofstraße"/>
+    <tag k="addr:city" v="Ismaning"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:30; Sa 08:00-13:00"/>
+  </node>
+  <node id="94067827" version="6" timestamp="2011-05-16T13:30:19Z" uid="290680" user="wheelmap_visitor" changeset="8160663" lat="48.2265316" lon="11.671287">
+    <tag k="addr:postcode" v="85737"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Falken Apotheke"/>
+    <tag k="contact:phone" v="+49 89 96200412"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Münchener Straße"/>
+    <tag k="addr:city" v="Ismaning"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00; Sa 08:00-13:00"/>
+  </node>
+  <node id="99209620" version="9" timestamp="2011-03-18T20:43:37Z" uid="290680" user="wheelmap_visitor" changeset="7598401" lat="48.1004123" lon="11.5401241">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Franziskus-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="100236153" version="6" timestamp="2010-12-08T10:32:03Z" uid="205377" user="geoMILLImeter" changeset="6583602" lat="48.070942" lon="11.6072521">
+    <tag k="name" v="Rosen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="135751208" version="7" timestamp="2010-11-07T01:11:24Z" uid="290680" user="wheelmap_visitor" changeset="6300162" lat="48.0906968" lon="11.5563567">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Rondell Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="148067310" version="3" timestamp="2010-11-04T19:10:16Z" uid="89073" user="eimer42" changeset="6290881" lat="48.1283437" lon="11.3756012">
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Ulmen Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Hartstraße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="addr:housenumber" v="50"/>
+  </node>
+  <node id="158585816" version="11" timestamp="2011-10-31T16:45:16Z" uid="290680" user="wheelmap_visitor" changeset="9700443" lat="48.0669679" lon="11.3798082">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Rats Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="168245248" version="6" timestamp="2011-10-31T16:45:20Z" uid="290680" user="wheelmap_visitor" changeset="9700443" lat="48.0721732" lon="11.373854">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Godo-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="173381595" version="7" timestamp="2011-07-15T16:39:42Z" uid="8748" user="ToniE" changeset="8732798" lat="48.0619264" lon="11.6738589">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Palmenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="173668710" version="3" timestamp="2010-02-19T19:45:28Z" uid="8748" user="ToniE" changeset="3918090" lat="48.1548006" lon="11.5668048">
+    <tag k="addr:postcode" v="80798"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Adelheid-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Augustenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="116"/>
+  </node>
+  <node id="173671753" version="7" timestamp="2011-09-29T14:45:02Z" uid="290680" user="wheelmap_visitor" changeset="9424500" lat="48.1380738" lon="11.5612391">
+    <tag k="addr:postcode" v="80336"/>
+    <tag k="phone" v="+49 89 555521"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="website" v="http://www.cityapotheke.net"/>
+    <tag k="email" v="info@cityapotheke.net"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="City-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Schillerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-19:00; Sa 09:00-14:00"/>
+  </node>
+  <node id="173671784" version="3" timestamp="2011-02-22T19:21:39Z" uid="367380" user="Mloni" changeset="7366512" lat="48.1399968" lon="11.5623806">
+    <tag k="name" v="Europa-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="186969956" version="9" timestamp="2011-10-07T17:18:48Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.1510657" lon="11.4353373">
+    <tag k="addr:postcode" v="81243"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Hellenstein Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Hellensteinstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-13:00,14:00-18:30; Sa 08:30-12:30"/>
+  </node>
+  <node id="197630081" version="5" timestamp="2011-11-05T15:37:13Z" uid="290680" user="wheelmap_visitor" changeset="9744488" lat="48.1817691" lon="11.4758013">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Angerloh Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="201747887" version="6" timestamp="2011-10-16T19:18:55Z" uid="290680" user="wheelmap_visitor" changeset="9569216" lat="48.1483235" lon="11.4419328">
+    <tag k="addr:postcode" v="81243"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Panda-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Friedrichshafener Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="7"/>
+  </node>
+  <node id="201758605" version="5" timestamp="2011-10-07T17:15:29Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.14939" lon="11.434978">
+    <tag k="addr:postcode" v="81243"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Westkreuz-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Radolfzeller Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="13"/>
+  </node>
+  <node id="205423618" version="8" timestamp="2009-07-07T13:39:52Z" uid="59819" user="Fuss-im-Ohr" changeset="1761905" lat="48.1717292" lon="11.7184434">
+    <tag k="addr:postcode" v="85609"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Sonnenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Sonnenstraße"/>
+    <tag k="addr:city" v="Aschheim"/>
+    <tag k="addr:housenumber" v="2"/>
+  </node>
+  <node id="209171906" version="9" timestamp="2011-12-25T21:45:12Z" uid="290680" user="wheelmap_visitor" changeset="10197936" lat="48.1487302" lon="11.4602226">
+    <tag k="addr:postcode" v="81241"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Bahnhofapotheke"/>
+    <tag k="contact:phone" v="+49 89 835144"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Pasinger Bahnhofsplatz"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="1"/>
+  </node>
+  <node id="211247818" version="6" timestamp="2011-12-20T05:28:35Z" uid="64164" user="osmkurt" changeset="10160917" lat="48.114559" lon="11.5929703">
+    <tag k="addr:postcode" v="81539"/>
+    <tag k="phone" v="+49 89 695271"/>
+    <tag k="website" v="http://www.werinher-apotheke.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Werinherapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Schlierseestraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="33"/>
+  </node>
+  <node id="238410530" version="6" timestamp="2011-10-07T11:45:26Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.1819549" lon="11.5732837">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Walpurgis-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="241779304" version="5" timestamp="2011-04-13T14:21:37Z" uid="342705" user="KLMB" changeset="7852343" lat="48.1545242" lon="11.4701234">
+    <tag k="name" v="Sibelius-Apotheke"/>
+    <tag k="contact:website" v="http://www.sibelius-apotheke.de/"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-12:30; Su off"/>
+  </node>
+  <node id="243502454" version="4" timestamp="2009-01-05T15:44:02Z" uid="8748" user="ToniE" changeset="738860" lat="48.0991355" lon="11.6535267">
+    <tag k="created_by" v="JOSM"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="name" v="Sudermann Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="243727149" version="8" timestamp="2011-08-11T10:41:35Z" uid="290680" user="wheelmap_visitor" changeset="8984227" lat="48.1513155" lon="11.4202562">
+    <tag k="addr:postcode" v="81243"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Ubo Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Limesstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-12:30"/>
+  </node>
+  <node id="243876937" version="5" timestamp="2010-11-15T22:00:02Z" uid="42875" user="burnus" changeset="6381228" lat="48.0758954" lon="11.662902">
+    <tag k="dispensing" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Rats-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="244020279" version="4" timestamp="2012-01-02T17:36:18Z" uid="8748" user="ToniE" changeset="10273238" lat="48.0751819" lon="11.672715">
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Sonnen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="247450952" version="11" timestamp="2011-08-10T14:41:02Z" uid="264500" user="Silanea" changeset="8977164" lat="48.1575352" lon="11.4158641">
+    <tag k="addr:postcode" v="81245"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="St. Alto Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Altostraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="14"/>
+  </node>
+  <node id="247675872" version="7" timestamp="2010-11-01T16:11:22Z" uid="290680" user="wheelmap_visitor" changeset="6255732" lat="48.1610736" lon="11.5689431">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="addr:postcode" v="80796"/>
+    <tag k="contact:fax" v="+49 89 271 42 30"/>
+    <tag k="contact:web" v="http://www.spitzwegapotheke.com/"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="contact:phone" v="+49 89 271 69 26"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Hohenzollernstraße"/>
+    <tag k="operator" v="Christiane Oberlies"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-13:00"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Spitzweg Apotheke"/>
+  </node>
+  <node id="247675874" version="8" timestamp="2011-07-03T18:39:57Z" uid="81983" user="Ogmios" changeset="8622315" lat="48.1614439" lon="11.5679224">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="addr:postcode" v="80796"/>
+    <tag k="contact:phone" v="+49-89-305728"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Hohenzollernplatz"/>
+    <tag k="operator" v="Martina Reischla"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-13:00;"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="payment:debit_cards" v="ec"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="St.-Kilian-Apotheke"/>
+  </node>
+  <node id="249310618" version="7" timestamp="2010-11-22T13:32:43Z" uid="290680" user="wheelmap_visitor" changeset="6429292" lat="48.1425297" lon="11.6159523">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Tassilo Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="249311656" version="3" timestamp="2011-07-14T23:19:45Z" uid="56526" user="JJ Rammerl" changeset="8727044" lat="48.165115" lon="11.6442505">
+    <tag k="name" v="Freischütz-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="251366199" version="5" timestamp="2011-12-29T20:03:50Z" uid="290680" user="wheelmap_visitor" changeset="10232645" lat="48.1146482" lon="11.5709276">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Schyrenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="254057401" version="13" timestamp="2011-03-12T22:10:33Z" uid="290680" user="wheelmap_visitor" changeset="7538917" lat="48.1373568" lon="11.5762875">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="addr:postcode" v="80331"/>
+    <tag k="phone" v="+49 89 553520"/>
+    <tag k="website" v="http://www.rathausapotheke-muenchen.de"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Marienplatz"/>
+    <tag k="addr:housename" v="Rathaus"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-20:00"/>
+    <tag k="email" v="info@rathausapotheke-muenchen.de"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Rathaus-Apotheke"/>
+  </node>
+  <node id="254057466" version="11" timestamp="2011-06-25T21:50:22Z" uid="64164" user="osmkurt" changeset="8547121" lat="48.1312818" lon="11.576333">
+    <tag k="addr:postcode" v="80469"/>
+    <tag k="phone" v="+49 89 2014727"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.apotheken.de/clubarea/index.php?fkt=1&amp;idc=12232"/>
+    <tag k="email" v="info@apotheke-gaertnerplatz.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke am Gärtnerplatz"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Corneliusstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="16"/>
+  </node>
+  <node id="254057573" version="8" timestamp="2011-10-24T09:56:40Z" uid="336643" user="BigBen2003" changeset="9641770" lat="48.1336021" lon="11.5764395">
+    <tag k="addr:postcode" v="80469"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="http://www.rumford-apotheke.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Rumford Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Reichenbachstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="9"/>
+  </node>
+  <node id="254057609" version="9" timestamp="2011-08-25T22:37:33Z" uid="56526" user="JJ Rammerl" changeset="9125665" lat="48.1324472" lon="11.5762518">
+    <tag k="addr:postcode" v="80469"/>
+    <tag k="phone" v="+49 89 264069"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Reichenbach Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Reichenbachstraße"/>
+    <tag k="addr:state" v="Bayern"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="17"/>
+  </node>
+  <node id="257048544" version="5" timestamp="2011-09-27T20:00:04Z" uid="8748" user="ToniE" changeset="9414174" lat="48.0634052" lon="11.6794127">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="addr:postcode" v="85521"/>
+    <tag k="phone" v="+49 89 6015923"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Roseggerstraße"/>
+    <tag k="operator" v="Dr. Hans Poehlmann"/>
+    <tag k="addr:city" v="Ottobrunn"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-12:30"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Breite Automatikeingangstüre, Behindertenparkplatz 10m Entfernung"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke Am Bahnhof"/>
+  </node>
+  <node id="258170356" version="7" timestamp="2011-07-04T00:52:26Z" uid="64164" user="osmkurt" changeset="8625180" lat="48.2047972" lon="11.571983">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Apotheke am Hart"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="258170403" version="6" timestamp="2010-11-24T12:07:56Z" uid="290680" user="wheelmap_visitor" changeset="6446176" lat="48.2121908" lon="11.563701">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Vitale"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="258189061" version="2" timestamp="2012-01-08T13:19:00Z" uid="64164" user="osmkurt" changeset="10330988" lat="48.2124296" lon="11.5560008">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Lilienapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="258189089" version="2" timestamp="2012-01-10T09:08:36Z" uid="64164" user="osmkurt" changeset="10349261" lat="48.2077322" lon="11.5525948">
+    <tag k="name" v="Rainfarnapotherke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="258189091" version="3" timestamp="2011-03-03T14:45:39Z" uid="29061" user="KPG" changeset="7446242" lat="48.2040153" lon="11.5532613">
+    <tag k="name" v="Gundermann-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="258490963" version="4" timestamp="2011-08-20T15:12:53Z" uid="495268" user="WLG" changeset="9074832" lat="48.1563725" lon="11.5705628">
+    <tag k="created_by" v="Potlatch 0.8a"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="Stufe"/>
+    <tag k="name" v="Isabella Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Georgenstraße"/>
+    <tag k="addr:city" v="München"/>
+  </node>
+  <node id="259759574" version="7" timestamp="2011-09-11T07:50:16Z" uid="125687" user="tubeli" changeset="9268338" lat="48.1267604" lon="11.5913744">
+    <tag k="addr:postcode" v="81669"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke im Franziskanerhof"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Franziskanerstraße"/>
+    <tag k="addr:city" v="München"/>
+  </node>
+  <node id="259759836" version="5" timestamp="2011-06-14T19:06:29Z" uid="64164" user="osmkurt" changeset="8439958" lat="48.1287183" lon="11.592958">
+    <tag k="phone" v="+49 89 48 70 10"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Hall&apos;sche Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-20:00; Sa 08:30-16:00"/>
+  </node>
+  <node id="260433537" version="7" timestamp="2011-12-31T17:11:05Z" uid="64164" user="osmkurt" changeset="10256686" lat="48.1083066" lon="11.6033663">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Chiemgau Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="260433737" version="6" timestamp="2011-11-07T09:56:01Z" uid="109799" user="Barnie" changeset="9763092" lat="48.109649" lon="11.6035448">
+    <tag k="addr:postcode" v="81539"/>
+    <tag k="phone" v="+49 89 686466"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Bernhard-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Balanstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="152"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-12:30"/>
+  </node>
+  <node id="261823346" version="9" timestamp="2010-10-21T16:21:54Z" uid="290680" user="wheelmap_visitor" changeset="6121669" lat="48.2016383" lon="11.6067343">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Heide-Markt-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="262655021" version="4" timestamp="2011-10-21T15:23:29Z" uid="336643" user="BigBen2003" changeset="9617154" lat="48.1395373" lon="11.6186193">
+    <tag k="addr:postcode" v="81677"/>
+    <tag k="fax" v="+49 (0) 89/68 85 68 9"/>
+    <tag k="website" v="www.barbarossa-apotheke.net"/>
+    <tag k="contact:phone" v="+49 (0) 89/476565"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Wagenbauerstraße"/>
+    <tag k="operator" v="Armin Waldmann"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:45; Sa 08:30-12:00"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="email" v="info@barbarossa-apotheke-muenchen.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Barbarossa-Apotheke"/>
+  </node>
+  <node id="262658333" version="16" timestamp="2012-01-07T17:56:46Z" uid="290680" user="wheelmap_visitor" changeset="10318920" lat="48.1358789" lon="11.5977108">
+    <tag k="addr:postcode" v="81675"/>
+    <tag k="phone" v="+49 89 4801642"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="www.kloster-apotheke-muenchen.de"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Max-Planck-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00; Sa 09:00-14:00"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="email" v="info@klosterapotheke-muenchen.de"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Klosterapotheke"/>
+  </node>
+  <node id="263829646" version="8" timestamp="2011-02-07T20:45:27Z" uid="9402" user="ludwich" changeset="7220720" lat="48.1289741" lon="11.603715">
+    <tag k="addr:postcode" v="81667"/>
+    <tag k="phone" v="+49 89 4482448"/>
+    <tag k="website" v="http://www.ostbahnhof-apotheke.de"/>
+    <tag k="email" v="info@ostbahnhofapotheke.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Ostbahnhof Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Orleansplatz"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa 08:30-14:30"/>
+  </node>
+  <node id="263887382" version="12" timestamp="2011-06-14T19:01:24Z" uid="64164" user="osmkurt" changeset="8439958" lat="48.1285267" lon="11.5993282">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="addr:postcode" v="81667"/>
+    <tag k="phone" v="+49 89 4480714"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.weissenburger-apotheke.de"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Weißenburger Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="email" v="info@weissenburger-apotheke.de"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="Nicht alle Regale an barrierefrei zugänglich"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Weißenburger Apotheke"/>
+  </node>
+  <node id="264003819" version="5" timestamp="2011-10-17T15:36:06Z" uid="290680" user="wheelmap_visitor" changeset="9578325" lat="48.1143995" lon="11.615797">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Pelikan-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="264012074" version="5" timestamp="2010-12-05T09:38:39Z" uid="29061" user="KPG" changeset="6548133" lat="48.1272149" lon="11.6142796">
+    <tag k="addr:postcode" v="81671"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Trausnitzapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Mühldorfstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="25"/>
+  </node>
+  <node id="264680685" version="16" timestamp="2011-11-01T00:32:56Z" uid="64164" user="osmkurt" changeset="9709199" lat="48.1295129" lon="11.6021257">
+    <tag k="addr:postcode" v="81667"/>
+    <tag k="phone" v="+49 89 7916699"/>
+    <tag k="email" v="johannes-apo@web.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="St. Johannis-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Wörthstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-13:00,14:30-18:30; Sa 08:30-12:30"/>
+  </node>
+  <node id="266418753" version="7" timestamp="2012-01-08T11:16:26Z" uid="64658" user="AndiV" changeset="10330056" lat="48.096366" lon="11.4948413">
+    <tag k="name" v="Ritterapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="266579914" version="4" timestamp="2009-12-28T20:36:35Z" uid="212939" user="MasterZocker" changeset="3475638" lat="48.1394421" lon="11.5603883">
+    <tag k="name" v="Bahnhof-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="266622180" version="8" timestamp="2010-12-09T20:28:51Z" uid="125136" user="olisi" changeset="6599161" lat="48.1339035" lon="11.5445475">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Kugelapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="266662376" version="6" timestamp="2010-12-02T09:17:35Z" uid="29061" user="KPG" changeset="6512389" lat="48.119904" lon="11.6240706">
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Laurentius-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:housenumber" v="66"/>
+  </node>
+  <node id="266698100" version="13" timestamp="2011-06-23T22:18:30Z" uid="64164" user="osmkurt" changeset="8526256" lat="48.1319382" lon="11.5983912">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="addr:postcode" v="81667"/>
+    <tag k="phone" v="+49 89 4484107"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.preysing-apotheke.de"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Wörthstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:15; Sa 08:00-12:30"/>
+    <tag k="email" v="apotheke@preysing-apotheke.de"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Preysing-Apotheke"/>
+  </node>
+  <node id="268453358" version="14" timestamp="2010-11-15T13:57:08Z" uid="65148" user="tixuwuoz" changeset="6377564" lat="48.0942557" lon="11.4986245">
+    <tag k="addr:postcode" v="81476"/>
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Kristall-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Forstenrieder Allee"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="59"/>
+  </node>
+  <node id="269050127" version="28" timestamp="2010-09-26T20:41:45Z" uid="65148" user="tixuwuoz" changeset="5885620" lat="48.1843415" lon="11.5668587">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="fit &amp; gesund Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Schleißheimer Straße"/>
+    <tag k="addr:housenumber" v="354"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-12:30"/>
+  </node>
+  <node id="269387184" version="5" timestamp="2009-09-04T18:06:02Z" uid="85761" user="klausis" changeset="2371943" lat="48.1299007" lon="11.4308047">
+    <tag k="name" v="Jahnapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Jahnplatz"/>
+    <tag k="addr:housenumber" v="3"/>
+  </node>
+  <node id="269698960" version="5" timestamp="2011-07-05T20:31:49Z" uid="472814" user="paoso" changeset="8642827" lat="48.1442767" lon="11.4609754">
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.linden-apotheke-muenchen.de"/>
+    <tag k="name" v="Linden-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="270124872" version="3" timestamp="2011-09-07T09:26:54Z" uid="472814" user="paoso" changeset="9234950" lat="48.1465472" lon="11.4598363">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Bienen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="270124873" version="6" timestamp="2011-10-06T19:07:15Z" uid="290680" user="wheelmap_visitor" changeset="9482892" lat="48.1461437" lon="11.4593421">
+    <tag k="addr:postcode" v="81241"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="St. Jakobs Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Planegger Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="5"/>
+  </node>
+  <node id="270586935" version="1" timestamp="2008-06-15T22:10:56Z" uid="31605" user="hatzfeld" changeset="176119" lat="48.1130514" lon="11.7007754">
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Neptun-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="270586939" version="1" timestamp="2008-06-15T22:10:56Z" uid="31605" user="hatzfeld" changeset="176119" lat="48.1138555" lon="11.700091">
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Beethoven-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="271236546" version="1" timestamp="2008-06-18T22:20:03Z" uid="31605" user="hatzfeld" changeset="214473" lat="48.1078621" lon="11.6566903">
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="name" v="Zugspitz-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="271236722" version="1" timestamp="2008-06-18T22:22:13Z" uid="31605" user="hatzfeld" changeset="214473" lat="48.1073406" lon="11.656613">
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="name" v="Apotheke am Marx-Zentrum"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="273686360" version="5" timestamp="2011-02-01T12:48:44Z" uid="56927" user="baily" changeset="7154339" lat="48.1357914" lon="11.5201906">
+    <tag k="addr:postcode" v="80687"/>
+    <tag k="phone" v="+49 89 571267"/>
+    <tag k="fax" v="+49 89 572025"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.apotheke-westpark.de/"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Straubinger Straße"/>
+    <tag k="operator" v="Jürgen von Wenckstern"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-13:00"/>
+    <tag k="source" v="extrapolation"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke am Westpark"/>
+  </node>
+  <node id="274109616" version="8" timestamp="2009-08-26T10:12:57Z" uid="36809" user="lmaa-du-osm-korinthenkacker" changeset="2265170" lat="48.0872944" lon="11.4846916">
+    <tag k="addr:postcode" v="81475"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Engadin-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Neurieder Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="16"/>
+  </node>
+  <node id="275563155" version="4" timestamp="2011-10-25T21:58:18Z" uid="290680" user="wheelmap_visitor" changeset="9650151" lat="48.1483551" lon="11.4612999">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Gesundbrunnen-Apotheke"/>
+    <tag k="contact:website" v="http://www.gesundbrunnen-muenchen.de/"/>
+    <tag k="contact:phone" v="+49 89 883388"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:30; Sa 09:00-13:00"/>
+  </node>
+  <node id="276707607" version="1" timestamp="2008-07-06T18:18:15Z" uid="43979" user="RaftaMan" changeset="409219" lat="48.1162075" lon="11.533487">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Hellas Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="277718280" version="3" timestamp="2009-09-04T18:06:18Z" uid="85761" user="klausis" changeset="2371943" lat="48.1384762" lon="11.4451323">
+    <tag k="name" v="Maria-Eich-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="277718379" version="3" timestamp="2011-10-25T11:40:07Z" uid="290680" user="wheelmap_visitor" changeset="9650151" lat="48.1207433" lon="11.4419522">
+    <tag k="created_by" v="Potlatch 0.10e"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Löwenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="279840984" version="3" timestamp="2010-09-26T20:41:52Z" uid="65148" user="tixuwuoz" changeset="5885620" lat="48.1220822" lon="11.6695482">
+    <tag k="name" v="Solalinden-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:30; Sa 08:00-13:00"/>
+  </node>
+  <node id="279840992" version="3" timestamp="2010-09-26T20:41:51Z" uid="65148" user="tixuwuoz" changeset="5885620" lat="48.1248337" lon="11.6551771">
+    <tag k="name" v="Libellen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-12:00"/>
+  </node>
+  <node id="280079113" version="8" timestamp="2010-08-28T15:55:10Z" uid="62236" user="Paulchen Panther" changeset="5617480" lat="48.1169374" lon="11.6567715">
+    <tag k="addr:postcode" v="81825"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Augustinus-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Bajuwarenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="50"/>
+  </node>
+  <node id="281216025" version="4" timestamp="2011-10-09T17:03:58Z" uid="290680" user="wheelmap_visitor" changeset="9508573" lat="48.0813873" lon="11.6719473">
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Ursus-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="281218807" version="4" timestamp="2011-11-11T13:32:54Z" uid="290680" user="wheelmap_visitor" changeset="9794046" lat="48.0769556" lon="11.7157211">
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Jupiter Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="282045222" version="10" timestamp="2011-06-29T23:42:39Z" uid="42613" user="MarcusLS" changeset="8586135" lat="48.167194" lon="11.5780509">
+    <tag k="addr:postcode" v="80803"/>
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke am Bonner Platz"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Bonner Platz"/>
+    <tag k="addr:state" v="Bayern"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="2"/>
+  </node>
+  <node id="286032262" version="7" timestamp="2011-12-09T20:01:09Z" uid="8748" user="ToniE" changeset="10075949" lat="48.0999441" lon="11.6313114">
+    <tag k="addr:postcode" v="81737"/>
+    <tag k="phone" v="+49 89 6351992"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke am Pfanzeltplatz"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Putzbrunner Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="1"/>
+  </node>
+  <node id="288791873" version="9" timestamp="2011-10-16T18:51:46Z" uid="290680" user="wheelmap_visitor" changeset="9569216" lat="48.1371329" lon="11.5229778">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Apotheke West 4"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="288792462" version="9" timestamp="2010-07-25T19:54:50Z" uid="56927" user="baily" changeset="5315973" lat="48.1391452" lon="11.5184264">
+    <tag k="addr:postcode" v="80687"/>
+    <tag k="contact:fax" v="+49 89 5701929"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Greifen Apotheke"/>
+    <tag k="contact:phone" v="+49 89 571784"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Lautensackstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Franz R. Besch"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa 08:30-13:00"/>
+  </node>
+  <node id="289400347" version="4" timestamp="2009-06-11T14:47:14Z" uid="60400" user="Maximum" changeset="1487424" lat="48.1462148" lon="11.6407016">
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="name" v="Atrium Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="290528236" version="6" timestamp="2011-05-09T11:50:57Z" uid="29061" user="KPG" changeset="8092070" lat="48.1256376" lon="11.6348238">
+    <tag k="addr:postcode" v="81673"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Josephsburg-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Josephsburgstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="58"/>
+  </node>
+  <node id="291103858" version="18" timestamp="2010-04-15T15:16:57Z" uid="70696" user="xybot" changeset="4431179" lat="48.1416009" lon="11.5862717">
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="phone" v="+49 89 221813"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="email" v="liebig.apotheke@t-online.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Liebig-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Liebigstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00; Sa 08:30-13:00"/>
+  </node>
+  <node id="291103879" version="19" timestamp="2010-08-21T08:58:11Z" uid="59819" user="Fuss-im-Ohr" changeset="5549984" lat="48.1420798" lon="11.5880789">
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="phone" v="+49 89 21937930"/>
+    <tag k="dispensing" v="no"/>
+    <tag k="website" v="http://www.kjf-muenchen.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Psychologische Beratungsstelle"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Unsöldstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Erzdiözese München-Freising"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="opening_hours" v="Mo-We 08:00-17:00; Th 08:00-18:00; Fr 08:00-12:30"/>
+  </node>
+  <node id="291364414" version="19" timestamp="2011-10-10T18:52:39Z" uid="290680" user="wheelmap_visitor" changeset="9518514" lat="48.1395349" lon="11.5884465">
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="phone" v="+49 89 221774"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.aponet.de/papps/portalhomepage/index.php?plz=80538&amp;name=Apotheke_am_Thierschplatz"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Thierschstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:15; Sa 09:00-12:00"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="email" v="jost.grudzus@arcor.de"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke am Thierschplatz"/>
+  </node>
+  <node id="291364489" version="20" timestamp="2011-10-10T18:58:43Z" uid="290680" user="wheelmap_visitor" changeset="9518514" lat="48.1406729" lon="11.5889443">
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="phone" v="+49 89 45244464"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.bienenapotheke.de"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Triftstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00; Sa 09:00-15:00"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="email" v="info@apobee.de"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Bienen Apotheke"/>
+  </node>
+  <node id="291364543" version="15" timestamp="2010-04-15T15:17:12Z" uid="70696" user="xybot" changeset="4431179" lat="48.1410633" lon="11.5849547">
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="phone" v="+49 89 2112260"/>
+    <tag k="dispensing" v="no"/>
+    <tag k="website" v="http://www2.merzendorfer.de"/>
+    <tag k="email" v="info@merzendorfer.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Merzendorfer Sanitätshaus"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Seitzstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-12:30; Sa 13:00-17:00"/>
+  </node>
+  <node id="291642258" version="18" timestamp="2011-09-26T11:52:29Z" uid="38096" user="benelsen" changeset="9401334" lat="48.144649" lon="11.5935567">
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="phone" v="+49 89 296029"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.paradies-apotheke-muenchen.de"/>
+    <tag k="email" v="info@paradies-apotheke-muenchen.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Paradies Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Oettingenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:30; Sa 08:30-14:00"/>
+  </node>
+  <node id="292596858" version="8" timestamp="2010-01-02T18:30:22Z" uid="42393" user="mawi42" changeset="3521068" lat="48.1626072" lon="11.5745584">
+    <tag k="website:official" v="http://www.aponet.de/papps/portalhomepage/index.php?plz=80796&amp;name=Max_Emanuel_Apotheke"/>
+    <tag k="name" v="Max-Emanuel-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Belgradstraße"/>
+    <tag k="addr:housenumber" v="21"/>
+  </node>
+  <node id="295095058" version="3" timestamp="2010-10-20T20:46:12Z" uid="290680" user="wheelmap_visitor" changeset="6111797" lat="48.1467023" lon="11.640464">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Quellen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="296133706" version="8" timestamp="2011-10-03T15:48:08Z" uid="290680" user="wheelmap_visitor" changeset="9456721" lat="48.1636359" lon="11.5291893">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Dante-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="296462288" version="6" timestamp="2011-10-06T16:53:08Z" uid="290680" user="wheelmap_visitor" changeset="9482892" lat="48.1333052" lon="11.5830007">
+    <tag k="addr:postcode" v="80331"/>
+    <tag k="phone" v="+49 89 222170"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Zweibrücken-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Zweibrückenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="6"/>
+  </node>
+  <node id="296468211" version="3" timestamp="2010-06-11T07:56:13Z" uid="99078" user="ulrich-dtmd" changeset="4960388" lat="48.1346016" lon="11.5755922">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Löwenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="297037982" version="2" timestamp="2008-09-17T00:50:59Z" uid="17933" user="abunai" changeset="655123" lat="48.1290882" lon="11.6307853">
+    <tag k="name" v="Stern-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="297611152" version="2" timestamp="2011-03-24T10:04:43Z" uid="29061" user="KPG" changeset="7654210" lat="48.1279716" lon="11.6310371">
+    <tag k="name" v="Berg-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="297933545" version="13" timestamp="2012-01-04T03:59:56Z" uid="64164" user="osmkurt" changeset="10287910" lat="48.1342165" lon="11.5848853">
+    <tag k="addr:postcode" v="80538"/>
+    <tag k="phone" v="+49 89 294344"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Drogerie im Lehel"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Thierschstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:30; Sa 09:00-13:00"/>
+  </node>
+  <node id="300593797" version="6" timestamp="2011-10-06T18:00:34Z" uid="13832" user="Peter14" changeset="9487632" lat="48.0881935" lon="11.6402615">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Akazien Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="301399380" version="8" timestamp="2011-10-01T15:17:04Z" uid="8748" user="ToniE" changeset="9443231" lat="48.1142" lon="11.5990511">
+    <tag k="addr:postcode" v="81539"/>
+    <tag k="phone" v="+49 89 681214"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Pfälzer-Wald-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-12:30,14:00-18:00; Sa 08:30-12:00"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="wheelchair:description" v="Außentreppe mit 4 Stufen"/>
+    <tag k="name" v="Jäger Apotheke"/>
+    <tag k="wheelchair:description:de" v="Außentreppe mit 4 Stufen"/>
+  </node>
+  <node id="302372042" version="6" timestamp="2011-02-02T19:16:50Z" uid="8748" user="ToniE" changeset="7167613" lat="48.109399" lon="11.5759034">
+    <tag k="addr:postcode" v="81547"/>
+    <tag k="phone" v="+49 89 6929970"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Flora Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Wettersteinplatz"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="3"/>
+  </node>
+  <node id="302901877" version="11" timestamp="2011-10-26T18:49:36Z" uid="37197" user="kernl" changeset="9662786" lat="48.1768092" lon="11.3632575">
+    <tag k="addr:postcode" v="82178"/>
+    <tag k="name" v="Aventin Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Josef-Schauer-Straße"/>
+    <tag k="addr:city" v="Puchheim"/>
+    <tag k="addr:housenumber" v="3"/>
+  </node>
+  <node id="303288626" version="3" timestamp="2010-02-19T18:14:26Z" uid="72235" user="Basstoelpel" changeset="3917491" lat="48.1985741" lon="11.544842">
+    <tag k="name" v="Viktoria-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="303999840" version="3" timestamp="2010-03-07T20:03:02Z" uid="72235" user="Basstoelpel" changeset="4065684" lat="48.1964766" lon="11.5282966">
+    <tag k="name" v="Fasanen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Leberblümchenstraße"/>
+    <tag k="addr:housenumber" v="2"/>
+  </node>
+  <node id="304009205" version="5" timestamp="2011-10-25T20:04:55Z" uid="290680" user="wheelmap_visitor" changeset="9650151" lat="48.1983738" lon="11.5348791">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Lassalle Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="305192261" version="5" timestamp="2011-06-22T17:42:39Z" uid="11374" user="q_un_go" changeset="8516263" lat="48.0940511" lon="11.6419605">
+    <tag k="addr:postcode" v="81739"/>
+    <tag k="phone" v="+49 89 6708861"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Nikolaus-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Therese-Giehse-Allee"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="28"/>
+  </node>
+  <node id="305258399" version="5" timestamp="2011-10-05T10:31:40Z" uid="8748" user="ToniE" changeset="9476886" lat="48.109217" lon="11.5949773">
+    <tag k="phone" v="+49 89 694060"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="aquila Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Schwanseestraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="8"/>
+  </node>
+  <node id="305258406" version="8" timestamp="2011-12-29T14:47:46Z" uid="290680" user="wheelmap_visitor" changeset="10232645" lat="48.1193463" lon="11.5834179">
+    <tag k="phone" v="+49 89 6923311"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="http://www.salvatorapothekemuenchen.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Salvator Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Sankt-Bonifatius-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="5"/>
+  </node>
+  <node id="305265451" version="6" timestamp="2011-10-06T16:56:25Z" uid="290680" user="wheelmap_visitor" changeset="9482892" lat="48.1346336" lon="11.5788848">
+    <tag k="addr:postcode" v="80469"/>
+    <tag k="phone" v="+49 89 225630"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="website" v="http://www.bio-apotheke.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Bio-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Frauenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="17"/>
+  </node>
+  <node id="305266493" version="11" timestamp="2012-01-04T03:12:21Z" uid="64164" user="osmkurt" changeset="10287689" lat="48.133997" lon="11.583461">
+    <tag k="addr:postcode" v="80331"/>
+    <tag k="phone" v="+49 89 2199290"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.isartor-apotheke.de"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Isartorplatz"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:30; Sa 09:00-13:00"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="email" v="isartor.apo@t-online.de"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Isartor Apotheke"/>
+  </node>
+  <node id="305371190" version="2" timestamp="2009-02-08T20:24:42Z" uid="64159" user="Quelbs" changeset="281178" lat="48.2150063" lon="11.5309034">
+    <tag k="name" v="Mocho Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="305433469" version="8" timestamp="2011-12-29T20:32:59Z" uid="290680" user="wheelmap_visitor" changeset="10232645" lat="48.1364594" lon="11.5739214">
+    <tag k="addr:postcode" v="80331"/>
+    <tag k="phone" v="+49 89 23002700"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="http://www.rosenapotheke.com"/>
+    <tag k="email" v="info@rosenapotheke.com"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Rosenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Rosenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-20:00; Sa 09:00-18:00"/>
+  </node>
+  <node id="305449486" version="9" timestamp="2011-10-15T18:02:16Z" uid="290680" user="wheelmap_visitor" changeset="9560388" lat="48.1342245" lon="11.566533">
+    <tag k="addr:postcode" v="80331"/>
+    <tag k="phone" v="+49 89 593659"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="http://www.hieristsgesund.de"/>
+    <tag k="email" v="info@hieristsgesund.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Regenbogenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Sonnenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00; Sa 09:00-14:00"/>
+  </node>
+  <node id="305449489" version="6" timestamp="2010-04-15T15:23:19Z" uid="70696" user="xybot" changeset="4431179" lat="48.135814" lon="11.5647129">
+    <tag k="addr:postcode" v="80331"/>
+    <tag k="phone" v="+49 89 54540794"/>
+    <tag k="website" v="http://ariana-apotheke.com"/>
+    <tag k="email" v="info@ariana-apotheke.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Ariana-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Sonnenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="22"/>
+  </node>
+  <node id="305449498" version="9" timestamp="2011-10-02T11:27:02Z" uid="290680" user="wheelmap_visitor" changeset="9447804" lat="48.1337243" lon="11.5653316">
+    <tag k="addr:postcode" v="80336"/>
+    <tag k="phone" v="+49 89 557565"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="website" v="http://www.marien-apotheke-muenchen.de"/>
+    <tag k="email" v="info@marien-apotheke-muenchen.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Marien Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Sendlinger-Tor-Platz"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="opening_hours" v="Mo-Th 08:00-19:00; Fr 08:00-18:30; Sa 08:30-14:00"/>
+  </node>
+  <node id="305516480" version="4" timestamp="2009-08-07T09:46:42Z" uid="31231" user="Andre68" changeset="2063492" lat="48.1281958" lon="11.5702972">
+    <tag k="addr:postcode" v="80469"/>
+    <tag k="phone" v="+49 89 2016748"/>
+    <tag k="website" v="http://www.isar-apo.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Isar-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Klenzestraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-13:00"/>
+  </node>
+  <node id="305516486" version="10" timestamp="2011-04-29T21:34:46Z" uid="290680" user="wheelmap_visitor" changeset="8007024" lat="48.128437" lon="11.5753523">
+    <tag k="addr:postcode" v="80469"/>
+    <tag k="phone" v="+49 89 2012327"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="website" v="http://www.fraunhoferapotheke.de"/>
+    <tag k="email" v="info@fraunhoferapotheke.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Fraunhofer Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Fraunhoferstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-19:00; Sa 09:00-13:00"/>
+  </node>
+  <node id="305909135" version="3" timestamp="2011-09-23T19:30:36Z" uid="290680" user="wheelmap_visitor" changeset="9373820" lat="48.1041865" lon="11.5947392">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Apotheke am Perlacher Forst"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="307419801" version="3" timestamp="2011-09-30T13:27:55Z" uid="290680" user="wheelmap_visitor" changeset="9432437" lat="48.1182008" lon="11.4304849">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="http://www.bienenapotheke.de/index.php?page=Bienen_Apotheke_Graefelfing"/>
+    <tag k="name" v="Bienenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="307528346" version="1" timestamp="2008-10-25T22:40:22Z" uid="17933" user="abunai" changeset="580875" lat="48.1293546" lon="11.5585964">
+    <tag k="name" v="Apotheke am Goetheplatz"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="307535898" version="4" timestamp="2011-12-29T20:02:42Z" uid="290680" user="wheelmap_visitor" changeset="10232645" lat="48.1149439" lon="11.5699259">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Apotheke Hans Mielich"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="307535914" version="5" timestamp="2011-05-16T18:42:56Z" uid="8748" user="ToniE" changeset="8165143" lat="48.1211094" lon="11.6062476">
+    <tag k="addr:postcode" v="81671"/>
+    <tag k="phone" v="+49 89 404341"/>
+    <tag k="website" v="http://www.pius-wellness-team.de"/>
+    <tag k="email" v="pius.apotheke@t-online.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Pius-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Rosenheimer Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="145i"/>
+  </node>
+  <node id="307535921" version="9" timestamp="2010-12-04T21:16:42Z" uid="29061" user="KPG" changeset="6543902" lat="48.1402067" lon="11.6015969">
+    <tag k="addr:postcode" v="81675"/>
+    <tag k="phone" v="+49 160 8961140"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.troger-apotheke-muenchen.de"/>
+    <tag k="email" v="troger-apotheke@t-online.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Troger Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Prinzregentenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:30; Sa 08:30-13:00"/>
+  </node>
+  <node id="307535924" version="4" timestamp="2011-10-30T23:01:05Z" uid="64164" user="osmkurt" changeset="9699046" lat="48.142045" lon="11.6137129">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Brahms-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="308055996" version="4" timestamp="2011-01-02T15:01:22Z" uid="29061" user="KPG" changeset="6838566" lat="48.1577768" lon="11.5751508">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="no"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Kurfürsten Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="308960782" version="4" timestamp="2011-06-19T19:19:08Z" uid="72235" user="Basstoelpel" changeset="8488009" lat="48.1866065" lon="11.5615189">
+    <tag k="addr:postcode" v="80809"/>
+    <tag k="phone" v="+49 89 3511110"/>
+    <tag k="name" v="Ring Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Moosacher Straße"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-13:00,14:30-18:00; Sa 08:30-12:00"/>
+  </node>
+  <node id="309292497" version="1" timestamp="2008-11-01T23:45:45Z" uid="72235" user="Basstoelpel" changeset="655098" lat="48.2136984" lon="11.556679">
+    <tag k="name" v="Hasen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="309452507" version="5" timestamp="2011-04-07T20:20:34Z" uid="290680" user="wheelmap_visitor" changeset="7796757" lat="48.1052713" lon="11.5449126">
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Isartal-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="309963517" version="13" timestamp="2011-11-11T21:26:27Z" uid="290680" user="wheelmap_visitor" changeset="9794046" lat="48.1385646" lon="11.6075292">
+    <tag k="addr:postcode" v="81675"/>
+    <tag k="phone" v="+49 89 479367"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Albert-Schweitzer Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Grillparzerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:30; Sa 08:30-12:30"/>
+  </node>
+  <node id="310415814" version="3" timestamp="2011-10-16T21:06:50Z" uid="290680" user="wheelmap_visitor" changeset="9569216" lat="48.118978" lon="11.4289341">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Sonnenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="310568608" version="8" timestamp="2011-07-15T19:27:04Z" uid="64164" user="osmkurt" changeset="8733429" lat="48.1364094" lon="11.6087926">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Grillparzer-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="311162176" version="5" timestamp="2010-03-23T20:12:02Z" uid="8748" user="ToniE" changeset="4215703" lat="48.1102247" lon="11.627182">
+    <tag k="addr:postcode" v="81735"/>
+    <tag k="phone" v="+49 89 6805840"/>
+    <tag k="website" v="http://www.apotheken.de/clubarea/index.php?fkt\e1&amp;idc\e17748"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Hofanger Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Hofangerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-12:30"/>
+  </node>
+  <node id="311824565" version="5" timestamp="2009-09-02T14:18:28Z" uid="85761" user="klausis" changeset="2348704" lat="48.1077093" lon="11.6374301">
+    <tag k="name" v="Quidde-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="312381385" version="1" timestamp="2008-11-15T21:59:40Z" uid="17933" user="abunai" changeset="754581" lat="48.1900994" lon="11.6159054">
+    <tag k="name" v="Nord-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="312384639" version="5" timestamp="2011-10-07T18:28:26Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.1783895" lon="11.6019866">
+    <tag k="addr:postcode" v="80805"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Bienen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Ungererstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="175"/>
+  </node>
+  <node id="312384641" version="7" timestamp="2011-10-31T15:37:47Z" uid="44395" user="route662" changeset="9704499" lat="48.1775172" lon="11.6011291">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Apotheke Alte Haide"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="312384655" version="9" timestamp="2011-08-01T10:31:25Z" uid="91790" user="morray" changeset="8889342" lat="48.1667721" lon="11.5908627">
+    <tag k="addr:postcode" v="80805"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Virchow-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Ungererstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="58"/>
+  </node>
+  <node id="312384658" version="4" timestamp="2011-10-11T20:19:20Z" uid="290680" user="wheelmap_visitor" changeset="9527581" lat="48.1655641" lon="11.5883719">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Fuchsbau Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="312395089" version="3" timestamp="2010-11-02T10:35:53Z" uid="290680" user="wheelmap_visitor" changeset="6264976" lat="48.1513683" lon="11.6203776">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Elektra-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="313284024" version="4" timestamp="2009-09-04T19:27:02Z" uid="85761" user="klausis" changeset="2372876" lat="48.1207184" lon="11.5279584">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Bären-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="313284026" version="5" timestamp="2012-01-08T01:32:08Z" uid="290680" user="wheelmap_visitor" changeset="10318920" lat="48.1161851" lon="11.5271542">
+    <tag k="addr:postcode" v="81369"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Partnach-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Albert-Roßhaupter-Straße"/>
+    <tag k="addr:state" v="Bayern"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="67"/>
+  </node>
+  <node id="313465729" version="3" timestamp="2011-10-07T23:03:05Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.2200191" lon="11.5581249">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Kant Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="313621953" version="3" timestamp="2009-01-06T16:05:01Z" uid="80809" user="muenchner" changeset="749247" lat="48.1733165" lon="11.6359145">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Pharao Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="313621955" version="4" timestamp="2010-12-31T15:17:49Z" uid="290680" user="wheelmap_visitor" changeset="6820145" lat="48.1685678" lon="11.6347935">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Centaurus Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="314456249" version="3" timestamp="2011-02-09T17:12:11Z" uid="336643" user="BigBen2003" changeset="7237967" lat="48.1550227" lon="11.6303317">
+    <tag k="name" v="Cosima-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="315259047" version="3" timestamp="2011-11-09T12:40:26Z" uid="290680" user="wheelmap_visitor" changeset="9779156" lat="48.1375411" lon="11.5348221">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="St. Rupertus"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="315935280" version="2" timestamp="2011-07-12T01:56:07Z" uid="290680" user="wheelmap_visitor" changeset="8699157" lat="48.1495873" lon="11.5492446">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Lori-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="315953168" version="2" timestamp="2011-07-12T01:57:10Z" uid="290680" user="wheelmap_visitor" changeset="8699157" lat="48.1503506" lon="11.5453192">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Nordstern Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="315953233" version="1" timestamp="2008-11-30T21:48:55Z" uid="17933" user="abunai" changeset="814704" lat="48.1510933" lon="11.5395667">
+    <tag k="name" v="Alpha Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="315953252" version="2" timestamp="2011-07-12T01:57:08Z" uid="290680" user="wheelmap_visitor" changeset="8699157" lat="48.1496847" lon="11.5465166">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Wappenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="315953383" version="1" timestamp="2008-11-30T21:49:05Z" uid="17933" user="abunai" changeset="814704" lat="48.1494674" lon="11.5426531">
+    <tag k="name" v="elvira apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="315969673" version="1" timestamp="2008-11-30T22:26:47Z" uid="17933" user="abunai" changeset="814704" lat="48.1450768" lon="11.5600474">
+    <tag k="name" v="St. Blasius Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="315969674" version="3" timestamp="2009-12-17T15:10:23Z" uid="42393" user="mawi42" changeset="3394551" lat="48.1448474" lon="11.5602662">
+    <tag k="addr:postcode" v="80333"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="St. Antonius Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Augustenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="8"/>
+  </node>
+  <node id="315969683" version="8" timestamp="2011-08-20T10:19:12Z" uid="495268" user="WLG" changeset="9072769" lat="48.158174" lon="11.5852118">
+    <tag k="addr:postcode" v="80802"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="Schwelle &gt; 10cm"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Gisela-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Leopoldstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="52"/>
+  </node>
+  <node id="315972788" version="6" timestamp="2011-10-09T12:59:04Z" uid="495268" user="WLG" changeset="9511842" lat="48.1592797" lon="11.5857107">
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="Stufe"/>
+    <tag k="name" v="von Mendelsche Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Leopoldstraße"/>
+    <tag k="addr:city" v="München"/>
+  </node>
+  <node id="316116273" version="8" timestamp="2011-02-15T14:27:53Z" uid="290680" user="wheelmap_visitor" changeset="7293585" lat="48.0974503" lon="11.5135341">
+    <tag k="addr:postcode" v="81379"/>
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke im real,- Süd"/>
+    <tag k="layer" v="3"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Machtlfinger Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="4"/>
+  </node>
+  <node id="316739303" version="3" timestamp="2011-10-07T17:18:51Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.0796971" lon="11.6070582">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Pfauen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="316757171" version="5" timestamp="2011-01-30T16:17:44Z" uid="8748" user="ToniE" changeset="7135964" lat="48.12829" lon="11.6462365">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="St. Veit"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="316917342" version="2" timestamp="2010-12-21T06:25:23Z" uid="290680" user="wheelmap_visitor" changeset="6722451" lat="48.1209739" lon="11.5481544">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Bienen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="317457677" version="8" timestamp="2012-01-07T18:34:44Z" uid="290680" user="wheelmap_visitor" changeset="10318920" lat="48.1396052" lon="11.5761164">
+    <tag k="addr:postcode" v="80333"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Engel Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Theatinerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="45"/>
+  </node>
+  <node id="317642142" version="2" timestamp="2009-04-01T23:07:55Z" uid="17933" user="abunai" changeset="58199" lat="48.156226" lon="11.6410422">
+    <tag k="name" v="Fidelio-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="318599105" version="3" timestamp="2011-10-09T19:52:06Z" uid="290680" user="wheelmap_visitor" changeset="9508573" lat="48.1252698" lon="11.6386286">
+    <tag k="created_by" v="xybot"/>
+    <tag k="addr:postcode" v="81673"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Ost-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Josephsburgstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="83"/>
+  </node>
+  <node id="318646776" version="7" timestamp="2011-10-15T05:01:41Z" uid="290680" user="wheelmap_visitor" changeset="9560388" lat="48.0948416" lon="11.5730681">
+    <tag k="addr:postcode" v="81545"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="http://nauplia-apotheke.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Nauplia-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Säbener Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa 08:30-13:00"/>
+  </node>
+  <node id="318708857" version="4" timestamp="2011-07-16T00:14:51Z" uid="64164" user="osmkurt" changeset="8735699" lat="48.136927" lon="11.6127747">
+    <tag k="name" v="Prinzregentenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="318712637" version="2" timestamp="2012-01-03T20:16:49Z" uid="344721" user="stumpi80" changeset="10285247" lat="48.1191798" lon="11.6107836">
+    <tag k="name" v="Melusinen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="318749013" version="4" timestamp="2011-03-24T16:29:49Z" uid="290680" user="wheelmap_visitor" changeset="7656266" lat="48.1258892" lon="11.3678618">
+    <tag k="addr:postcode" v="82110"/>
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Bosco Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Planegger Straße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="addr:housenumber" v="6"/>
+  </node>
+  <node id="318749108" version="7" timestamp="2011-09-16T07:52:28Z" uid="290680" user="wheelmap_visitor" changeset="9313508" lat="48.1276607" lon="11.3658726">
+    <tag k="addr:postcode" v="82110"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke am Bahnhof"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Untere Bahnhofstraße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="addr:housenumber" v="58"/>
+  </node>
+  <node id="318752658" version="4" timestamp="2011-06-02T16:17:29Z" uid="109035" user="Teddy80" changeset="8321446" lat="48.1043842" lon="11.4170201">
+    <tag k="source" v="survey"/>
+    <tag k="name" v="Engel"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="318752816" version="4" timestamp="2011-10-07T13:40:40Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.1052359" lon="11.4297349">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Karl-Valentin-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="318861629" version="4" timestamp="2009-10-06T16:32:13Z" uid="9402" user="ludwich" changeset="2761874" lat="48.0875674" lon="11.6000624">
+    <tag k="dispensing" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="name" v="ABC-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="319268009" version="5" timestamp="2010-11-04T19:10:16Z" uid="89073" user="eimer42" changeset="6290881" lat="48.1246832" lon="11.3660693">
+    <tag k="addr:postcode" v="82110"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Stern Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Otto-Wagner-Straße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="addr:housenumber" v="16"/>
+  </node>
+  <node id="319269573" version="7" timestamp="2011-09-23T17:54:36Z" uid="290680" user="wheelmap_visitor" changeset="9373820" lat="48.1315671" lon="11.3643075">
+    <tag k="addr:postcode" v="82110"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="St.Martin Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Untere Bahnhofstraße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="addr:housenumber" v="38"/>
+  </node>
+  <node id="319270109" version="5" timestamp="2010-12-11T13:51:43Z" uid="290680" user="wheelmap_visitor" changeset="6624284" lat="48.1315461" lon="11.3703569">
+    <tag k="addr:postcode" v="82110"/>
+    <tag k="shop" v="pharmacy"/>
+    <tag k="phone" v="+49 89 8401616‎"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Andreas Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Landsberger Straße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="addr:housenumber" v="27"/>
+  </node>
+  <node id="319378542" version="6" timestamp="2011-10-17T15:32:03Z" uid="290680" user="wheelmap_visitor" changeset="9578325" lat="48.1166361" lon="11.612581">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Alpen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="319439033" version="5" timestamp="2010-06-10T20:36:37Z" uid="51782" user="maxbe" changeset="4957800" lat="48.1688579" lon="11.5740209">
+    <tag k="addr:postcode" v="80804"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Prinz-Eugen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Belgradstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="80"/>
+  </node>
+  <node id="322659729" version="5" timestamp="2011-12-22T13:13:47Z" uid="64164" user="osmkurt" changeset="10179279" lat="48.1147935" lon="11.579375">
+    <tag k="phone" v="+49 89 6917077"/>
+    <tag k="fax" v="+49 89 696348"/>
+    <tag k="website" v="www.walchensee-apotheke.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Walchensee-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Tegernseer Landstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30 ; Sa 08:30-12:30"/>
+  </node>
+  <node id="322660277" version="7" timestamp="2011-01-29T22:21:05Z" uid="79933" user="zEEs" changeset="7128001" lat="48.1160757" lon="11.580668">
+    <tag k="name" v="Heilig-Kreuz-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="324583541" version="1" timestamp="2009-01-02T12:31:42Z" uid="78442" user="jjKlaus" changeset="707813" lat="48.1513384" lon="11.6185772">
+    <tag k="name" v="Arabella-Apotheke‎"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="325928450" version="4" timestamp="2011-10-12T15:03:54Z" uid="290680" user="wheelmap_visitor" changeset="9535427" lat="48.1402895" lon="11.606389">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="St. Gabriel Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="329118008" version="2" timestamp="2010-10-22T11:50:34Z" uid="290680" user="wheelmap_visitor" changeset="6133243" lat="48.1381939" lon="11.5703159">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Ludwigsapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="329118042" version="1" timestamp="2009-01-06T13:09:55Z" uid="17933" user="abunai" changeset="747554" lat="48.1383243" lon="11.5584028">
+    <tag k="name" v="Stadtapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="329118186" version="7" timestamp="2010-04-15T15:34:29Z" uid="70696" user="xybot" changeset="4431179" lat="48.1375587" lon="11.5640928">
+    <tag k="addr:postcode" v="80336"/>
+    <tag k="phone" v="+49 89 593651"/>
+    <tag k="website" v="http://www.schwanthaler-apotheke.de"/>
+    <tag k="email" v="info@schwanthaler-apotheke.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Schwanthaler Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Schwanthalerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="2"/>
+  </node>
+  <node id="329118250" version="3" timestamp="2009-10-17T22:10:28Z" uid="15035" user="grungelborz" changeset="2878445" lat="48.1381335" lon="11.5656317">
+    <tag k="name" v="Bienen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="330429332" version="1" timestamp="2009-01-09T10:30:24Z" uid="8748" user="ToniE" changeset="760052" lat="48.156561" lon="11.5383555">
+    <tag k="dispensing" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="name" v="Albrecht-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="330431041" version="5" timestamp="2009-01-09T20:49:37Z" uid="8748" user="ToniE" changeset="762183" lat="48.1529954" lon="11.5340415">
+    <tag k="dispensing" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="name" v="Winthir Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="330815378" version="5" timestamp="2012-01-07T17:54:44Z" uid="290680" user="wheelmap_visitor" changeset="10318920" lat="48.0623427" lon="11.6776788">
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Tannen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="331343649" version="4" timestamp="2011-05-06T15:51:52Z" uid="89943" user="Bengatzer" changeset="8066313" lat="48.1672214" lon="11.6242178">
+    <tag k="addr:postcode" v="81925"/>
+    <tag k="phone" v="+49 (89) 95 24 30"/>
+    <tag k="fax" v="+49 (89) 95 92 78 50"/>
+    <tag k="website" v="http://www.apotheke-st-emmeram.de"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Oberföhringer Straße"/>
+    <tag k="operator" v="Fr. Dr. M. Völk"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="168b"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-13:00"/>
+    <tag k="email" v="apotheke_st.emmeram@yahoo.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="St. Emmeram Apotheke"/>
+    <tag k="addr:state" v="Bayern"/>
+  </node>
+  <node id="331359821" version="2" timestamp="2011-10-10T13:57:56Z" uid="290680" user="wheelmap_visitor" changeset="9518514" lat="48.1306386" lon="11.6189056">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Rat-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="331838654" version="11" timestamp="2011-11-10T21:33:16Z" uid="290680" user="wheelmap_visitor" changeset="9786526" lat="48.0914309" lon="11.5611792">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="phone" v="+49 89 643412"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Harlachinger Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Grünwalder Straße"/>
+    <tag k="addr:housenumber" v="248"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30;Sa 08:30-12:30"/>
+  </node>
+  <node id="332552746" version="2" timestamp="2009-01-18T19:07:28Z" uid="37197" user="kernl" changeset="807218" lat="48.175444" lon="11.3619391">
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="St.-Hildegard-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="332790679" version="6" timestamp="2011-10-05T21:37:20Z" uid="290680" user="wheelmap_visitor" changeset="9474855" lat="48.1362206" lon="11.5792374">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Mohrenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="332793906" version="5" timestamp="2011-12-22T10:09:15Z" uid="109029" user="shorty_de" changeset="10178220" lat="48.1313545" lon="11.5880259">
+    <tag k="phone" v="089/26010290"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.mohren-apo.de/mohren-apotheke-am-gasteig/?id=8845"/>
+    <tag k="name" v="Mohrenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="332797655" version="7" timestamp="2011-12-27T14:12:07Z" uid="109029" user="shorty_de" changeset="10216043" lat="48.1343945" lon="11.5978062">
+    <tag k="addr:postcode" v="81667"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="http://www.mwp-apo.de/"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Max-Weber-Platz-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Johannisplatz"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="note" v="2nd entrance Innere Wiener Str. 56"/>
+    <tag k="addr:housenumber" v="21"/>
+  </node>
+  <node id="335168209" version="4" timestamp="2011-01-21T22:05:38Z" uid="125136" user="olisi" changeset="7045213" lat="48.1340226" lon="11.5400358">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Park-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="335708364" version="1" timestamp="2009-01-23T16:02:01Z" uid="93534" user="Retz" changeset="829406" lat="48.1357149" lon="11.5377505">
+    <tag k="dispensing" v="yes"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="335741155" version="4" timestamp="2011-01-27T18:27:49Z" uid="367380" user="Mloni" changeset="7106110" lat="48.1584205" lon="11.5475107">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Leonrod Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-13:00"/>
+  </node>
+  <node id="336026350" version="2" timestamp="2011-07-03T18:52:54Z" uid="8748" user="ToniE" changeset="8622441" lat="48.1550866" lon="11.5118925">
+    <tag k="name" v="Nibelungen Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="337811101" version="2" timestamp="2009-12-25T14:34:31Z" uid="8748" user="ToniE" changeset="3448472" lat="48.1370648" lon="11.5788368">
+    <tag k="name" v="Orlando-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="338174988" version="6" timestamp="2012-01-07T13:54:45Z" uid="301486" user="occam11" changeset="10321229" lat="48.1620681" lon="11.5856934">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Feilitsch Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="339109940" version="5" timestamp="2011-08-07T19:35:27Z" uid="54491" user="FloSch" changeset="8950926" lat="48.1266293" lon="11.5585544">
+    <tag k="addr:postcode" v="80337"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke am Kapuzinerplatz"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Häberlstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="23"/>
+  </node>
+  <node id="339110010" version="5" timestamp="2012-01-06T23:14:57Z" uid="13354" user="ivl1705" changeset="10316936" lat="48.128304" lon="11.5561975">
+    <tag k="addr:postcode" v="80337"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Oleander Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Adlzreiterstraße"/>
+    <tag k="addr:state" v="Bayern"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="103"/>
+  </node>
+  <node id="339140598" version="7" timestamp="2011-11-03T18:26:46Z" uid="290680" user="wheelmap_visitor" changeset="9727851" lat="48.1757657" lon="11.5742567">
+    <tag k="addr:postcode" v="80804"/>
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="St. Mauritius-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Rümannstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="5"/>
+  </node>
+  <node id="339295865" version="3" timestamp="2011-07-14T23:19:50Z" uid="56526" user="JJ Rammerl" changeset="8727044" lat="48.1680019" lon="11.6445955">
+    <tag k="addr:postcode" v="81927"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Wolgang-Amadeus-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Freischützstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="92"/>
+  </node>
+  <node id="339759948" version="7" timestamp="2011-01-04T20:53:48Z" uid="149706" user="Garmin765T" changeset="6865674" lat="48.14726" lon="11.7297485">
+    <tag k="addr:postcode" v="85622"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. Knorr Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Hohenlindner Straße"/>
+    <tag k="addr:city" v="Feldkirchen"/>
+    <tag k="addr:housenumber" v="1"/>
+  </node>
+  <node id="340267798" version="3" timestamp="2009-09-04T19:27:08Z" uid="85761" user="klausis" changeset="2372876" lat="48.1193203" lon="11.5441568">
+    <tag k="addr:postcode" v="81371"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Oberländer Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Daiserstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="27"/>
+  </node>
+  <node id="343066131" version="3" timestamp="2011-02-11T00:54:41Z" uid="59819" user="Fuss-im-Ohr" changeset="7251302" lat="48.1016618" lon="11.5816943">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Hochvogel-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="344132385" version="4" timestamp="2011-07-02T18:38:01Z" uid="64164" user="osmkurt" changeset="8610172" lat="48.1305833" lon="11.5904736">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Domos Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Rosenheimer Straße"/>
+  </node>
+  <node id="344498800" version="3" timestamp="2011-07-24T06:20:37Z" uid="64164" user="osmkurt" changeset="8812229" lat="48.1511081" lon="11.6089853">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Arnika-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="344964651" version="4" timestamp="2010-01-20T20:10:58Z" uid="8748" user="ToniE" changeset="3669921" lat="48.138627" lon="11.570944">
+    <tag k="dispensing" v="yes"/>
+    <tag k="source" v="local_knowledge"/>
+    <tag k="name" v="Centrum Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="345197821" version="2" timestamp="2009-10-08T16:14:55Z" uid="8748" user="ToniE" changeset="2784010" lat="48.1110162" lon="11.5949256">
+    <tag k="name" v="aquila Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="345843656" version="3" timestamp="2011-10-31T00:15:11Z" uid="290680" user="wheelmap_visitor" changeset="9690785" lat="48.1732215" lon="11.5949797">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Apotheke an der Berliner Straße"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00; Sa 08:00-13:00"/>
+  </node>
+  <node id="345849084" version="5" timestamp="2011-10-07T11:54:52Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.17369" lon="11.5853722">
+    <tag k="addr:postcode" v="80804"/>
+    <tag k="phone" v="089/3689732"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="St. Peter Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Leopoldstraße"/>
+    <tag k="addr:state" v="Bayern"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="171a"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-12:00"/>
+  </node>
+  <node id="360660248" version="5" timestamp="2011-04-20T16:41:13Z" uid="79933" user="zEEs" changeset="7917777" lat="48.1153218" lon="11.5793512">
+    <tag k="name" v="Silberhorn-Apotheke"/>
+    <tag k="owner" v="Susanne-Ellen Wagner"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Tegernseer Platz"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="opening_hours" v="Mo,We,Fr 08:00-19:00; Tu,Th 08:00-19:30; Sa 09:00-13:00"/>
+  </node>
+  <node id="363409839" version="8" timestamp="2011-12-07T15:02:40Z" uid="290680" user="wheelmap_visitor" changeset="10055663" lat="48.1538748" lon="11.5752545">
+    <tag k="addr:postcode" v="80799"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Neureuther-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Barer Straße"/>
+    <tag k="addr:state" v="Bayern"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="90"/>
+  </node>
+  <node id="364808939" version="2" timestamp="2010-12-01T05:13:47Z" uid="290680" user="wheelmap_visitor" changeset="6500187" lat="48.2165026" lon="11.4631708">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Alfons Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="364995077" version="5" timestamp="2010-05-17T22:47:31Z" uid="110496" user="Lennard-Marc" changeset="4734360" lat="48.1082727" lon="11.4522229">
+    <tag k="name" v="Max-Planck-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="366120802" version="7" timestamp="2011-09-23T06:17:35Z" uid="290680" user="wheelmap_visitor" changeset="9373820" lat="48.1559483" lon="11.5619911">
+    <tag k="addr:postcode" v="80798"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="St.-Josephs-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Görresstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="39"/>
+  </node>
+  <node id="366121033" version="9" timestamp="2011-07-05T20:34:11Z" uid="64164" user="osmkurt" changeset="8642417" lat="48.1576911" lon="11.5626086">
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Barbara Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Keuslinstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="opening_hours" v="Mo-Fr 08:45-18:30; Sa 08:45-14:00"/>
+  </node>
+  <node id="366122293" version="9" timestamp="2010-12-06T22:15:26Z" uid="81983" user="Ogmios" changeset="6569287" lat="48.1596371" lon="11.5633355">
+    <tag k="addr:postcode" v="80796"/>
+    <tag k="phone" v="+49 89 1292800"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="http://www.karlstadtapotheke.de/"/>
+    <tag k="email" v="info@karlstadtapotheke.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Karlstadt Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Elisabethstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa 09:00-15:00"/>
+  </node>
+  <node id="366128513" version="4" timestamp="2009-06-21T11:36:38Z" uid="116151" user="cruz" changeset="1581567" lat="48.1690002" lon="11.5646126">
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Apotheke Am Luitpoldpark"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="369770417" version="2" timestamp="2009-04-04T21:00:55Z" uid="8748" user="ToniE" changeset="177433" lat="48.0632369" lon="11.6145466">
+    <tag k="dispensing" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="name" v="Katharinen Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="370053079" version="1" timestamp="2009-04-05T16:49:27Z" uid="72235" user="Basstoelpel" changeset="247014" lat="48.2247158" lon="11.4741919">
+    <tag k="name" v="Eulen Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Krenmoosstraße"/>
+    <tag k="addr:housenumber" v="22a"/>
+  </node>
+  <node id="370141828" version="3" timestamp="2011-10-25T14:32:23Z" uid="290680" user="wheelmap_visitor" changeset="9650151" lat="48.2287502" lon="11.471572">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Central-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="370221317" version="9" timestamp="2011-12-28T18:40:58Z" uid="290680" user="wheelmap_visitor" changeset="10222046" lat="48.0776551" lon="11.525731">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Forellen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="370758635" version="5" timestamp="2011-10-09T21:32:15Z" uid="290680" user="wheelmap_visitor" changeset="9508573" lat="48.1825604" lon="11.5941774">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Bienen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="371328236" version="3" timestamp="2011-11-10T12:58:59Z" uid="290680" user="wheelmap_visitor" changeset="9786526" lat="48.1599541" lon="11.5811662">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Hohenzollern Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="371328813" version="4" timestamp="2011-11-10T12:58:58Z" uid="290680" user="wheelmap_visitor" changeset="9786526" lat="48.1599171" lon="11.5823504">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="wunderlichs Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="371754356" version="4" timestamp="2010-11-15T13:56:31Z" uid="65148" user="tixuwuoz" changeset="6377564" lat="48.1295846" lon="11.5680101">
+    <tag k="addr:postcode" v="80469"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Glockenbach-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Holzstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Stefan Kremer e.K."/>
+    <tag k="addr:housenumber" v="19"/>
+  </node>
+  <node id="372886817" version="5" timestamp="2011-06-18T17:40:42Z" uid="24748" user="mabapla" changeset="8475903" lat="48.1823939" lon="11.552924">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Apotheke am Forum"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="372886825" version="3" timestamp="2010-10-20T13:18:34Z" uid="290680" user="wheelmap_visitor" changeset="6111797" lat="48.1820427" lon="11.5529764">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Olympiaapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="374015303" version="9" timestamp="2011-10-31T16:45:20Z" uid="290680" user="wheelmap_visitor" changeset="9700443" lat="48.0716197" lon="11.3760571">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Bonifatius-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="374133428" version="1" timestamp="2009-04-13T16:16:41Z" uid="72235" user="Basstoelpel" changeset="492717" lat="48.1796572" lon="11.5093421">
+    <tag k="name" v="Bauberger Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="374383590" version="6" timestamp="2011-07-29T02:43:44Z" uid="64164" user="osmkurt" changeset="8859899" lat="48.1186351" lon="11.5829493">
+    <tag k="addr:postcode" v="81541"/>
+    <tag k="phone" v="+49 89 696986"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Markus Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Tegernseer Landstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="22"/>
+  </node>
+  <node id="380761266" version="1" timestamp="2009-04-22T17:35:20Z" uid="113364" user="BR0SI" changeset="901805" lat="48.0924642" lon="11.4136034">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Stefanus"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="383909160" version="5" timestamp="2011-06-13T23:04:50Z" uid="342705" user="KLMB" changeset="8432586" lat="48.1693881" lon="11.5935999">
+    <tag k="addr:postcode" v="80805"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Ungerer-Bad"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Ungererstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="90"/>
+  </node>
+  <node id="386621116" version="4" timestamp="2011-02-16T15:10:02Z" uid="381750" user="andreaslrchr" changeset="7304690" lat="48.1822676" lon="11.5290974">
+    <tag k="name" v="MediPlus"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="387410048" version="2" timestamp="2009-11-28T22:01:40Z" uid="13029" user="ham" changeset="3240907" lat="48.1092191" lon="11.5743578">
+    <tag k="addr:postcode" v="81547"/>
+    <tag k="phone" v="+49 89 6970123"/>
+    <tag k="fax" v="+49 89  6514272"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Stella Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Grünwalder Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="12"/>
+  </node>
+  <node id="387808143" version="4" timestamp="2009-06-08T20:23:54Z" uid="38907" user="hongakonga" changeset="1462431" lat="48.1610781" lon="11.5824698">
+    <tag k="name" v="Kaiser Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="387808320" version="1" timestamp="2009-04-30T18:01:02Z" uid="91790" user="morray" changeset="1028376" lat="48.1633395" lon="11.5837658">
+    <tag k="name" v="Clemensapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="389457971" version="3" timestamp="2011-09-21T19:56:09Z" uid="523600" user="SKu_DeM" changeset="9363406" lat="48.2096458" lon="11.5678863">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Baum-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="390082527" version="8" timestamp="2011-10-16T21:02:58Z" uid="290680" user="wheelmap_visitor" changeset="9569216" lat="48.1522739" lon="11.5742841">
+    <tag k="addr:postcode" v="80799"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Barer Apotheke"/>
+    <tag k="contact:phone" v="+49 89 273213 0"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Blütenstraße"/>
+    <tag k="addr:state" v="Bayern"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="20"/>
+  </node>
+  <node id="390269441" version="6" timestamp="2011-08-24T12:51:59Z" uid="495268" user="WLG" changeset="9112229" lat="48.1487579" lon="11.5752087">
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="Schwelle &gt; 10cm"/>
+    <tag k="name" v="Bienen Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="operator" v="Bienen Apotheke"/>
+  </node>
+  <node id="390923768" version="6" timestamp="2010-11-15T13:44:02Z" uid="65148" user="tixuwuoz" changeset="6377477" lat="48.1478385" lon="11.5764545">
+    <tag k="addr:postcode" v="80799"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Theresien Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Amalienstraße"/>
+    <tag k="addr:state" v="Bayern"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="33"/>
+  </node>
+  <node id="392137509" version="3" timestamp="2011-10-12T13:20:30Z" uid="290680" user="wheelmap_visitor" changeset="9535427" lat="48.0930874" lon="11.4650552">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Neurieder Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="392385622" version="2" timestamp="2010-07-20T10:48:26Z" uid="293774" user="Oli-Wan" changeset="5269409" lat="48.1040346" lon="11.4168141">
+    <tag k="source" v="survey"/>
+    <tag k="name" v="Antonius"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Poststraße"/>
+    <tag k="addr:housenumber" v="4"/>
+  </node>
+  <node id="392551861" version="2" timestamp="2011-10-08T19:32:48Z" uid="290680" user="wheelmap_visitor" changeset="9499106" lat="48.15245" lon="11.5073512">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Hirschgarten-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="392688961" version="9" timestamp="2011-09-18T11:41:21Z" uid="323389" user="Michael_H" changeset="9331897" lat="48.1341836" lon="11.36007">
+    <tag k="addr:postcode" v="82110"/>
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Glocken-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Josef-Kistler-Straße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="addr:housenumber" v="4"/>
+  </node>
+  <node id="409497636" version="4" timestamp="2011-03-09T12:16:02Z" uid="290680" user="wheelmap_visitor" changeset="7502135" lat="48.1325656" lon="11.5666652">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Blumenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="409497641" version="6" timestamp="2011-10-04T14:14:54Z" uid="290680" user="wheelmap_visitor" changeset="9466302" lat="48.1237363" lon="11.5668271">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="www.balde-apotheke.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Balde-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Auenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="84"/>
+  </node>
+  <node id="411632439" version="4" timestamp="2010-07-28T23:23:33Z" uid="68010" user="ms2000" changeset="5342935" lat="48.1431301" lon="11.4240466">
+    <tag k="addr:postcode" v="81243"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Münchner Kindl Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Limesstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00; Sa 08:00-13:00"/>
+  </node>
+  <node id="412264644" version="3" timestamp="2011-07-28T21:50:38Z" uid="64164" user="osmkurt" changeset="8858794" lat="48.1212203" lon="11.576358">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Kolumbus Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="412743928" version="3" timestamp="2009-06-27T19:31:36Z" uid="71041" user="TomRadfahrer" changeset="1652474" lat="48.0992217" lon="11.5287038">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Boschetsrieder Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="414178359" version="4" timestamp="2012-01-08T00:38:48Z" uid="290680" user="wheelmap_visitor" changeset="10318920" lat="48.06411" lon="11.6133778">
+    <tag k="dispensing" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke am Bahnhof"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="addr:city" v="Unterhaching"/>
+    <tag k="addr:housenumber" v="14"/>
+  </node>
+  <node id="414979708" version="2" timestamp="2009-08-14T22:38:31Z" uid="68974" user="Broky" changeset="2148295" lat="48.1649131" lon="11.4679767">
+    <tag k="addr:postcode" v="81247"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Menzinger Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Verdistraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="94"/>
+  </node>
+  <node id="416821859" version="3" timestamp="2011-08-21T07:45:15Z" uid="42393" user="mawi42" changeset="9081349" lat="48.1593865" lon="11.5632496">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="AZ-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="417104971" version="3" timestamp="2011-02-22T19:21:40Z" uid="367380" user="Mloni" changeset="7366512" lat="48.1396571" lon="11.5629067">
+    <tag k="name" v="Schützen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="417637009" version="4" timestamp="2011-06-27T16:27:58Z" uid="81983" user="Ogmios" changeset="8563686" lat="48.160324" lon="11.5740711">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="St. Raphael-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Hohenzollernstraße"/>
+    <tag k="addr:housenumber" v="59"/>
+  </node>
+  <node id="417672156" version="2" timestamp="2010-01-02T18:41:10Z" uid="42393" user="mawi42" changeset="3521068" lat="48.1601994" lon="11.5760493">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="St. Georgs-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="417800244" version="5" timestamp="2009-10-14T00:05:39Z" uid="36809" user="lmaa-du-osm-korinthenkacker" changeset="2841175" lat="48.0885159" lon="11.5198901">
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="418955857" version="1" timestamp="2009-06-11T22:26:11Z" uid="132011" user="MichiM" changeset="1492010" lat="48.1085304" lon="11.4776028">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Montessori"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="419997902" version="2" timestamp="2009-06-14T08:58:48Z" uid="108674" user="Infoman" changeset="1511311" lat="48.1802295" lon="11.5108751">
+    <tag k="name" v="Christopherus"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="427540542" version="3" timestamp="2010-11-10T17:22:14Z" uid="290680" user="wheelmap_visitor" changeset="6337136" lat="48.1665021" lon="11.5645483">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="St. Sebastian-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="427540547" version="4" timestamp="2011-11-04T00:38:50Z" uid="94240" user="zichwi" changeset="9735334" lat="48.163279" lon="11.5638789">
+    <tag k="addr:postcode" v="80797"/>
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="http://www.herzog-apotheke.de"/>
+    <tag k="name" v="Herzog Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Schleißheimer Straße"/>
+    <tag k="addr:housenumber" v="131"/>
+  </node>
+  <node id="427540591" version="2" timestamp="2009-06-21T11:52:53Z" uid="116151" user="cruz" changeset="1581712" lat="48.1709614" lon="11.5641707">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Lerchenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="429432261" version="4" timestamp="2011-05-17T14:42:17Z" uid="247670" user="burt13de" changeset="8172294" lat="48.1646372" lon="11.4644072">
+    <tag k="addr:postcode" v="81247"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Blutenburg Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Verdistraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="119"/>
+  </node>
+  <node id="429919192" version="3" timestamp="2011-02-15T14:25:38Z" uid="290680" user="wheelmap_visitor" changeset="7293585" lat="48.09997" lon="11.5278321">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Bienen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="430262646" version="1" timestamp="2009-06-28T15:22:35Z" uid="17933" user="abunai" changeset="1663339" lat="48.137911" lon="11.5561411">
+    <tag k="name" v="Apotheke in der Postbank"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="430262656" version="4" timestamp="2010-06-28T02:14:33Z" uid="46472" user="sendelhorst" changeset="5094474" lat="48.1244043" lon="11.5415172">
+    <tag k="name" v="Sendlinger Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="430262657" version="2" timestamp="2011-10-27T14:48:16Z" uid="47544" user="SveLil" changeset="9668917" lat="48.1184703" lon="11.5403048">
+    <tag k="name" v="Behringapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="432880019" version="3" timestamp="2010-11-19T13:24:01Z" uid="290680" user="wheelmap_visitor" changeset="6405810" lat="48.1634743" lon="11.5601075">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Apotheke im Schwabikum"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="433904711" version="2" timestamp="2009-08-15T18:58:49Z" uid="118209" user="delphin1965" changeset="2156679" lat="48.1279712" lon="11.6212785">
+    <tag k="name" v="Schwanen Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="435590930" version="1" timestamp="2009-07-06T20:11:50Z" uid="68974" user="Broky" changeset="1756141" lat="48.1646509" lon="11.4749666">
+    <tag k="name" v="Enzian Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="439786220" version="2" timestamp="2011-02-17T19:58:54Z" uid="367380" user="Mloni" changeset="7316750" lat="48.1418832" lon="11.5611292">
+    <tag k="name" v="Inter Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="441299280" version="2" timestamp="2010-07-01T17:18:52Z" uid="51782" user="maxbe" changeset="5122143" lat="48.1648656" lon="11.5772429">
+    <tag k="addr:postcode" v="80803"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Sophien-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Destouchesstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="36"/>
+  </node>
+  <node id="441305880" version="1" timestamp="2009-07-13T19:41:42Z" uid="68974" user="Broky" changeset="1820244" lat="48.1303485" lon="11.5726054">
+    <tag k="addr:postcode" v="80469"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Klenzeapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Fraunhoferstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="12"/>
+  </node>
+  <node id="441511828" version="4" timestamp="2011-10-08T19:40:32Z" uid="290680" user="wheelmap_visitor" changeset="9499106" lat="48.1365271" lon="11.6134134">
+    <tag k="addr:postcode" v="81675"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Bienen Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Einsteinstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="130"/>
+  </node>
+  <node id="442106967" version="8" timestamp="2011-10-25T21:59:40Z" uid="290680" user="wheelmap_visitor" changeset="9650151" lat="48.1506497" lon="11.4625451">
+    <tag k="addr:postcode" v="81245"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Wensauer Apotheke"/>
+    <tag k="contact:website" v="http://www.apotheken.de/club/81245/wensauer-apotheke/"/>
+    <tag k="contact:phone" v="+49 89 886614"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="August-Exter-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-12:30"/>
+  </node>
+  <node id="443340601" version="5" timestamp="2011-07-03T18:39:57Z" uid="81983" user="Ogmios" changeset="8622315" lat="48.1590289" lon="11.566502">
+    <tag k="addr:postcode" v="80796"/>
+    <tag k="contact:fax" v="+49-89-27372382"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="contact:phone" v="+49-89-2721873"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Elisabethstraße"/>
+    <tag k="operator" v="Apothekerin Barbara Dilger"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-13:00"/>
+    <tag k="contact:email" v="hildegard-apotheke@web.de"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Hildegard Apotheke"/>
+    <tag k="contact:website" v="http://www.hildegard-apoteke.de/"/>
+  </node>
+  <node id="444004199" version="1" timestamp="2009-07-19T22:16:40Z" uid="107037" user="ulfm" changeset="1879006" lat="48.1108774" lon="11.6177872">
+    <tag k="name" v="Urban-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="444004216" version="1" timestamp="2009-07-19T22:16:40Z" uid="107037" user="ulfm" changeset="1879006" lat="48.1203229" lon="11.6241013">
+    <tag k="name" v="aquila Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="444375355" version="3" timestamp="2010-08-10T13:48:48Z" uid="7596" user="ck3d" changeset="5454098" lat="48.1542773" lon="11.553223">
+    <tag k="addr:postcode" v="80636"/>
+    <tag k="source" v="survey"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Florian Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Dachauer Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="157"/>
+  </node>
+  <node id="445498572" version="5" timestamp="2011-07-24T00:23:09Z" uid="64164" user="osmkurt" changeset="8811171" lat="48.1130468" lon="11.5859778">
+    <tag k="addr:postcode" v="81539"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Walter-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Deisenhofener Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="46"/>
+  </node>
+  <node id="447083589" version="4" timestamp="2010-11-27T23:44:04Z" uid="290680" user="wheelmap_visitor" changeset="6474321" lat="48.1346533" lon="11.3765062">
+    <tag k="addr:postcode" v="82110"/>
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Kurfürsten Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Kurfürstenstraße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="addr:housenumber" v="6"/>
+  </node>
+  <node id="447519568" version="5" timestamp="2011-12-27T14:12:07Z" uid="109029" user="shorty_de" changeset="10216043" lat="48.1345129" lon="11.597465">
+    <tag k="addr:postcode" v="81667"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.mwp-apo.de/"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Max-Weber-Platz-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Innere Wiener Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="note" v="2nd entrance Johannisplatz 21"/>
+    <tag k="addr:housenumber" v="56"/>
+  </node>
+  <node id="447786242" version="2" timestamp="2011-10-11T19:58:38Z" uid="290680" user="wheelmap_visitor" changeset="9527581" lat="48.143329" lon="11.5747827">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Brienner Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="450517363" version="3" timestamp="2011-10-07T11:48:35Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.1865861" lon="11.5729916">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Delphin Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="471049663" version="5" timestamp="2011-12-19T23:59:34Z" uid="564338" user="EricSander" changeset="10160322" lat="48.1337578" lon="11.5344037">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Heimeran-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="473778275" version="5" timestamp="2011-12-23T00:08:06Z" uid="290680" user="wheelmap_visitor" changeset="10178643" lat="48.0722043" lon="11.5310471">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Wassermann-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="474383123" version="5" timestamp="2011-10-17T16:09:16Z" uid="290680" user="wheelmap_visitor" changeset="9578325" lat="48.0880966" lon="11.4794458">
+    <tag k="addr:postcode" v="81475"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Tell-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Steinkirchner Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="28"/>
+  </node>
+  <node id="474383128" version="4" timestamp="2009-10-30T19:55:08Z" uid="36809" user="lmaa-du-osm-korinthenkacker" changeset="2992134" lat="48.0876455" lon="11.4784185">
+    <tag k="addr:postcode" v="81475"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Maxhof-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Maxhofstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="32"/>
+  </node>
+  <node id="474807935" version="2" timestamp="2009-08-27T11:56:54Z" uid="163350" user="iceboy" changeset="2276559" lat="48.1192639" lon="11.4837426">
+    <tag k="name" v="Asklepios-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="477959879" version="2" timestamp="2011-11-11T13:25:50Z" uid="290680" user="wheelmap_visitor" changeset="9794046" lat="48.1075667" lon="11.7274719">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Waldlustapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="477959906" version="2" timestamp="2010-07-24T15:27:12Z" uid="8748" user="ToniE" changeset="5304847" lat="48.1075815" lon="11.7230094">
+    <tag k="name" v="Jagdfeldapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="486008978" version="5" timestamp="2011-05-28T11:43:53Z" uid="290680" user="wheelmap_visitor" changeset="8270296" lat="48.1278004" lon="11.604243">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Welfen-Apotheke"/>
+    <tag k="layer" v="-2"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Sa 09:00-16:00"/>
+  </node>
+  <node id="486031945" version="3" timestamp="2011-11-19T11:57:22Z" uid="133814" user="tomwue" changeset="9872451" lat="48.1429092" lon="11.5773469">
+    <tag k="name" v="Apotheke am Odeonsplatz"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="490152150" version="3" timestamp="2011-04-10T14:08:24Z" uid="336643" user="BigBen2003" changeset="7822748" lat="48.1914552" lon="11.6444595">
+    <tag k="name" v="Feringa Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="518112800" version="3" timestamp="2011-04-30T18:29:53Z" uid="37850" user="mawis" changeset="8014394" lat="48.0848579" lon="11.4908769">
+    <tag k="addr:postcode" v="81476"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Forstapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Liesl-Karlstadt-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="24"/>
+  </node>
+  <node id="519403116" version="2" timestamp="2011-12-25T16:38:28Z" uid="290680" user="wheelmap_visitor" changeset="10197936" lat="48.0805785" lon="11.51669">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Johannes Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="operator" v="(unknown)"/>
+  </node>
+  <node id="521964612" version="3" timestamp="2011-06-15T21:15:42Z" uid="469939" user="fredero" changeset="8451037" lat="48.1943111" lon="11.5977">
+    <tag k="name" v="Im Real"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="522196046" version="2" timestamp="2010-03-25T00:54:47Z" uid="107037" user="ulfm" changeset="4226078" lat="48.120223" lon="11.5738362">
+    <tag k="addr:postcode" v="81543"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Humboldt-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Humboldtstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="21"/>
+  </node>
+  <node id="527833746" version="5" timestamp="2010-12-14T12:56:31Z" uid="29061" user="KPG" changeset="6657738" lat="48.1611886" lon="11.5403498">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Heideck-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="528998447" version="4" timestamp="2011-12-10T14:02:14Z" uid="35482" user="Henning Daum" changeset="10081165" lat="48.1485021" lon="11.6177073">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Bienen-Apotheke Bogenhausen"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="530273416" version="2" timestamp="2010-09-26T20:41:54Z" uid="65148" user="tixuwuoz" changeset="5885620" lat="48.0795741" lon="11.5126909">
+    <tag k="name" v="Geigenberger Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-12:30,14:30-18:00"/>
+  </node>
+  <node id="539450128" version="2" timestamp="2011-10-09T17:04:02Z" uid="290680" user="wheelmap_visitor" changeset="9508573" lat="48.0953223" lon="11.4977426">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Äskulap-Apotheke"/>
+    <tag k="layer" v="1"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="540264829" version="2" timestamp="2011-12-25T17:00:28Z" uid="290680" user="wheelmap_visitor" changeset="10197936" lat="48.2452197" lon="11.4417659">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Marien-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="540382878" version="4" timestamp="2011-09-23T04:54:47Z" uid="290680" user="wheelmap_visitor" changeset="9373820" lat="48.0828417" lon="11.4849016">
+    <tag k="addr:postcode" v="81475"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Königs-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Königswieser Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="5"/>
+  </node>
+  <node id="545708116" version="1" timestamp="2009-10-30T07:42:02Z" uid="37197" user="kernl" changeset="2987105" lat="48.1924562" lon="11.3716887">
+    <tag k="name" v="Kreuz-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="552415014" version="4" timestamp="2011-11-04T07:45:49Z" uid="482628" user="gumul" changeset="9736432" lat="48.0664773" lon="11.3849496">
+    <tag k="addr:postcode" v="82131"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Gisela-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Münchener Straße"/>
+    <tag k="addr:city" v="Gauting"/>
+    <tag k="addr:housenumber" v="29"/>
+  </node>
+  <node id="567074004" version="1" timestamp="2009-11-19T16:52:45Z" uid="91790" user="morray" changeset="3161696" lat="48.1432334" lon="11.4969923">
+    <tag k="name" v="Fontane Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="582623396" version="2" timestamp="2011-10-10T10:57:16Z" uid="290680" user="wheelmap_visitor" changeset="9518514" lat="48.1834077" lon="11.5345137">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Sani Plus"/>
+    <tag k="layer" v="0"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="596651881" version="9" timestamp="2011-08-18T23:45:02Z" uid="56526" user="JJ Rammerl" changeset="9061675" lat="48.1390359" lon="11.5653535">
+    <tag k="addr:postcode" v="80335"/>
+    <tag k="shop" v="pharmacy"/>
+    <tag k="phone" v="089/549000-0"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. Becker&apos;s Central Apotheke"/>
+    <tag k="layer" v="-1"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Karlsplatz (Stachus)"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-20:00; Sa 09:00-20:00"/>
+  </node>
+  <node id="605003111" version="3" timestamp="2011-02-05T16:40:32Z" uid="8748" user="ToniE" changeset="7194421" lat="48.0721218" lon="11.6055689">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="St.-Alto-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="606964148" version="4" timestamp="2010-09-26T20:42:08Z" uid="65148" user="tixuwuoz" changeset="5885620" lat="48.1597998" lon="11.5433611">
+    <tag k="addr:postcode" v="80637"/>
+    <tag k="phone" v="+49-89-153316"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dom-Pedro-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Dom-Pedro-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-12:00"/>
+  </node>
+  <node id="611889922" version="4" timestamp="2011-06-29T09:19:40Z" uid="290680" user="wheelmap_visitor" changeset="8578324" lat="48.1349967" lon="11.5096668">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Karwendelapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="615826973" version="4" timestamp="2011-01-02T13:16:28Z" uid="29061" user="KPG" changeset="6838234" lat="48.1528919" lon="11.5319565">
+    <tag k="addr:postcode" v="80634"/>
+    <tag k="phone" v="+49-89-13016260"/>
+    <tag k="fax" v="+49-89-130162688"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Kranich-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Wendl-Dietrich-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa 08:30-18:00"/>
+  </node>
+  <node id="616681961" version="2" timestamp="2010-06-25T08:50:37Z" uid="247670" user="burt13de" changeset="5071150" lat="48.1349718" lon="11.5033158">
+    <tag k="name" v="Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="617126144" version="3" timestamp="2010-04-03T16:14:45Z" uid="42393" user="mawi42" changeset="4314606" lat="48.1415242" lon="11.5777992">
+    <tag k="name" v="Hofapotheke in der Residenz"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="628598549" version="1" timestamp="2010-02-04T07:43:09Z" uid="11909" user="Uwe Girlich" changeset="3788440" lat="48.2492453" lon="11.6523178">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Stadt-Apotheke Garching"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa 08:30-13:00"/>
+  </node>
+  <node id="633008092" version="2" timestamp="2011-05-17T14:42:18Z" uid="247670" user="burt13de" changeset="8172294" lat="48.1644753" lon="11.4729345">
+    <tag k="name" v="Verdi-Apotheke"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="633220771" version="3" timestamp="2011-07-05T15:10:49Z" uid="56526" user="JJ Rammerl" changeset="8639988" lat="48.2465388" lon="11.6491072">
+    <tag k="addr:postcode" v="85748"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Spitzweck-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Münchener Straße"/>
+    <tag k="addr:city" v="Garching b. München"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-13:00, 14:00-18:30; Sa 09:00-13:00"/>
+  </node>
+  <node id="648549140" version="3" timestamp="2011-02-03T20:12:32Z" uid="8748" user="ToniE" changeset="7177410" lat="48.1389572" lon="11.5750377">
+    <tag k="name" v="Karmeliten Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="648860362" version="4" timestamp="2011-01-17T20:21:13Z" uid="382934" user="NepoMUC69" changeset="7003759" lat="48.1515169" lon="11.5256874">
+    <tag k="addr:postcode" v="80634"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Isenstein-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Wendl-Dietrich-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="21c"/>
+  </node>
+  <node id="653956869" version="4" timestamp="2011-08-15T15:18:37Z" uid="438219" user="bikemike" changeset="9028062" lat="48.2259533" lon="11.467392">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="description" v="Drive through Pharmacy / Autoschalter"/>
+    <tag k="name" v="vitalCENTER Karlsfeld"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="delivery" v="yes"/>
+  </node>
+  <node id="655375320" version="7" timestamp="2011-06-28T02:14:36Z" uid="64164" user="osmkurt" changeset="8567761" lat="48.1248815" lon="11.5887278">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Reger-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo 08:30-18:30; Tu 08:30-19:00; We 08:30-18:30; Th 08:30-19:00; Fr 08:30-18:30"/>
+  </node>
+  <node id="656295781" version="2" timestamp="2010-04-14T15:58:24Z" uid="59819" user="Fuss-im-Ohr" changeset="4423603" lat="48.1397762" lon="11.5666067">
+    <tag k="name" v="fixme Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="664302226" version="3" timestamp="2011-05-12T18:19:03Z" uid="290680" user="wheelmap_visitor" changeset="8123837" lat="48.1252323" lon="11.5797218">
+    <tag k="wheelchair" v="no"/>
+    <tag k="description" v="yes"/>
+    <tag k="name" v="Mariahilf Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30"/>
+  </node>
+  <node id="664507077" version="3" timestamp="2012-01-06T23:14:30Z" uid="13354" user="ivl1705" changeset="10316936" lat="48.1264032" lon="11.5525568">
+    <tag k="addr:postcode" v="80337"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Elefanten-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Lindwurmstraße"/>
+    <tag k="addr:state" v="Bayern"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="141"/>
+  </node>
+  <node id="669542863" version="2" timestamp="2011-02-06T08:37:59Z" uid="42875" user="burnus" changeset="7200694" lat="48.1326174" lon="11.5653205">
+    <tag k="addr:postcode" v="80337"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Doc Morris"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Lindwurmstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Frank Füßl e.K."/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa 09:00-14:00"/>
+  </node>
+  <node id="672688179" version="2" timestamp="2011-02-06T09:28:27Z" uid="42875" user="burnus" changeset="7200694" lat="48.130777" lon="11.5705668">
+    <tag k="name" v="Angertor Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="673647387" version="4" timestamp="2011-09-28T18:02:21Z" uid="8748" user="ToniE" changeset="9421529" lat="48.0983133" lon="11.6310516">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="St. Michael Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="675912430" version="1" timestamp="2010-03-27T14:31:03Z" uid="250567" user="moemoemoe" changeset="4246942" lat="48.1180918" lon="11.5164465">
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="677195639" version="2" timestamp="2011-10-06T18:50:21Z" uid="290680" user="wheelmap_visitor" changeset="9482892" lat="48.1299056" lon="11.4882716">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Senftenauer Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="677214277" version="1" timestamp="2010-03-28T23:24:47Z" uid="107037" user="ulfm" changeset="4263095" lat="48.1119048" lon="11.503169">
+    <tag k="name" v="Richard-Wagner-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="677214283" version="2" timestamp="2011-01-21T17:05:45Z" uid="290680" user="wheelmap_visitor" changeset="7042238" lat="48.1136548" lon="11.4787364">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Pasteur-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="677214294" version="1" timestamp="2010-03-28T23:24:47Z" uid="107037" user="ulfm" changeset="4263095" lat="48.1132157" lon="11.5108926">
+    <tag k="name" v="St.-Heinrich-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="677214308" version="1" timestamp="2010-03-28T23:24:48Z" uid="107037" user="ulfm" changeset="4263095" lat="48.1147749" lon="11.5216919">
+    <tag k="name" v="Eichendorff Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="677953272" version="3" timestamp="2011-10-07T20:44:12Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.1468875" lon="11.4131355">
+    <tag k="addr:postcode" v="81249"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Galenus Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="678046321" version="2" timestamp="2011-10-09T19:14:53Z" uid="290680" user="wheelmap_visitor" changeset="9508573" lat="48.1579708" lon="11.5442197">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Tobias-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="678070765" version="2" timestamp="2010-08-10T13:48:51Z" uid="7596" user="ck3d" changeset="5454098" lat="48.1557562" lon="11.5109332">
+    <tag k="name" v="Schloss-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Romanplatz"/>
+    <tag k="addr:housenumber" v="5"/>
+  </node>
+  <node id="696835710" version="2" timestamp="2010-04-14T18:21:07Z" uid="70696" user="xybot" changeset="4424806" lat="48.1365198" lon="11.55743">
+    <tag k="addr:postcode" v="80336"/>
+    <tag k="phone" v="+49 89 54886770"/>
+    <tag k="fax" v="+49 89 548867710"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.rihani-apotheke.de"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Landwehrstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa 08:30-19:00"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="email" v="info@rihani-apotheke.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Rihani Apotheke"/>
+  </node>
+  <node id="696835713" version="1" timestamp="2010-04-14T16:43:52Z" uid="59819" user="Fuss-im-Ohr" changeset="4423955" lat="48.1368169" lon="11.5584376">
+    <tag k="addr:postcode" v="80336"/>
+    <tag k="phone" v="+49 89 54329300"/>
+    <tag k="fax" v="+49 89 54329301"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.landwehr-apotheke.com"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Goethe Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Goethestraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00; Sa 08:00-18:00"/>
+  </node>
+  <node id="700154655" version="4" timestamp="2011-10-09T17:08:00Z" uid="290680" user="wheelmap_visitor" changeset="9508573" lat="48.1344452" lon="11.5688143">
+    <tag k="addr:postcode" v="80331"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Asam-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Sendlinger Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="opening_hours" v="Mo-Fr 08:15-20:00; Sa 09:00-18:00"/>
+  </node>
+  <node id="700889363" version="3" timestamp="2010-12-18T23:01:46Z" uid="290680" user="wheelmap_visitor" changeset="6701077" lat="48.1931586" lon="11.6147972">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Freimann-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="note" v="Apotheke von &quot;Bayer&quot;"/>
+  </node>
+  <node id="701376163" version="2" timestamp="2011-02-22T19:21:37Z" uid="367380" user="Mloni" changeset="7366512" lat="48.1392182" lon="11.5620691">
+    <tag k="name" v="Ahorn-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="701495518" version="3" timestamp="2011-08-18T23:44:59Z" uid="56526" user="JJ Rammerl" changeset="9061675" lat="48.1356124" lon="11.5715057">
+    <tag k="addr:postcode" v="80331"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Adler-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Sendlinger Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="13"/>
+  </node>
+  <node id="705038159" version="3" timestamp="2010-05-09T08:36:25Z" uid="145231" user="woodpeck_repair" changeset="4645739" lat="48.0821839" lon="11.5042526">
+    <tag k="addr:postcode" v="81477"/>
+    <tag k="name" v="Süd-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Drygalski-Allee"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="117"/>
+  </node>
+  <node id="705912027" version="2" timestamp="2011-10-13T08:20:55Z" uid="290680" user="wheelmap_visitor" changeset="9544161" lat="48.1114008" lon="11.5259312">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="St. Morus Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="712613253" version="5" timestamp="2011-11-12T01:44:16Z" uid="290680" user="wheelmap_visitor" changeset="9794046" lat="48.160983" lon="11.5240382">
+    <tag k="addr:postcode" v="80638"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Gerner Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="15"/>
+  </node>
+  <node id="714308720" version="1" timestamp="2010-04-30T23:49:35Z" uid="46472" user="sendelhorst" changeset="4571023" lat="48.0987907" lon="11.523423">
+    <tag k="name" v="Apotheke am Ratzinger Platz"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="719808995" version="2" timestamp="2011-10-02T19:06:18Z" uid="290680" user="wheelmap_visitor" changeset="9447804" lat="48.170038" lon="11.534457">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Einhorn-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="722326247" version="5" timestamp="2011-10-12T17:44:13Z" uid="290680" user="wheelmap_visitor" changeset="9535427" lat="48.0809349" lon="11.5280348">
+    <tag k="addr:postcode" v="81479"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Ludwigshöher Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Friedastraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="23"/>
+  </node>
+  <node id="735279821" version="15" timestamp="2011-04-11T11:40:45Z" uid="70696" user="xybot" changeset="7832139" lat="48.1084857" lon="11.4509111">
+    <tag k="addr:postcode" v="82152"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="apotheke-martinsried.de"/>
+    <tag k="int_name" v="Röntgen-Apotheke"/>
+    <tag k="alt_name" v="Röntgen-Apotheke"/>
+    <tag k="name" v="Röntgen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Röntgenstraße"/>
+    <tag k="old_name" v="Röntgen-Apotheke"/>
+    <tag k="addr:housenumber" v="1a"/>
+  </node>
+  <node id="740984103" version="3" timestamp="2010-07-16T22:00:06Z" uid="46472" user="sendelhorst" changeset="5238420" lat="48.1211826" lon="11.5346078">
+    <tag k="addr:postcode" v="81373"/>
+    <tag k="website" v="http://www.nestroy-apotheke.de/"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Nestroy-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Hansastraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="132"/>
+  </node>
+  <node id="741558337" version="4" timestamp="2011-10-02T19:07:30Z" uid="290680" user="wheelmap_visitor" changeset="9447804" lat="48.179898" lon="11.5129479">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="note" v="20-MAI-10 21:16:14"/>
+  </node>
+  <node id="746639932" version="3" timestamp="2010-11-19T17:56:28Z" uid="290680" user="wheelmap_visitor" changeset="6405810" lat="48.1818688" lon="11.5196586">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Wolf Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="755933802" version="4" timestamp="2011-06-05T20:38:41Z" uid="290680" user="wheelmap_visitor" changeset="8347707" lat="48.1892098" lon="11.4627692">
+    <tag k="addr:postcode" v="80999"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="http://www.allacher-apotheke.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Allacher Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Nikolaus-Rüdinger-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="17"/>
+  </node>
+  <node id="766098392" version="2" timestamp="2011-11-26T08:52:13Z" uid="290680" user="wheelmap_visitor" changeset="9952573" lat="48.1944735" lon="11.6420934">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Mövenapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="767486162" version="8" timestamp="2011-10-07T07:59:48Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.1282965" lon="11.5090923">
+    <tag k="addr:postcode" v="80686"/>
+    <tag k="phone" v="+49 89/571444"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Droste-Hülshoff Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Droste-Hülshoff-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="18"/>
+  </node>
+  <node id="769062131" version="1" timestamp="2010-06-11T08:00:18Z" uid="99078" user="ulrich-dtmd" changeset="4960406" lat="48.1397574" lon="11.5641255">
+    <tag k="name" v="Bienen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="780164383" version="2" timestamp="2010-06-21T20:57:11Z" uid="307650" user="Righard" changeset="5046578" lat="48.1946808" lon="11.3729523">
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="787687569" version="5" timestamp="2011-12-25T16:42:54Z" uid="290680" user="wheelmap_visitor" changeset="10197936" lat="48.1174877" lon="11.5399223">
+    <tag k="addr:postcode" v="81373"/>
+    <tag k="phone" v="+49 (0)89/764677"/>
+    <tag k="fax" v="+49 (0)89/72959347"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Harras Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Am Harras"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Dr. Karl Heinz Sensch"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00; Sa 08:00-14:00"/>
+  </node>
+  <node id="792969283" version="4" timestamp="2010-11-15T13:56:04Z" uid="65148" user="tixuwuoz" changeset="6377564" lat="48.1172713" lon="11.5403956">
+    <tag k="addr:postcode" v="81369"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="St. Vitus Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Plinganserstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Barbara Plechatny"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00; Sa 08:00-14:00"/>
+  </node>
+  <node id="818944550" version="1" timestamp="2010-07-15T14:43:42Z" uid="314121" user="zuio04" changeset="5227340" lat="48.1166857" lon="11.5021813">
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="818958150" version="1" timestamp="2010-07-15T14:54:18Z" uid="314121" user="zuio04" changeset="5227340" lat="48.1199231" lon="11.4918924">
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="828917183" version="2" timestamp="2011-01-02T12:45:13Z" uid="29061" user="KPG" changeset="6837961" lat="48.1565673" lon="11.5304975">
+    <tag k="addr:postcode" v="80639"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Lachner Apotheke Wolfgang GramerAdresse:Haltestelle ist barrierefrei.‎"/>
+    <tag k="contact:phone" v="089 160756"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Nymphenburger Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="191"/>
+  </node>
+  <node id="835352685" version="1" timestamp="2010-07-27T11:56:26Z" uid="107899" user="Ossi58" changeset="5328658" lat="48.155775" lon="11.5127863">
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="836401523" version="2" timestamp="2011-10-25T23:01:54Z" uid="290680" user="wheelmap_visitor" changeset="9650151" lat="48.1376212" lon="11.5420818">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Westend Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="838507442" version="5" timestamp="2011-08-19T18:41:42Z" uid="495268" user="WLG" changeset="9067600" lat="48.1622617" lon="11.5866384">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Apotheke"/>
+    <tag k="layer" v="-1"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Münchner Freiheit ( Untergeschoss )"/>
+    <tag k="addr:city" v="München"/>
+  </node>
+  <node id="838507451" version="6" timestamp="2012-01-07T23:38:03Z" uid="361746" user="raupach" changeset="10327067" lat="48.1623879" lon="11.5871518">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="Stufe deutlich höher als 7 cm"/>
+    <tag k="name" v="St. Ursula Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Münchner Freiheit"/>
+    <tag k="addr:housenumber" v="8"/>
+  </node>
+  <node id="840054197" version="5" timestamp="2011-12-28T18:40:41Z" uid="290680" user="wheelmap_visitor" changeset="10222046" lat="48.0770861" lon="11.5250392">
+    <tag k="addr:postcode" v="81479"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="easyApotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Wolfratshauser Straße"/>
+    <tag k="addr:housenumber" v="226"/>
+  </node>
+  <node id="854428230" version="5" timestamp="2011-08-10T14:39:59Z" uid="264500" user="Silanea" changeset="8977156" lat="48.1620553" lon="11.4135785">
+    <tag k="addr:postcode" v="81245"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="St. Quirin Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Ubostraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="65"/>
+  </node>
+  <node id="893397468" version="2" timestamp="2011-10-07T23:20:51Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.1838337" lon="11.5790787">
+    <tag k="addr:postcode" v="80807"/>
+    <tag k="phone" v="089/3596069"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Domagkapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Milbertshofener Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="92"/>
+  </node>
+  <node id="905586680" version="2" timestamp="2011-06-20T09:22:57Z" uid="212111" user="okilimu" changeset="8492392" lat="48.2023323" lon="11.5863251">
+    <tag k="addr:postcode" v="80939"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="entrace" v="yes"/>
+    <tag k="name" v="Efeu Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Ingolstädter Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="166"/>
+  </node>
+  <node id="915952292" version="3" timestamp="2011-05-08T08:29:04Z" uid="72235" user="Basstoelpel" changeset="8080041" lat="48.180672" lon="11.486505">
+    <tag k="addr:postcode" v="80997"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke Hartmannshof"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Riezlerweg"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-13:00, 14:30-18:30; Sa 08:30-12:30"/>
+  </node>
+  <node id="939517972" version="4" timestamp="2011-10-30T10:49:24Z" uid="290680" user="wheelmap_visitor" changeset="9690785" lat="48.1272653" lon="11.5031056">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="ST Hedwig Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="939517982" version="2" timestamp="2010-10-08T20:29:52Z" uid="354821" user="joi" changeset="5988414" lat="48.1334941" lon="11.4994578">
+    <tag k="phone" v="+49 89/562205"/>
+    <tag k="name" v="Maximilian Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="939553859" version="3" timestamp="2011-01-13T01:11:53Z" uid="342705" user="KLMB" changeset="6953462" lat="48.1393844" lon="11.512083">
+    <tag k="name" v="Agnes Bernauer Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="977471639" version="1" timestamp="2010-11-05T13:09:14Z" uid="87883" user="schneckchen4711" changeset="6295062" lat="48.1519664" lon="11.5329544">
+    <tag k="addr:postcode" v="80634"/>
+    <tag k="phone" v="+49-89-161533"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Rotkreutzplatz Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Donnersbergerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="5"/>
+  </node>
+  <node id="982833418" version="3" timestamp="2011-01-02T15:01:14Z" uid="29061" user="KPG" changeset="6838566" lat="48.1576086" lon="11.580644">
+    <tag k="dispensing" v="yes"/>
+    <tag k="pseudoscience" v="acupuncture, homeopatia, TCM"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Franz-Joseph-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="operator" v="Hang Nga Mai-Dieterle"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 08:30-12:30"/>
+  </node>
+  <node id="983021286" version="2" timestamp="2011-02-04T18:36:57Z" uid="342705" user="KLMB" changeset="7185843" lat="48.1515364" lon="11.5769797">
+    <tag k="name" v="Adalbert-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="985008092" version="5" timestamp="2011-08-14T16:32:24Z" uid="54491" user="FloSch" changeset="9018001" lat="48.1285994" lon="11.5567878">
+    <tag k="addr:postcode" v="80337"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="website" v="http://www.wittelsbacher-apotheke.de/"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Wittelsbacher Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Lindwurmstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:30;Sa 08:30-18:00"/>
+  </node>
+  <node id="1029909586" version="2" timestamp="2011-01-24T07:31:54Z" uid="381750" user="andreaslrchr" changeset="7070167" lat="48.1815047" lon="11.4972486">
+    <tag k="name" v="St. Thomas Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1057618658" version="5" timestamp="2011-04-22T20:31:14Z" uid="342705" user="KLMB" changeset="7938524" lat="48.1477202" lon="11.5342245">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Donnersberger Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo - Fr 08:30 - 18:30;  Sa 08:30 - 13:00"/>
+  </node>
+  <node id="1062378385" version="4" timestamp="2011-02-07T07:19:30Z" uid="290680" user="wheelmap_visitor" changeset="7213005" lat="48.1804686" lon="11.5070577">
+    <tag k="shop" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Bienen Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1080044329" version="1" timestamp="2011-01-03T02:42:04Z" uid="389341" user="rjacob" changeset="6845857" lat="48.1458423" lon="11.6378954">
+    <tag k="addr:postcode" v="81927"/>
+    <tag k="website" v="http://www.denninger-apotheke.de/"/>
+    <tag k="name" v="Denninger-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Warthestraße"/>
+    <tag k="addr:housenumber" v="7"/>
+  </node>
+  <node id="1102436623" version="1" timestamp="2011-01-13T20:06:32Z" uid="68974" user="Broky" changeset="6961059" lat="48.1399024" lon="11.5327233">
+    <tag k="addr:postcode" v="80339"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke am Hauptzollamt"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Landsberger Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="113"/>
+  </node>
+  <node id="1126989582" version="2" timestamp="2011-02-01T11:38:29Z" uid="70696" user="xybot" changeset="7153814" lat="48.1168672" lon="11.5815316">
+    <tag k="addr:postcode" v="81541"/>
+    <tag k="name" v="TELA-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Tegernseer Landstraße"/>
+    <tag k="addr:housenumber" v="39"/>
+  </node>
+  <node id="1131893696" version="3" timestamp="2011-10-27T19:26:59Z" uid="290680" user="wheelmap_visitor" changeset="9665470" lat="48.1423655" lon="11.5505811">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Bienen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1134127006" version="2" timestamp="2011-02-03T18:39:48Z" uid="325824" user="freeflow" changeset="7176480" lat="48.1255004" lon="11.5499723">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1137578909" version="2" timestamp="2011-05-16T13:31:21Z" uid="290680" user="wheelmap_visitor" changeset="8160663" lat="48.2293435" lon="11.6726854">
+    <tag k="addr:postcode" v="85737"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Schloß Apotheke"/>
+    <tag k="contact:phone" v="+49 89 969145"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Schloßstraße"/>
+    <tag k="addr:city" v="Ismaning"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:30; Sa 08:00-13:00"/>
+  </node>
+  <node id="1138011589" version="1" timestamp="2011-02-05T21:25:13Z" uid="367380" user="Mloni" changeset="7197450" lat="48.1630068" lon="11.5434826">
+    <tag k="name" v="Helios-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1144032870" version="3" timestamp="2011-12-05T20:03:05Z" uid="290680" user="wheelmap_visitor" changeset="10041344" lat="48.1357516" lon="11.5400994">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Ganghofer-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1144619694" version="2" timestamp="2011-10-07T09:37:57Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.1399812" lon="11.4959081">
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Agricola Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1145148848" version="2" timestamp="2011-10-14T16:28:31Z" uid="290680" user="wheelmap_visitor" changeset="9552229" lat="48.1836615" lon="11.5251916">
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Seydlitz"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1148216618" version="2" timestamp="2011-09-23T13:05:38Z" uid="290680" user="wheelmap_visitor" changeset="9373820" lat="48.1761295" lon="11.5843239">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1191155302" version="4" timestamp="2011-10-09T21:51:14Z" uid="290680" user="wheelmap_visitor" changeset="9508573" lat="48.1863226" lon="11.5766015">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Minerva Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1192973307" version="2" timestamp="2011-03-16T08:36:33Z" uid="314121" user="zuio04" changeset="7573351" lat="48.118137" lon="11.4894305">
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1209458864" version="2" timestamp="2011-10-23T10:49:51Z" uid="72235" user="Basstoelpel" changeset="9631436" lat="48.1780563" lon="11.5214768">
+    <tag k="addr:postcode" v="80992"/>
+    <tag k="source" v="survey"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Moosacher Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Feldmochinger Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="10"/>
+  </node>
+  <node id="1249921635" version="2" timestamp="2011-06-04T14:58:03Z" uid="290680" user="wheelmap_visitor" changeset="8336814" lat="48.1634749" lon="11.5599748">
+    <tag k="dispensing" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="http://www.schwabikum.de/"/>
+    <tag k="name" v="Schwabikum"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1302498068" version="1" timestamp="2011-05-27T20:07:24Z" uid="64164" user="osmkurt" changeset="8265545" lat="48.1283677" lon="11.5955726">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Fleming Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1305724153" version="1" timestamp="2011-05-30T11:54:51Z" uid="336643" user="BigBen2003" changeset="8291341" lat="48.1580739" lon="11.6414681">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Freischütz Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:15; Sa 08:30-13:00"/>
+  </node>
+  <node id="1317496418" version="3" timestamp="2011-10-12T13:20:31Z" uid="290680" user="wheelmap_visitor" changeset="9535427" lat="48.0919732" lon="11.4676513">
+    <tag k="addr:postcode" v="82061"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Bienen Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Forstenrieder Straße"/>
+    <tag k="addr:housenumber" v="14"/>
+  </node>
+  <node id="1324405584" version="2" timestamp="2011-06-16T19:11:52Z" uid="469939" user="fredero" changeset="8458954" lat="48.2069952" lon="11.563982">
+    <tag k="name" v="Doc Morris"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1328528932" version="2" timestamp="2011-07-11T19:08:40Z" uid="290680" user="wheelmap_visitor" changeset="8696541" lat="48.1097595" lon="11.7179003">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="dm"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1347141659" version="1" timestamp="2011-07-02T18:45:46Z" uid="479667" user="Metrax84" changeset="8610860" lat="48.1400306" lon="11.5070156">
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1371985308" version="2" timestamp="2011-09-29T10:36:08Z" uid="290680" user="wheelmap_visitor" changeset="9424500" lat="48.1011728" lon="11.6442081">
+    <tag k="addr:postcode" v="81737"/>
+    <tag k="phone" v="+49 89 6700960"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="website" v="http://www.sanipep.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Saniplus Apotheke  im Pep"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Ollenhauerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-20:00"/>
+  </node>
+  <node id="1372082007" version="2" timestamp="2011-07-27T15:25:49Z" uid="81983" user="Ogmios" changeset="8845966" lat="48.1555209" lon="11.5658877">
+    <tag k="addr:postcode" v="80798"/>
+    <tag k="shop" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Hiltensperger-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Josephsplatz"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:30; Sa 09:00-13:00"/>
+  </node>
+  <node id="1378668996" version="1" timestamp="2011-07-30T10:31:02Z" uid="495268" user="WLG" changeset="8870442" lat="48.1539949" lon="11.5841915">
+    <tag k="addr:postcode" v="80802"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="Stufe"/>
+    <tag k="name" v="Kaulbach Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Ohmstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="6"/>
+  </node>
+  <node id="1392844165" version="2" timestamp="2011-10-22T12:21:25Z" uid="336643" user="BigBen2003" changeset="9623436" lat="48.1778384" lon="11.6366948">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Notapotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="operator" v="Peter Hiesel"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:00"/>
+  </node>
+  <node id="1401226369" version="1" timestamp="2011-08-16T17:13:13Z" uid="505600" user="Drea58" changeset="9038861" lat="48.1989991" lon="11.5861303">
+    <tag k="name" v="Brunnen-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1405097373" version="2" timestamp="2011-08-20T00:59:46Z" uid="64164" user="osmkurt" changeset="9069895" lat="48.1496886" lon="11.6018382">
+    <tag k="name" v="Apotheke am Kufsteiner Platz"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1427850975" version="2" timestamp="2011-10-07T23:00:37Z" uid="290680" user="wheelmap_visitor" changeset="9490517" lat="48.192168" lon="11.5876091">
+    <tag k="addr:postcode" v="80939"/>
+    <tag k="phone" v="+49 (0) 89/219091325"/>
+    <tag k="fax" v="+49 (0) 89/219091425"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Apotheke Farma-Pllus"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Maria-Probst-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-20:00"/>
+  </node>
+  <node id="1528206790" version="3" timestamp="2011-12-26T23:41:20Z" uid="290680" user="wheelmap_visitor" changeset="10205620" lat="48.1367714" lon="11.5026719">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Stefans Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1528208269" version="2" timestamp="2011-12-02T13:23:46Z" uid="562893" user="rmuc" changeset="10016229" lat="48.1384289" lon="11.50338">
+    <tag k="name" v="Gloria Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1528230607" version="2" timestamp="2011-12-26T23:42:24Z" uid="290680" user="wheelmap_visitor" changeset="10205620" lat="48.1399718" lon="11.5028114">
+    <tag k="wheelchair" v="no"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1559355042" version="1" timestamp="2011-12-23T13:11:05Z" uid="8748" user="ToniE" changeset="10187044" lat="48.112332" lon="11.7038989">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Widder-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1567305611" version="1" timestamp="2011-12-29T14:18:07Z" uid="287306" user="Matthias Frank" changeset="10235784" lat="48.1513107" lon="11.5639904">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Robert-Koch-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1567316557" version="1" timestamp="2011-12-29T14:29:37Z" uid="287306" user="Matthias Frank" changeset="10235784" lat="48.1491176" lon="11.5631402">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Augusten-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1573738307" version="1" timestamp="2012-01-02T08:08:08Z" uid="287306" user="Matthias Frank" changeset="10268228" lat="48.152743" lon="11.5654916">
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Edelweiß-Apotheke"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1578183401" version="1" timestamp="2012-01-05T14:07:38Z" uid="289251" user="SAS6667" changeset="10301078" lat="48.12633" lon="11.6442045">
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1579339688" version="1" timestamp="2012-01-06T11:40:23Z" uid="581139" user="JMaurer" changeset="10310467" lat="48.1169172" lon="11.656795">
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+</osm>

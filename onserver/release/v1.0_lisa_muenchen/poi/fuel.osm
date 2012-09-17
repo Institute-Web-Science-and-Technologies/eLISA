@@ -1,0 +1,1313 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis SNAPSHOT-r26564">
+  <node id="16559459" version="3" timestamp="2010-11-15T13:56:25Z" uid="65148" user="tixuwuoz" changeset="6377564" lat="48.1214066" lon="11.6636995">
+    <tag k="addr:postcode" v="81825"/>
+    <tag k="phone" v="+49 89 4272 0360"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Allguth"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Kreillerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="220"/>
+  </node>
+  <node id="17983212" version="4" timestamp="2008-06-15T22:11:02Z" uid="31605" user="hatzfeld" changeset="176119" lat="48.1105748" lon="11.7139746">
+    <tag k="created_by" v="Potlatch 0.4a"/>
+    <tag k="name" v="ESSO"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="17983213" version="4" timestamp="2008-06-15T22:11:01Z" uid="31605" user="hatzfeld" changeset="176119" lat="48.1113254" lon="11.7130358">
+    <tag k="created_by" v="Potlatch 0.4a"/>
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="17983325" version="8" timestamp="2010-07-24T14:14:28Z" uid="8748" user="ToniE" changeset="5304280" lat="48.1085713" lon="11.7224288">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="addr:postcode" v="85540"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Münchener Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Aral"/>
+    <tag k="addr:housenumber" v="16"/>
+  </node>
+  <node id="17984040" version="9" timestamp="2010-06-29T15:12:54Z" uid="65019" user="Kaefer84" changeset="5106631" lat="48.0966928" lon="11.7292026">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Südtreibstoff"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="18042871" version="3" timestamp="2010-03-15T17:23:23Z" uid="8748" user="ToniE" changeset="4136347" lat="48.1218886" lon="11.6640674">
+    <tag k="name" v="Allguth"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="20626565" version="2" timestamp="2011-07-14T23:19:49Z" uid="56526" user="JJ Rammerl" changeset="8727044" lat="48.1225133" lon="11.6606558">
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="20626599" version="4" timestamp="2011-08-15T07:59:15Z" uid="290680" user="wheelmap_visitor" changeset="9024098" lat="48.119667" lon="11.6777179">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="25231097" version="4" timestamp="2009-10-22T09:14:59Z" uid="65019" user="Kaefer84" changeset="2919137" lat="48.1075431" lon="11.5794118">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:cetane_60" v="yes"/>
+    <tag k="fuel:HGV_diesel" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="ARAL"/>
+    <tag k="service" v="carwash"/>
+    <tag k="fuel:octane_100" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="26603838" version="2" timestamp="2007-11-29T21:14:33Z" uid="20548" user="mob" changeset="647650" lat="48.1253617" lon="11.6484941">
+    <tag k="created_by" v="Potlatch 0.5d"/>
+    <tag k="name" v="Süd-Treibstoff"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="26955039" version="6" timestamp="2009-10-06T18:51:20Z" uid="18015" user="chan" changeset="2763490" lat="48.1929231" lon="11.5835724">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Bavaria Petrol"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="27186284" version="5" timestamp="2011-10-03T10:39:23Z" uid="290680" user="wheelmap_visitor" changeset="9456721" lat="48.1089051" lon="11.6397867">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Agip"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="27240762" version="7" timestamp="2009-12-21T15:15:41Z" uid="65019" user="Kaefer84" changeset="3420975" lat="48.1148978" lon="11.6171642">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:cetane_60" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Shell"/>
+    <tag k="service" v="carwash"/>
+    <tag k="fuel:octane_100" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="27240764" version="5" timestamp="2009-10-17T22:31:11Z" uid="65019" user="Kaefer84" changeset="2878559" lat="48.1144989" lon="11.6176063">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Agip"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="27240766" version="6" timestamp="2011-03-29T17:02:08Z" uid="8748" user="ToniE" changeset="7708520" lat="48.1137701" lon="11.6171102">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="OMV"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="27369869" version="4" timestamp="2011-11-26T08:53:14Z" uid="290680" user="wheelmap_visitor" changeset="9952573" lat="48.1903741" lon="11.6391765">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Esso"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="29903463" version="5" timestamp="2011-10-08T09:55:56Z" uid="290680" user="wheelmap_visitor" changeset="9499106" lat="48.1268863" lon="11.5222581">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="34705523" version="4" timestamp="2011-08-25T18:05:03Z" uid="498988" user="xs400dohc" changeset="9123462" lat="48.1850256" lon="11.5849429">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Jet"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="fuel:e10" v="yes"/>
+  </node>
+  <node id="34798865" version="11" timestamp="2011-12-14T10:49:45Z" uid="290680" user="wheelmap_visitor" changeset="10114293" lat="48.0612088" lon="11.6642517">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="ESSO"/>
+    <tag k="service" v="kiosk"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="34798867" version="11" timestamp="2011-08-07T16:36:37Z" uid="8748" user="ToniE" changeset="8949076" lat="48.0602475" lon="11.6649062">
+    <tag k="vacuum_cleaner" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:ec_cards" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="fuel:octane_100" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="fuel:cetane_60" v="yes"/>
+    <tag k="name" v="Shell"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+  </node>
+  <node id="34799135" version="9" timestamp="2011-06-19T20:33:22Z" uid="469504" user="Skymaster" changeset="8488457" lat="48.0635612" lon="11.6618022">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Gruber"/>
+    <tag k="payment:ec_cards" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="37027404" version="9" timestamp="2011-03-31T16:58:35Z" uid="336643" user="BigBen2003" changeset="7727753" lat="48.1772814" lon="11.5895362">
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="addr:postcode" v="80807"/>
+    <tag k="phone" v="+49 89 364016"/>
+    <tag k="fuel:cng" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Schenkendorfstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Aral"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="note" v="Diese Tankstelle führt LPG und Erdgas"/>
+  </node>
+  <node id="40201687" version="7" timestamp="2010-01-01T12:08:10Z" uid="149097" user="AlexanderF" changeset="3506991" lat="48.1910775" lon="11.5861117">
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="phone" v="+49 89 31881833"/>
+    <tag k="addr:street" v="Maria-Probst-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="no"/>
+    <tag k="name" v="SB - Tankstelle"/>
+    <tag k="fuel:e85" v="no"/>
+    <tag k="maxheight" v="3"/>
+    <tag k="note" v="LPG mit ACME und Dish Anschluß"/>
+    <tag k="fuel:1_25" v="no"/>
+    <tag k="fuel:LH2" v="no"/>
+    <tag k="addr:postcode" v="80939"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:ethanol" v="no"/>
+    <tag k="fuel:biogas" v="no"/>
+    <tag k="fuel:1_50" v="no"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="fuel:octane_100" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="fuel:biodiesel" v="no"/>
+    <tag k="fuel:methanol" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="fuel:HGV_diesel" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:electricity" v="no"/>
+  </node>
+  <node id="40203397" version="5" timestamp="2010-12-31T15:30:56Z" uid="290680" user="wheelmap_visitor" changeset="6820145" lat="48.1879667" lon="11.5806065">
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:ethanol" v="no"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:biogas" v="no"/>
+    <tag k="fuel:1_50" v="no"/>
+    <tag k="fuel:octane_100" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="fuel:biodiesel" v="no"/>
+    <tag k="operator" v="Shell"/>
+    <tag k="fuel:octane_95" v="no"/>
+    <tag k="fuel:methanol" v="no"/>
+    <tag k="fuel:octane_91" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="fuel:HGV_diesel" v="yes"/>
+    <tag k="name" v="Shell"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="service" v="carwash"/>
+    <tag k="fuel:electricity" v="no"/>
+    <tag k="fuel:e85" v="no"/>
+    <tag k="fuel:LH2" v="no"/>
+    <tag k="fuel:1_25" v="no"/>
+  </node>
+  <node id="48094961" version="7" timestamp="2011-02-01T22:37:43Z" uid="170813" user="Flose" changeset="7160269" lat="48.190675" lon="11.6165934">
+    <tag k="shop" v="kiosk"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="addr:postcode" v="80939"/>
+    <tag k="phone" v="+49 89 3256423"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Situlistraße"/>
+    <tag k="operator" v="Sprint"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="fuel:biodiesel" v="yes"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="name" v="Auto-Friedl"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="brand" v="Sprint"/>
+    <tag k="note" v="LPG mit ACME Anschluß"/>
+  </node>
+  <node id="52008633" version="8" timestamp="2011-07-12T00:42:40Z" uid="56526" user="JJ Rammerl" changeset="8698971" lat="48.1954844" lon="11.5966822">
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="addr:street" v="Margot-Kalinke-Straße"/>
+    <tag k="man_made" v="surveillance"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:00"/>
+    <tag k="fuel:octane_95" v="no"/>
+    <tag k="fuel:octane_91" v="no"/>
+    <tag k="name" v="SUMA-Center SB Tank"/>
+    <tag k="fuel:e85" v="no"/>
+    <tag k="maxheight" v="3.5"/>
+    <tag k="fuel:1_25" v="no"/>
+    <tag k="fuel:LH2" v="no"/>
+    <tag k="addr:postcode" v="80939"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:ethanol" v="no"/>
+    <tag k="fuel:biogas" v="no"/>
+    <tag k="fuel:1_50" v="no"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="fuel:octane_100" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="fuel:biodiesel" v="no"/>
+    <tag k="fuel:methanol" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="fuel:HGV_diesel" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:electricity" v="no"/>
+  </node>
+  <node id="59931484" version="2" timestamp="2007-11-07T07:40:09Z" uid="10854" user="andwin" changeset="432049" lat="48.2125413" lon="11.5604382">
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="69453708" version="5" timestamp="2009-08-15T19:29:07Z" uid="118209" user="delphin1965" changeset="2157035" lat="48.1662638" lon="11.5907131">
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="ESSO"/>
+    <tag k="atm:operator" v="ING DiBa"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="70919683" version="11" timestamp="2011-10-21T21:52:35Z" uid="290680" user="wheelmap_visitor" changeset="9613553" lat="48.1788519" lon="11.4869177">
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="shop" v="Hermes"/>
+    <tag k="fuel:cng" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Allguth"/>
+    <tag k="FIXME" v="Tag shop überprüfen"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="70920072" version="8" timestamp="2011-02-07T07:17:28Z" uid="290680" user="wheelmap_visitor" changeset="7213005" lat="48.1772376" lon="11.4969889">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="toom"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="note" v="please check- Agip, wie vorher eingetragen ist es jedenfall mit Sicherheit nicht."/>
+  </node>
+  <node id="70921252" version="5" timestamp="2009-06-09T12:33:54Z" uid="85761" user="klausis" changeset="1467504" lat="48.1717363" lon="11.5070295">
+    <tag k="name" v="Esso"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="70921750" version="7" timestamp="2009-03-22T16:56:38Z" uid="72235" user="Basstoelpel" changeset="843920" lat="48.1777137" lon="11.467374">
+    <tag k="name" v="AGIP"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="70924645" version="9" timestamp="2010-09-19T12:45:09Z" uid="65148" user="tixuwuoz" changeset="5819427" lat="48.1649125" lon="11.4673105">
+    <tag k="source" v="Yahoo Aerial Image and local knowledge"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Verdistraße"/>
+    <tag k="addr:city" v="München"/>
+  </node>
+  <node id="70925017" version="9" timestamp="2011-10-25T22:11:20Z" uid="290680" user="wheelmap_visitor" changeset="9650151" lat="48.164922" lon="11.4593794">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Jet"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="84633871" version="14" timestamp="2010-11-18T01:42:23Z" uid="290680" user="wheelmap_visitor" changeset="6397212" lat="48.0985128" lon="11.5186508">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="ARAL"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="87643859" version="9" timestamp="2011-08-21T15:29:38Z" uid="124837" user="swus" changeset="9085286" lat="48.1121934" lon="11.5391709">
+    <tag k="source" v="survey"/>
+    <tag k="name" v="ARAL"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="87648442" version="10" timestamp="2011-02-05T16:40:18Z" uid="8748" user="ToniE" changeset="7194421" lat="48.0741538" lon="11.6040657">
+    <tag k="shop" v="car_repair"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:account_cards" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Agip"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="service" v="carwash"/>
+    <tag k="payment:coins" v="yes"/>
+  </node>
+  <node id="87981884" version="3" timestamp="2010-08-04T19:58:50Z" uid="8748" user="ToniE" changeset="5402622" lat="48.1076913" lon="11.5802794">
+    <tag k="source" v="survey"/>
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="90140693" version="2" timestamp="2009-09-04T13:39:56Z" uid="85761" user="klausis" changeset="2369376" lat="48.1808459" lon="11.4608461">
+    <tag k="name" v="Süd-Treibstoff"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="90140696" version="3" timestamp="2009-09-04T13:39:36Z" uid="85761" user="klausis" changeset="2369376" lat="48.1645207" lon="11.4594791">
+    <tag k="name" v="Agip"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="90221371" version="4" timestamp="2011-06-20T09:22:57Z" uid="212111" user="okilimu" changeset="8492392" lat="48.2018911" lon="11.5861558">
+    <tag k="addr:postcode" v="80939"/>
+    <tag k="entrace" v="yes"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Ingolstädter Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="164"/>
+  </node>
+  <node id="94067830" version="9" timestamp="2010-11-23T14:58:15Z" uid="89943" user="Bengatzer" changeset="6440082" lat="48.2255975" lon="11.6712807">
+    <tag k="shop" v="kiosk"/>
+    <tag k="addr:postcode" v="85737"/>
+    <tag k="fuel:1_50" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Münchener Straße"/>
+    <tag k="operator" v="OMV"/>
+    <tag k="addr:city" v="Ismaning"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-22:00"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="OMV"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:1_25" v="yes"/>
+  </node>
+  <node id="94067832" version="8" timestamp="2010-10-22T21:19:15Z" uid="56526" user="JJ Rammerl" changeset="6140499" lat="48.2234807" lon="11.6694448">
+    <tag k="shop" v="kiosk"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="addr:postcode" v="85737"/>
+    <tag k="fuel:1_50" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Münchener Straße"/>
+    <tag k="operator" v="Agip"/>
+    <tag k="addr:city" v="Ismaning"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Agip"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:1_25" v="yes"/>
+  </node>
+  <node id="108056112" version="3" timestamp="2011-03-17T17:26:54Z" uid="31704" user="frosch" changeset="7587590" lat="48.144831" lon="11.7258565">
+    <tag k="addr:postcode" v="85622"/>
+    <tag k="phone" v="+49 89 9043731"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Jet"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Münchner Straße"/>
+    <tag k="addr:city" v="Feldkirchen"/>
+    <tag k="addr:housenumber" v="23"/>
+  </node>
+  <node id="108056116" version="3" timestamp="2010-12-28T12:49:36Z" uid="85475" user="miche101" changeset="6787797" lat="48.1457141" lon="11.7276943">
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="108292331" version="3" timestamp="2009-09-01T19:43:58Z" uid="85761" user="klausis" changeset="2341347" lat="48.1405579" lon="11.6799758">
+    <tag k="name" v="Sprint"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="108292335" version="3" timestamp="2009-09-01T19:43:58Z" uid="85761" user="klausis" changeset="2341347" lat="48.140557" lon="11.6839876">
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="124223747" version="3" timestamp="2009-09-04T18:07:45Z" uid="85761" user="klausis" changeset="2371943" lat="48.1019463" lon="11.4262539">
+    <tag k="name" v="Agip"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="124223754" version="6" timestamp="2011-05-11T15:47:18Z" uid="393439" user="ETH" changeset="8113500" lat="48.1087297" lon="11.4273253">
+    <tag k="name" v="Total"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="125535935" version="10" timestamp="2011-07-26T17:40:58Z" uid="290680" user="wheelmap_visitor" changeset="8837221" lat="48.1713685" lon="11.7194562">
+    <tag k="addr:postcode" v="85609"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Erdinger Straße"/>
+    <tag k="addr:city" v="Aschheim"/>
+    <tag k="addr:housenumber" v="6"/>
+  </node>
+  <node id="132564570" version="4" timestamp="2010-07-17T10:59:38Z" uid="64536" user="Michael Forster" changeset="5241504" lat="48.1803576" lon="11.6545874">
+    <tag k="name" v="Allguth"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="135644382" version="3" timestamp="2009-06-26T18:27:27Z" uid="85761" user="klausis" changeset="1643040" lat="48.1221603" lon="11.5979794">
+    <tag k="name" v="V-Markt"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="156819079" version="7" timestamp="2011-12-03T22:53:15Z" uid="554744" user="Catweazle2011" changeset="10029108" lat="48.091251" lon="11.4689621">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="171476917" version="6" timestamp="2011-11-26T21:43:45Z" uid="72235" user="Basstoelpel" changeset="9961398" lat="48.1791511" lon="11.508704">
+    <tag k="addr:postcode" v="80992"/>
+    <tag k="phone" v="089/1491202"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="SB Tankstelle"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Baubergerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="A. Förtsch"/>
+  </node>
+  <node id="198193757" version="4" timestamp="2009-06-09T12:32:47Z" uid="85761" user="klausis" changeset="1467504" lat="48.19237" lon="11.4997944">
+    <tag k="name" v="Allguth"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="198211094" version="5" timestamp="2011-10-27T19:41:24Z" uid="290680" user="wheelmap_visitor" changeset="9665470" lat="48.1765262" lon="11.5357705">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Allguth"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="198212598" version="7" timestamp="2010-10-20T13:18:36Z" uid="290680" user="wheelmap_visitor" changeset="6111797" lat="48.1821779" lon="11.5540014">
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="phone" v="+49 89 3515736"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Avia"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Lerchenauer Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="note" v="LPG mit ACME Anschluß"/>
+    <tag k="addr:housenumber" v="75"/>
+  </node>
+  <node id="206338251" version="6" timestamp="2011-12-25T16:44:05Z" uid="290680" user="wheelmap_visitor" changeset="10197936" lat="48.1220401" lon="11.5488867">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="AGIP"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="224097137" version="7" timestamp="2009-11-29T16:04:57Z" uid="8748" user="ToniE" changeset="3246951" lat="48.074517" lon="11.6774545">
+    <tag k="addr:postcode" v="85579"/>
+    <tag k="vacuum_cleaner" v="yes"/>
+    <tag k="phone" v="+49 89 604970"/>
+    <tag k="website" v="http://www.omv.de"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="operator" v="OMV"/>
+    <tag k="addr:city" v="Neubiberg"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="OMV"/>
+    <tag k="fuel:diesel" v="yes"/>
+  </node>
+  <node id="243666983" version="1" timestamp="2008-01-27T10:13:56Z" uid="20601" user="SabineSW" changeset="698973" lat="48.1612159" lon="11.5566209">
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="243669182" version="3" timestamp="2011-07-03T18:52:55Z" uid="8748" user="ToniE" changeset="8622441" lat="48.1601063" lon="11.5117289">
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="243717560" version="7" timestamp="2010-04-15T14:57:35Z" uid="70696" user="xybot" changeset="4431179" lat="48.1026458" lon="11.6255081">
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="addr:postcode" v="81737"/>
+    <tag k="phone" v="+49 89 63894012"/>
+    <tag k="website" v="www.OMV-Tankstelle.com"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Ottobrunner Straße"/>
+    <tag k="operator" v="OMV"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="email" v="info@OMV-Tankstelle.com"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="OMV"/>
+    <tag k="fuel:diesel" v="yes"/>
+  </node>
+  <node id="249309756" version="5" timestamp="2010-11-22T13:33:45Z" uid="290680" user="wheelmap_visitor" changeset="6429292" lat="48.1459116" lon="11.6162995">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="description" v="Mit Bistro, Autowäsche"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="251704319" version="19" timestamp="2012-01-04T06:01:17Z" uid="64164" user="osmkurt" changeset="10288123" lat="48.1331134" lon="11.5809359">
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="phone" v="+49 89 297450"/>
+    <tag k="addr:street" v="Baaderstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="BK"/>
+    <tag k="fuel:e85" v="yes"/>
+    <tag k="note" v="Tanstelle in Parkgarage Böhringer"/>
+    <tag k="fuel:1_25" v="no"/>
+    <tag k="addr:postcode" v="80469"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="website" v="http://www.parkhaus-boehringer.de"/>
+    <tag k="fuel:biogas" v="no"/>
+    <tag k="fuel:1_50" v="no"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="fuel:octane_100" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="fuel:biodiesel" v="no"/>
+    <tag k="email" v="info@parkhaus-boehringer.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="fuel:HGV_diesel" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="service" v="carwash"/>
+  </node>
+  <node id="254089826" version="4" timestamp="2011-09-12T17:30:59Z" uid="124837" user="swus" changeset="9282127" lat="48.114769" lon="11.5551147">
+    <tag k="name" v="esso"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="ESSO"/>
+  </node>
+  <node id="257555632" version="7" timestamp="2010-09-05T11:36:12Z" uid="5359" user="user_5359" changeset="5686744" lat="48.1236272" lon="11.5954565">
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="addr:postcode" v="81541"/>
+    <tag k="phone" v="+49 89 487038"/>
+    <tag k="website" v="http://www.omv.com"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Auerfeldstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="OMV"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:e85" v="no"/>
+  </node>
+  <node id="258189093" version="1" timestamp="2008-04-17T22:14:58Z" uid="22450" user="Schoos" changeset="174581" lat="48.2045892" lon="11.5589371">
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="260433056" version="3" timestamp="2009-10-16T20:33:12Z" uid="8748" user="ToniE" changeset="2868149" lat="48.1078619" lon="11.5998028">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="OMV"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="260433295" version="7" timestamp="2011-07-02T17:47:18Z" uid="5359" user="user_5359" changeset="8610328" lat="48.1081707" lon="11.60255">
+    <tag k="shop" v="car_repair"/>
+    <tag k="phone" v="089/6806211"/>
+    <tag k="vacuum_cleaner" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Chiemgaustraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="T-Station"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="service" v="carwash"/>
+  </node>
+  <node id="260481418" version="6" timestamp="2011-10-02T08:04:25Z" uid="290680" user="wheelmap_visitor" changeset="9447804" lat="48.0935285" lon="11.4113486">
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Jet"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Jet"/>
+  </node>
+  <node id="263185861" version="5" timestamp="2010-04-11T11:23:28Z" uid="42393" user="mawi42" changeset="4392020" lat="48.1234326" lon="11.6203836">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="addr:postcode" v="81671"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Esso"/>
+    <tag k="service" v="kiosk"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Innsbrucker Ring"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="52"/>
+  </node>
+  <node id="263295274" version="5" timestamp="2011-10-13T08:18:51Z" uid="290680" user="wheelmap_visitor" changeset="9544161" lat="48.1183466" lon="11.6310123">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="265555967" version="5" timestamp="2010-11-15T13:43:48Z" uid="65148" user="tixuwuoz" changeset="6377477" lat="48.1265086" lon="11.6067392">
+    <tag k="addr:postcode" v="81671"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Hamberger"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Friedenstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="opening_hours" v="Mo-Fr 06:30-20:30; Sa 07:00-15:00"/>
+  </node>
+  <node id="266742191" version="4" timestamp="2011-05-13T22:03:18Z" uid="8748" user="ToniE" changeset="8136115" lat="48.1223256" lon="11.6038842">
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Shell"/>
+  </node>
+  <node id="267157818" version="4" timestamp="2010-11-05T20:18:50Z" uid="290680" user="wheelmap_visitor" changeset="6293202" lat="48.133984" lon="11.5025153">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Shell"/>
+  </node>
+  <node id="267157819" version="2" timestamp="2008-11-25T23:15:30Z" uid="59819" user="Fuss-im-Ohr" changeset="794795" lat="48.1316559" lon="11.5026409">
+    <tag k="name" v="Jet"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Jet"/>
+  </node>
+  <node id="267207003" version="10" timestamp="2011-02-01T21:47:11Z" uid="290680" user="wheelmap_visitor" changeset="7156704" lat="48.1032029" lon="11.533446">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="addr:postcode" v="81379"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Bavaria Petrol"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Zielstattstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Bayrisch Oil"/>
+    <tag k="addr:housenumber" v="10"/>
+  </node>
+  <node id="267207951" version="1" timestamp="2008-05-28T09:16:40Z" uid="39531" user="feli" changeset="542408" lat="48.1527616" lon="11.5070975">
+    <tag k="created_by" v="Potlatch 0.9b"/>
+    <tag k="name" v="jet"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="269397918" version="6" timestamp="2010-06-29T11:09:04Z" uid="247670" user="burt13de" changeset="5105037" lat="48.1222998" lon="11.4511776">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Freie Tankstelle Neeb"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="note" v="vending_machine"/>
+  </node>
+  <node id="269680380" version="6" timestamp="2011-11-09T12:34:17Z" uid="551697" user="OSMTUM" changeset="9780977" lat="48.1874878" lon="11.5306615">
+    <tag k="name" v="Aral Tankstelle"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="270587028" version="2" timestamp="2010-03-25T00:54:48Z" uid="107037" user="ulfm" changeset="4226078" lat="48.108857" lon="11.6633087">
+    <tag k="name" v="Eichele"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="271025775" version="6" timestamp="2011-05-09T13:51:47Z" uid="290690" user="rockhagen" changeset="8093079" lat="48.1510008" lon="11.6409896">
+    <tag k="shop" v="car_repair"/>
+    <tag k="name" v="Pauli&apos;s Tanke"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="271025776" version="5" timestamp="2011-02-12T15:06:06Z" uid="29061" user="KPG" changeset="7265104" lat="48.1407958" lon="11.6368926">
+    <tag k="name" v="Esso"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="271666564" version="4" timestamp="2011-02-10T22:49:35Z" uid="56526" user="JJ Rammerl" changeset="7250431" lat="48.1866506" lon="11.6064506">
+    <tag k="name" v="Jet"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="272325072" version="4" timestamp="2011-02-10T23:11:34Z" uid="56526" user="JJ Rammerl" changeset="7250431" lat="48.1910431" lon="11.6183554">
+    <tag k="name" v="OMV"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="272325298" version="5" timestamp="2009-08-31T22:37:14Z" uid="36809" user="lmaa-du-osm-korinthenkacker" changeset="2331946" lat="48.1910806" lon="11.620382">
+    <tag k="name" v="OMV"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="272325992" version="4" timestamp="2009-06-08T18:06:41Z" uid="85761" user="klausis" changeset="1460801" lat="48.1661901" lon="11.5899781">
+    <tag k="name" v="OMV"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="272326123" version="4" timestamp="2011-06-15T22:40:42Z" uid="56526" user="JJ Rammerl" changeset="8451852" lat="48.1712039" lon="11.5946793">
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="273522331" version="4" timestamp="2011-10-09T21:43:50Z" uid="290680" user="wheelmap_visitor" changeset="9508573" lat="48.248059" lon="11.5511562">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="esso"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="274109615" version="8" timestamp="2011-10-12T13:28:40Z" uid="290680" user="wheelmap_visitor" changeset="9535427" lat="48.0874776" lon="11.4842134">
+    <tag k="addr:postcode" v="81475"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Neurieder Straße"/>
+    <tag k="operator" v="Agip"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Agip"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="service" v="carwash"/>
+  </node>
+  <node id="274352180" version="2" timestamp="2010-05-09T11:27:16Z" uid="8748" user="ToniE" changeset="4647355" lat="48.1449196" lon="11.6395012">
+    <tag k="name" v="OMV"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="274901772" version="3" timestamp="2009-06-08T17:26:54Z" uid="85761" user="klausis" changeset="1460315" lat="48.1300513" lon="11.5892765">
+    <tag k="name" v="ESSO"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Esso"/>
+  </node>
+  <node id="280322060" version="5" timestamp="2009-10-23T13:01:08Z" uid="65019" user="Kaefer84" changeset="2929207" lat="48.0818015" lon="11.6917488">
+    <tag k="phone" v="+49 89 66000060"/>
+    <tag k="source" v="survey"/>
+    <tag k="name" v="Drivers Inn"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="287892729" version="7" timestamp="2011-02-16T11:24:57Z" uid="290680" user="wheelmap_visitor" changeset="7301040" lat="48.1411531" lon="11.522408">
+    <tag k="addr:postcode" v="80687"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="contact:phone" v="+49 89 5470210"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Landsberger Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Jet"/>
+    <tag k="addr:housenumber" v="184"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="290261275" version="3" timestamp="2009-06-09T12:33:04Z" uid="85761" user="klausis" changeset="1467504" lat="48.1643075" lon="11.4886187">
+    <tag k="name" v="Bavaria Petrol"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="290748413" version="3" timestamp="2010-10-03T18:40:54Z" uid="87883" user="schneckchen4711" changeset="5947219" lat="48.1489418" lon="11.5201175">
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Shell"/>
+  </node>
+  <node id="291409815" version="5" timestamp="2011-01-17T19:37:35Z" uid="48130" user="joerg_s" changeset="7003275" lat="48.1128487" lon="11.6480416">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="addr:postcode" v="81735"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="OMV"/>
+    <tag k="brand" v="OMV"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Heinrich-Wieland-Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="97"/>
+  </node>
+  <node id="292311528" version="3" timestamp="2011-03-14T14:13:58Z" uid="29061" user="KPG" changeset="7556416" lat="48.1372003" lon="11.6213753">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Esso"/>
+    <tag k="service" v="kiosk"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="296284104" version="10" timestamp="2011-08-06T09:43:29Z" uid="62236" user="Paulchen Panther" changeset="8936351" lat="48.0977183" lon="11.5118563">
+    <tag k="addr:postcode" v="81379"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Allguth"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Boschetsrieder Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="139"/>
+  </node>
+  <node id="299673662" version="4" timestamp="2010-10-02T12:25:51Z" uid="290680" user="wheelmap_visitor" changeset="5935735" lat="48.1861097" lon="11.3840823">
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Total"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="299678145" version="6" timestamp="2011-06-14T17:13:50Z" uid="346536" user="Spunsel" changeset="8439465" lat="48.2261344" lon="11.4846692">
+    <tag k="name" v="Oil!"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="301741889" version="1" timestamp="2008-10-03T11:57:25Z" uid="37197" user="kernl" changeset="40530" lat="48.1697939" lon="11.3628551">
+    <tag k="created_by" v="Potlatch 0.10c"/>
+    <tag k="name" v="Moser"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="301770225" version="2" timestamp="2011-06-02T16:17:11Z" uid="109035" user="Teddy80" changeset="8321446" lat="48.1924131" lon="11.3732119">
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="305433496" version="8" timestamp="2009-03-23T13:58:15Z" uid="31231" user="Andre68" changeset="847606" lat="48.1367197" lon="11.5662738">
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="addr:postcode" v="80331"/>
+    <tag k="phone" v="+49 89 55869253"/>
+    <tag k="website" v="http://www.agip.de"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Josephspitalstraße"/>
+    <tag k="operator" v="Agip"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Agip"/>
+    <tag k="fuel:diesel" v="yes"/>
+  </node>
+  <node id="307463690" version="3" timestamp="2010-12-22T09:34:13Z" uid="8748" user="ToniE" changeset="6733505" lat="48.157535" lon="11.6421893">
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="307463718" version="7" timestamp="2011-12-04T02:02:05Z" uid="64164" user="osmkurt" changeset="10029660" lat="48.1603362" lon="11.6208681">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="schwellenfrei.- Kein Rolli-WC, kein Tankservice"/>
+    <tag k="name" v="Esso"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="307535915" version="2" timestamp="2009-02-18T16:50:44Z" uid="8748" user="ToniE" changeset="538196" lat="48.1345186" lon="11.6098823">
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="311176066" version="4" timestamp="2009-12-21T15:15:41Z" uid="65019" user="Kaefer84" changeset="3420975" lat="48.1192716" lon="11.6078425">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="shop" v="car_repair"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:cetane_60" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Aral"/>
+    <tag k="service" v="carwash"/>
+    <tag k="fuel:octane_100" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="315969667" version="2" timestamp="2011-09-27T14:14:12Z" uid="290680" user="wheelmap_visitor" changeset="9408304" lat="48.1493714" lon="11.5479434">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="317639491" version="3" timestamp="2009-01-10T09:50:52Z" uid="81297" user="susi0712" changeset="769096" lat="48.1843818" lon="11.5053947">
+    <tag k="name" v="Agip"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Agip"/>
+  </node>
+  <node id="331359825" version="1" timestamp="2009-01-11T23:12:27Z" uid="17933" user="abunai" changeset="775776" lat="48.1304713" lon="11.6174376">
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="335579554" version="4" timestamp="2009-09-01T18:56:19Z" uid="85761" user="klausis" changeset="2340653" lat="48.1016445" lon="11.5670212">
+    <tag k="source" v="survey"/>
+    <tag k="name" v="HEM"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="336289452" version="2" timestamp="2011-02-08T11:55:48Z" uid="381750" user="andreaslrchr" changeset="7225878" lat="48.1784294" lon="11.5171733">
+    <tag k="name" v="Jet"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="336558518" version="2" timestamp="2011-09-21T20:36:53Z" uid="290680" user="wheelmap_visitor" changeset="9360558" lat="48.1894482" lon="11.3780876">
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Esso"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="360663842" version="4" timestamp="2011-12-29T03:30:05Z" uid="64164" user="osmkurt" changeset="10231995" lat="48.1142538" lon="11.5762964">
+    <tag k="name" v="Bavaria Petrol"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="364910268" version="4" timestamp="2011-10-02T22:57:11Z" uid="290680" user="wheelmap_visitor" changeset="9447804" lat="48.1188221" lon="11.4783754">
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:cetane_60" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Aral"/>
+    <tag k="fuel:octane_100" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="364910269" version="4" timestamp="2011-10-02T22:57:12Z" uid="290680" user="wheelmap_visitor" changeset="9447804" lat="48.1174117" lon="11.4781711">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Esso"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="365203512" version="7" timestamp="2011-10-21T13:43:22Z" uid="290680" user="wheelmap_visitor" changeset="9613553" lat="48.0989263" lon="11.5069651">
+    <tag k="addr:postcode" v="81379"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Agip"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Boschetsrieder Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="162"/>
+  </node>
+  <node id="366569227" version="3" timestamp="2011-10-21T21:52:33Z" uid="290680" user="wheelmap_visitor" changeset="9613553" lat="48.1797776" lon="11.4871104">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Freie Tankstelle"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="370068125" version="3" timestamp="2011-06-16T19:00:37Z" uid="346536" user="Spunsel" changeset="8458891" lat="48.2272355" lon="11.4653384">
+    <tag k="name" v="Agip"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Agip"/>
+  </node>
+  <node id="370068126" version="3" timestamp="2010-11-23T14:58:17Z" uid="89943" user="Bengatzer" changeset="6440082" lat="48.2267905" lon="11.4650845">
+    <tag k="name" v="ALLGUTH"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Allguth"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-24:00; Sa 07:00-24:00; Su 08:00-22:00"/>
+  </node>
+  <node id="370068141" version="3" timestamp="2011-06-14T17:06:32Z" uid="346536" user="Spunsel" changeset="8439465" lat="48.2255126" lon="11.4681404">
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Eckstein"/>
+  </node>
+  <node id="385248559" version="2" timestamp="2011-10-03T20:56:14Z" uid="290680" user="wheelmap_visitor" changeset="9456721" lat="48.1238236" lon="11.5648751">
+    <tag k="addr:postcode" v="80469"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Kapuzinerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="46"/>
+  </node>
+  <node id="410141500" version="3" timestamp="2009-08-07T19:32:01Z" uid="8748" user="ToniE" changeset="2068823" lat="48.1103512" lon="11.5678169">
+    <tag k="name" v="Südtreibstoff"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="411633519" version="5" timestamp="2011-10-05T20:59:46Z" uid="290680" user="wheelmap_visitor" changeset="9474855" lat="48.1427284" lon="11.4250736">
+    <tag k="addr:postcode" v="81243"/>
+    <tag k="building" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Allguth"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Bodenseestraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="231"/>
+  </node>
+  <node id="415004874" version="1" timestamp="2009-06-02T21:33:04Z" uid="68974" user="Broky" changeset="1408436" lat="48.1646187" lon="11.4618076">
+    <tag k="source" v="local knowledge"/>
+    <tag k="name" v="Jet"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="416434561" version="1" timestamp="2009-06-06T13:36:44Z" uid="68974" user="Broky" changeset="1437773" lat="48.1650173" lon="11.4623067">
+    <tag k="name" v="Süd-Treibstoff"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="428836574" version="3" timestamp="2010-09-17T20:50:44Z" uid="87883" user="schneckchen4711" changeset="5807244" lat="48.15247" lon="11.51438">
+    <tag k="name" v="Esso"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="note" v="München (Esso)"/>
+  </node>
+  <node id="441123739" version="3" timestamp="2011-10-05T20:58:37Z" uid="290680" user="wheelmap_visitor" changeset="9474855" lat="48.1410193" lon="11.4139582">
+    <tag k="addr:postcode" v="81249"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Bavaria Petrol"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Bodenseestraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="317"/>
+  </node>
+  <node id="441124667" version="4" timestamp="2011-01-24T00:38:38Z" uid="68010" user="ms2000" changeset="7069002" lat="48.1468947" lon="11.4514558">
+    <tag k="addr:postcode" v="81243"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Bodenseestraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Shell"/>
+    <tag k="addr:housenumber" v="40"/>
+  </node>
+  <node id="441124668" version="3" timestamp="2011-10-05T20:59:51Z" uid="290680" user="wheelmap_visitor" changeset="9474855" lat="48.14582" lon="11.4220428">
+    <tag k="addr:postcode" v="81243"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Jet"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Limesstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="72"/>
+  </node>
+  <node id="444252652" version="2" timestamp="2011-07-05T15:10:48Z" uid="56526" user="JJ Rammerl" changeset="8639988" lat="48.2447341" lon="11.647402">
+    <tag k="addr:postcode" v="85748"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="OMV"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Münchener Straße"/>
+    <tag k="addr:city" v="Garching b. München"/>
+    <tag k="addr:housenumber" v="49"/>
+  </node>
+  <node id="453122361" version="5" timestamp="2009-10-02T18:38:16Z" uid="86259" user="hasse_osm_korinthenkacker" changeset="2715119" lat="48.0823011" lon="11.4854878">
+    <tag k="name" v="Süd-Treibstoff"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Süd-Treibstoff"/>
+  </node>
+  <node id="492756682" version="2" timestamp="2010-11-29T15:42:01Z" uid="290680" user="wheelmap_visitor" changeset="6484317" lat="48.15743" lon="11.54412">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Total"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="497741142" version="1" timestamp="2009-09-16T13:12:48Z" uid="57158" user="kay_D" changeset="2501787" lat="48.163539" lon="11.537405">
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Aral"/>
+  </node>
+  <node id="531076591" version="4" timestamp="2011-10-02T22:58:15Z" uid="290680" user="wheelmap_visitor" changeset="9447804" lat="48.1149064" lon="11.4805605">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Esso"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Esso"/>
+  </node>
+  <node id="534450964" version="4" timestamp="2011-08-28T13:44:59Z" uid="8703" user="rolandg" changeset="9147405" lat="48.0941342" lon="11.5055588">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Freie Tankstelle"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="534458381" version="9" timestamp="2011-12-31T17:23:51Z" uid="64164" user="osmkurt" changeset="10256686" lat="48.109338" lon="11.6085177">
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="addr:postcode" v="81549"/>
+    <tag k="phone" v="+49 89 60062038"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="fax" v="+49 89 60062131"/>
+    <tag k="payment:ec_cards" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Chiemgaustraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="fuel:HGV_diesel" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Allguth"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="service" v="kiosk"/>
+    <tag k="payment:coins" v="yes"/>
+  </node>
+  <node id="536198154" version="4" timestamp="2010-04-24T10:19:31Z" uid="86259" user="hasse_osm_korinthenkacker" changeset="4510584" lat="48.0787306" lon="11.5046035">
+    <tag k="shop" v="car_repair"/>
+    <tag k="addr:postcode" v="81477"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Herterichstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Agip"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="service" v="kiosk"/>
+  </node>
+  <node id="549328361" version="4" timestamp="2011-10-16T14:19:24Z" uid="8748" user="ToniE" changeset="9572689" lat="48.0630625" lon="11.6520702">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Bavaria Petrol"/>
+    <tag k="service" v="kiosk"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="560401071" version="3" timestamp="2011-10-14T08:04:23Z" uid="290680" user="wheelmap_visitor" changeset="9552229" lat="48.178695" lon="11.5671015">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="597698145" version="3" timestamp="2011-09-27T13:48:55Z" uid="290680" user="wheelmap_visitor" changeset="9408304" lat="48.1342567" lon="11.5233814">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Esso"/>
+    <tag k="service" v="kiosk"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="653956852" version="3" timestamp="2011-06-14T17:07:39Z" uid="346536" user="Spunsel" changeset="8439465" lat="48.2247334" lon="11.4685356">
+    <tag k="name" v="Shell"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Eckstein"/>
+  </node>
+  <node id="702593806" version="3" timestamp="2010-09-09T08:04:03Z" uid="109029" user="shorty_de" changeset="5730535" lat="48.1449599" lon="11.4787673">
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Aral"/>
+  </node>
+  <node id="704978906" version="2" timestamp="2011-12-28T18:42:24Z" uid="290680" user="wheelmap_visitor" changeset="10222046" lat="48.0756875" lon="11.5232833">
+    <tag k="addr:postcode" v="81479"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Wolfratshauser Straße"/>
+    <tag k="operator" v="Mineralöl Großhandel"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="232"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Agip"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="service" v="carwash"/>
+  </node>
+  <node id="732717437" version="3" timestamp="2011-06-21T20:43:39Z" uid="56526" user="JJ Rammerl" changeset="8508571" lat="48.22745" lon="11.64142">
+    <tag k="addr:postcode" v="85748"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="automated" v="yes"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="source" v="http://www.gas-tankstellen.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="J.Böhm"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Dirnismaning"/>
+    <tag k="addr:city" v="Garching"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="opening_hours" v="Tu-Fr 10:00-18:30; Sa 10:00-14:00"/>
+  </node>
+  <node id="736404244" version="4" timestamp="2011-10-27T19:41:25Z" uid="290680" user="wheelmap_visitor" changeset="9665470" lat="48.1760625" lon="11.5358277">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Aral"/>
+  </node>
+  <node id="757390890" version="1" timestamp="2010-05-29T20:36:10Z" uid="65019" user="Kaefer84" changeset="4846359" lat="48.1208031" lon="11.5023173">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Allguth"/>
+  </node>
+  <node id="757390892" version="2" timestamp="2011-07-07T09:20:37Z" uid="47544" user="SveLil" changeset="8655527" lat="48.1196924" lon="11.502924">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Allguth"/>
+  </node>
+  <node id="830667839" version="4" timestamp="2011-12-25T12:30:03Z" uid="78656" user="Walter Schlögl" changeset="10199247" lat="48.1400902" lon="11.492241">
+    <tag k="addr:postcode" v="80687"/>
+    <tag k="phone" v="+49 89 561865"/>
+    <tag k="fax" v="+49 89 5466493"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Agnes-Bernauer-Straße"/>
+    <tag k="operator" v="OMV"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="137"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Sa-Su 06:30-23:00"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Tankstelle"/>
+    <tag k="fuel:diesel" v="yes"/>
+  </node>
+  <node id="1091332268" version="1" timestamp="2011-01-08T13:07:12Z" uid="39803" user="Harti" changeset="6903385" lat="48.1105748" lon="11.7139745">
+    <tag k="name" v="ESSO"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="1112875807" version="1" timestamp="2011-01-21T10:34:46Z" uid="319840" user="octo" changeset="7038889" lat="48.16483" lon="11.4718992">
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="OMV"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="1219583045" version="2" timestamp="2011-04-16T07:35:21Z" uid="89073" user="eimer42" changeset="7875965" lat="48.1366436" lon="11.390996">
+    <tag k="atm" v="yes"/>
+    <tag k="addr:postcode" v="82110"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Landsberger Straße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="operator" v="Aral"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="1221513131" version="1" timestamp="2011-03-27T14:26:45Z" uid="23724" user="colonia" changeset="7686628" lat="48.1576094" lon="11.5283895">
+    <tag k="source" v="survey"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Aral"/>
+  </node>
+  <node id="1249910735" version="1" timestamp="2011-04-18T13:45:25Z" uid="439422" user="nurzu" changeset="7897122" lat="48.1610377" lon="11.5593369">
+    <tag k="name" v="BP"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="1380477626" version="4" timestamp="2011-10-11T14:10:02Z" uid="290680" user="wheelmap_visitor" changeset="9527581" lat="48.1685788" lon="11.58654">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Zugang zum Verkaufsraum ohne Schwelle, kein Rolli-WC.  WICHTIG: Tankservice vorhanden !"/>
+    <tag k="name" v="Tankstelle SHELL"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Leopoldstraße"/>
+    <tag k="addr:city" v="München"/>
+  </node>
+  <node id="1380484187" version="9" timestamp="2011-09-05T17:31:37Z" uid="87262" user="Skyman" changeset="9219906" lat="48.1754123" lon="11.5860255">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="Kommentar: Mir ist es als Rolli - Selbstfahrer nicht gelungen, dort selbst zu tanken - Tankservice ist nicht verfügbar.- Kein rolli-WC"/>
+    <tag k="name" v="Aral"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="addr:street" v="Leopoldstraße"/>
+    <tag k="addr:city" v="München"/>
+  </node>
+  <node id="1475946405" version="1" timestamp="2011-10-22T08:50:03Z" uid="87883" user="schneckchen4711" changeset="9622151" lat="48.1532363" lon="11.5375666">
+    <tag k="website" v="http://www.swm.de/privatkunden/unternehmen/innovation/elektromobilitaet/strom-tanken.html"/>
+    <tag k="fuel:electricity" v="yes"/>
+    <tag k="fuel" v="no"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Stadtwerke München"/>
+  </node>
+  <node id="1478024864" version="1" timestamp="2011-10-23T17:12:38Z" uid="72235" user="Basstoelpel" changeset="9635812" lat="48.2148869" lon="11.5463619">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="operator" v="Süd-Treibstoff"/>
+  </node>
+  <node id="1488385480" version="1" timestamp="2011-11-01T11:14:14Z" uid="547294" user="wendorff" changeset="9711155" lat="48.178131" lon="11.5720546">
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <node id="1496802970" version="1" timestamp="2011-11-10T01:23:43Z" uid="64164" user="osmkurt" changeset="9786102" lat="48.1679915" lon="11.6247316">
+    <tag k="brand" v="Esso"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="note" v="Neueröffnung Okt 2011"/>
+  </node>
+  <node id="1584362416" version="1" timestamp="2012-01-10T08:25:54Z" uid="47544" user="SveLil" changeset="10349194" lat="48.117445" lon="11.5028193">
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Jet"/>
+    <tag k="service" v="shop"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="amenity" v="fuel"/>
+  </node>
+</osm>

@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+</head>
+<body
+<p>
+<h1> LISA Demo Applikation - Lokale Information, Suche und Aggregation </h1>
+
+
+<h2>Vorgeschichte</h2>
+Am 15.11.2011 wurde der Entwurf zu "LISA - Lokale Information, Suche und Aggregation" beim vom Bundesministerium des Inneren koordinierten Ideenwettbewerb <a href="http://apps4deutschland.de/">"Apps4Deutschland"</a> eingereicht. Die darauffolgenden zwei Monate wurden zur Implementation der wichtigsten Funktionalität in einer Demoversion unter HTML5 mit JavaScript genutzt. Die Online-Demo enthält verschiedene Daten der über offenedaten.de verfügbaren Daten des "Munich Open Government Day" (MOGDy) und kann analog hierzu um andere Quellen oder Daten anderer Städte erweitert werden. Zusätzlich wurden Points of Interests aus OpenStreetmap eingepflegt, die um beliebige Suchkriterien erweitert werden könnten.<br>
+<br>
+Die Demo ist lediglich ein Beispiel für die Applikation, Erweiterungen um zusätzliche Funktionen und Datenquellen sind geplant.
+
+<h2>Was ist LISA?</h2>
+Die Attraktivität einer Stadt ist eine sehr subjektive Beurteilung, die je nach Alter und Lebensumständen auf unterschiedlichen Kriterien basiert. Oft ist es schwierig, individuelle Vorstellungen mit örtlichen Gegebenheiten in Einklang zu bringen. Auch gibt es ganz unterschiedliche Gesichtspunkte, die bei der Beurteilung eine tragende Rolle spielen können. Eine exakte Beschreibung der Möglichkeiten und Anwendungsfälle beschreibt die <a href="http://lisa.west.uni-koblenz.de/">Projektseite des Ideenwettbewerbs</a>.
+
+<h2>Features der Demo:</h2>
+<ul>
+   <li>Integration lokaler und offener Daten </li>
+   <li>Übersichtliche Visualisierung durch skalierbare Karte, Bezirksfärbung und Heatmap </li>
+   <li>Individuelle Auswahlkriterien </li>
+   <li>Intuitive Anpassung der Bewertungsfunktion </li>
+</ul>
+
+
+<h2>Welche Daten wurden verwendet, unter welchen Lizenzen stehen Daten und Code?</h2>
+Die LISA Demo verwendet offene Daten "Munich Open Government Day" (MOGDy) und OpenStreetmap (OSM) sowie diversen Open-Source-Code. Nachfolgende Daten und Code wurden mit der angegebenen Lizenz in evtl. modifizierter Form verwendet. Genauere Lizenzangaben finden sich in den Source-Dateien.<br>
+<br>
+Lokalitäten (Points of Interest):<br>
+<ul>
+	<li>OSM: amenity=kindergarten (CC BY-SA 2.0) </li>
+	<li>OSM: amenity=school (CC BY-SA 2.0) </li>
+	<li>OSM: amenity=fuel (CC BY-SA 2.0) </li>
+	<li>OSM: amenity=restaurant (CC BY-SA 2.0) </li>
+	<li>OSM: amenity=doctors (CC BY-SA 2.0) </li>
+	<li>OSM: amenity=dentist (CC BY-SA 2.0) </li>
+	<li>OSM: amenity=pharmacy (CC BY-SA 2.0) </li>
+	<li>OSM: shop=supermarket (CC BY-SA 2.0) </li>
+	<li>OSM: shop=doityourself (CC BY-SA 2.0) </li>
+</ul>
+<br>
+Bezirkskriterien:<br>
+<ul>
+   <li>MOGDy: Personen je Haushalt 2009 (CC BY 3.0)</li>
+	<li>MOGDy: Singlehaushalte 2009 (CC BY 3.0)</li>
+	<li>MOGDy: Alter, ALO, Bevölkerung 2009 (CC BY 3.0)</li>
+	<li>MOGDy: Alter, Bevölkerung (keine ALO) 2010 (CC BY 3.0)</li>
+</ul>
+<br>
+Source Code:<br>
+<ul>
+	<li>Felipe Barriga Richards: OpenLayersHeatmap (GNU GPLv2) </li>
+	<li>OpenLayers Contributors: OpenLayers Map Viewer Library (FreeBSD; Apache License v2.0)</li>
+	<li>Daisuke Maki: Concurrent.Thread-full (MPL 1.1; GNU GPLv2; GNU LGPL 2.1)</li>
+	<li>jQuery Board: The jQuery Project (GNU GPLv2)</li>
+</ul>
+<br>
+Der für Apps4Deutschland entwickelte Code ist freie Software nach GNU GPLv2 Lizenz und kann hier heruntergeladen werden:
+
+<h2>Was bedeuten die Lizenzen?</h2>
+<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0: Creative Commons Attribution Share Alike-Lizenz 2.0. </a><br>
+<a href="http://creativecommons.org/licenses/by/3.0/de/">CC BY 3.0: Creative Commons Namensnennung 3.0 Deutschland</a><br>
+<a href="http://www.gnu.org/licenses/gpl-2.0.html">GNU GPLv2: GNU General Public License, Version 2</a><br>
+<a href="http://www.freebsd.org/copyright/freebsd-license.html">FreeBSD: The FreeBSD Copyright</a><br>
+<a href="http://www.mozilla.org/MPL/">MPL 1.1: Mozilla Public License Version 1.1</a><br>
+<a href="http://www.gnu.org/licenses/lgpl.html">GNU LGPL 2.1: GNU Lesser General Public License, Version 3.0<a><br>
+<a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License v2.0</a><br>
+
+
+<h2>Die Einreichung</h2>
+Alle Informationen der Einreichung finden sich in detaillierterer Form auf dieser Homepage. Den Originaltext der Einreichung können Sie <a href="">hier</a> herunterladen.
+
+<h2>Anleitung</h2>
+Rechts befinden sich Regler, mit denen die Gewichtung der Bewertungskriteriendurch Schieben justiert wird. Links befindet sich die Karte, auf der das Ergebnis durch Einfärben von Bezirken oder Auftragen von Heatmaps visualisiert wird.<br>
+<br>
+Durch Klick auf "ausw&auml;hlen" k&ouml;nnen Bezirkskriterien bzw. Lokalit&auml;ten hinzugefügt oder abgeschaltet werden. Das Ergebnis wird normiert; Wenn viele Kriterien ausgew&auml;hlt sind, tr&auml;gt jedes Kriterium geringer zum Ergebnis bei. Die Kriterien werden zwischen -1 (Kriterium als schlecht bewertet) bis +1 (Kriterium als gut bewertet) gewichtet. Eine Ausnahme bildet das Alter der Bevölkerung: Hier wird das gewünschte Durchschnittsalter gewählt.<br>
+<br>
+Der Linke Bereich visualisiert das Ergebnis. Durch Klick auf die Karte und Ziehen oder Klick auf die Pfeil-Buttons kann der betrachtete Ausschnitt verschoben werden. Die Daten beschr&auml;nken sich allerdings auf M&uuml;nchen. Der Regler zoomt in oder aus der Karte. Es stehen mehrere Kartenmaterialien zur Auswahl, die mit dem "+" auf der rechten Kartenseite gew&auml;hlt werden k&ouml;nnen: Als Standard wird OpenStreetMap verwendet. Alternativ kann GoogleMaps in Kartenansicht oder Satelitenansicht geschaltet werden.<br>
+<br>
+
+</p>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Demo</title>
+    <script src="js/thirdparty/jquery-ui/js/jquery-1.7.2.min.js"></script>	
+	<script src="js/thirdparty/jquery-ui/js/jquery-ui-1.8.21.custom.min.js"></script>	
+  </head>
+  <body>
+    <a href="http://jquery.com/">jQuery</a>
+    <script>
+    
+      $(document).ready(function(){
+   $("a").click(function(event){
+     alert("As you can see, the link no longer took you to jquery.com");
+     event.preventDefault();
+   });
+ });
+ 
+    </script>
+  </body>
+</html>

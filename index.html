@@ -2,6 +2,9 @@
 <html>
 <head>
 	<title>LISA - Koblenz Edition</title>
+	<script src="http://userpages.uni-koblenz.de/~smagnus/opencities2012/php/osm2json.php" type="text/javascript"></script>
+	<script src="js/loadpoi.js" type="text/javascript"></script>
+
 	<script src="js/jquery-1.8.0.min.js" type="text/javascript"></script>
 	<script src="js/jquery.qtip-1.0.0-rc3.min.js" type="text/javascript"></script>
 	<link rel="stylesheet" type="text/css" href="css/ui-lightness/jquery-ui-1.8.23.custom.css">
@@ -43,13 +46,14 @@
 
 </head>
 <body>
+<script>document.write(poipub[0].name);</script>
 <div id="map"></div>
 <div id="widtest" class="ui-widget ui-widget-content ui-corner-all">
 	<div class="ui-dialog-content ui-widget-content">
 	<img src="img/elisa.png" alt="eLisa"></img>
 	<div id="plugin_guis">
 		<div>
-			<h1>district criteria</h1>
+			<h1>District Criteria</h1>
 			<div class="accordion">
 				<h2><a href="#">age (from 'young' to 'older')</a></h2>
 				<div>
@@ -70,7 +74,7 @@
 			</div>
 		</div>
 		<div>
-			<h1>points of interest</h1>
+			<h1>Points of Interest</h1>
 			<div class="accordion">
 				<h2><a href="#">kindergartens (from 'unimportant' to 'important')</a></h2>
 				<div>
@@ -93,6 +97,7 @@
 					<div id="slider_poi_supermakets" kind="poi" number="3" class="slider" style="width:200px;"></div>
 					<input type="checkbox" name="poi" value="supermakets">active</input>
 				</div>
+
 			</div>
 		</div>
 	</div>
@@ -138,249 +143,4 @@ jQuery(document).ready(function() {
 </script>
 </body>
 </html>
-<!--
-					</table>
-					<a style="color:#3a63ad;" href="#" onclick="javascript:handleSelectFeatures();">ausw&auml;hlen</a>
-					<br/><br/><br/>
-					<span style="color:#3a63ad;font-size:14pt;">Lokalit&auml;ten</span>
-					<hr style="color:#3a63ad;" size="1"></hr>
-					<table cellspacing=0 cellpadding=0>
-						<tr id="tr_poi_kindergartens" title="N&auml;he zu Kinderg&auml;rten von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">Kinderg&auml;rten</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_kindergartens" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_kindergartens" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_gasstations" title="N&auml;he zu Tankstellen von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">Tankstellen</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_gasstations" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_gasstations" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_schools">
-							<td style="width:180px;" title="N&auml;he zu Schulen von 'unwichtig' zu 'wichtig'">Schulen</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_schools" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_schools" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_supermarkets" title="N&auml;he zu Superm&auml;rkten von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">Superm&auml;rkte</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_supermarkets" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_supermarkets" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_restaurants" title="N&auml;he zu Restaurants von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">Restaurants</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_restaurants" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_restaurants" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_doctors" title="N&auml;he zu &Auml;rzten von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">&Auml;rzte</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_doctors" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_doctors" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_pharmacies" title="N&auml;he zu Apotheken von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">Apotheken</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_pharmacies" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_pharmacies" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_hardwarestores" title="N&auml;he zu Baum&auml;rkten von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">Baum&auml;rkte</td>
-								<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_hardwarestores" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_hardwarestores" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-					</table>
-					<a style="color:#3a63ad;" href="#" onclick="javascript:handleSelectPois();">ausw&auml;hlen</a>
-				</div></td>
-			</tr>
-	</div>
-	</div>
-</div>
-<!-- <body class="yui-skin-sam" style="font-family:sans-serif;" onload="init()">
-	<div align="center" width="100%">
-		<table style="text-align:center;" cellpadding="10">
-			<tr>
-				<td rowspan="2"><div style="text-align:center;border:1px solid black;vertical-align:top;" width="700" id="main_div"> -->
-					<!-- define a DIV into which the map will appear. -->
-					<!--
-					<div id="map" style="width:800px; height:700px;vertical-align:top;"></div>
-				</div></td>
-				<td>
-					<a href="http://lisa.west.uni-koblenz.de/" target="_blank"><img border="0" src="http://lisa.west.uni-koblenz.de/wp-content/uploads/2011/12/LISA-Logo.png"></img></a><br/>
-					<span style="font-size:15pt;color:#3a63ad;">Koblenz Edition</span>
-					<hr style="color:#3a63ad;border:1px solid #3a63ad;background-color:#3a63ad;" size="4"></hr>
-				</td>
-			</tr>
-			<tr>
-				<td><div style="vertical-align:top;text-align:left;">
-					<br/><span style="color:#3a63ad;font-size:14pt;">Bezirkskriterien</span>
-					<hr style="color:#3a63ad;" size="1"></hr>
-					<table cellspacing=0 cellpadding=0>
-						<tr id="tr_feature_age" title="Altersdurchschnitt von 'jung' nach 'alt'">
-							<td style="width:180px;">Altersdurchschnitt<br/></td>
-							<td style="vertical-align:top;">
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_feature_age" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_feature_age" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div>
-						</div></td></tr>
-								<tr><td><span style="font-size:10px;">'jung' bevorzugt</span></td><td style="text-align:right;"><span style="font-size:10px;">'alt' bevorzugt</span></td></tr>							
-							</table>
-						</td>
-						</tr>
-						<tr id="tr_feature_cars" title="Verkehrsdichte von 'niedrig' nach 'hoch'">
-							<td style="width:180px;">Verkehrsdichte</td>
-							<td style="vertical-align:top;">
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_feature_cars" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_feature_cars" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">'wenig' bevorzugt</span></td><td style="text-align:right;"><span style="font-size:10px;">'viel' bevorzugt</span></td></tr>							
-							</table>
-						</td>						
-						</tr>
-						<tr id="tr_feature_households" title="Haushaltsstruktur von 'Single-Haushalte' nach 'P&auml;rchenhaushalte'">
-							<td style="width:180px;">Haushaltsstruktur</td>
-							<td style="vertical-align:top;">
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_feature_households" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_feature_households" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">'Singles' bevorzugt</span></td><td style="text-align:right;"><span style="font-size:10px;">'P&auml;rchen' bevorzugt</span></td></tr>							
-							</table>
-						</td>
-						</tr>
--->
-<!-- 						<tr id="tr_feature_unemployment" title="Erwerbst&auml;tigenquote von 'niedrig' nach 'hoch'"> -->
-<!-- 							<td style="width:180px;">Erwerbst&auml;tigenquote</td> -->
-<!-- 							<td style="vertical-align:top;"> -->
-<!-- 							<table width="100%" cellpadding=0 cellspacing=0> -->
-<!-- 								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_feature_unemployment" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_feature_unemployment" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr> -->
-<!-- 								<tr><td><span style="font-size:10px;">'niedrig' bevorzugt</span></td><td style="text-align:right;"><span style="font-size:10px;">'hoch' bevorzugt</span></td></tr>							 -->
-<!-- 							</table> -->
-<!-- 						</td> -->
-<!-- 						</tr> -->
-<!--
-					</table>
-					<a style="color:#3a63ad;" href="#" onclick="javascript:handleSelectFeatures();">ausw&auml;hlen</a>
-					<br/><br/><br/>
-					<span style="color:#3a63ad;font-size:14pt;">Lokalit&auml;ten</span>
-					<hr style="color:#3a63ad;" size="1"></hr>
-					<table cellspacing=0 cellpadding=0>
-						<tr id="tr_poi_kindergartens" title="N&auml;he zu Kinderg&auml;rten von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">Kinderg&auml;rten</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_kindergartens" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_kindergartens" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_gasstations" title="N&auml;he zu Tankstellen von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">Tankstellen</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_gasstations" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_gasstations" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_schools">
-							<td style="width:180px;" title="N&auml;he zu Schulen von 'unwichtig' zu 'wichtig'">Schulen</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_schools" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_schools" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_supermarkets" title="N&auml;he zu Superm&auml;rkten von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">Superm&auml;rkte</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_supermarkets" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_supermarkets" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_restaurants" title="N&auml;he zu Restaurants von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">Restaurants</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_restaurants" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_restaurants" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_doctors" title="N&auml;he zu &Auml;rzten von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">&Auml;rzte</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_doctors" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_doctors" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_pharmacies" title="N&auml;he zu Apotheken von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">Apotheken</td>
-							<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_pharmacies" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_pharmacies" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-						<tr id="tr_poi_hardwarestores" title="N&auml;he zu Baum&auml;rkten von 'unwichtig' zu 'wichtig'">
-							<td style="width:180px;">Baum&auml;rkte</td>
-								<td>
-							<table width="100%" cellpadding=0 cellspacing=0>
-								<tr><td colspan=2 stlye="text-align:center;"><div id="slider_poi_hardwarestores" class="yui-h-slider" tabindex="-1" style="width:220px;"><div id="sliderthumb_poi_hardwarestores" class="yui-slider-thumb"><img src="img/thumb-n.gif"></div></td></tr>
-								<tr><td><span style="font-size:10px;">unwichtig</span></td><td style="text-align:right;"><span style="font-size:10px;">wichtig</span></td></tr>							
-							</table>
-							</td>
-						</tr>
-					</table>
-					<a style="color:#3a63ad;" href="#" onclick="javascript:handleSelectPois();">ausw&auml;hlen</a>
-				</div></td>
-			</tr>
-			<tr>
-				<td style="text-align:left;">
-					<table width="100%" cellspacing=0 cellpadding=0>
-						<tr>
-							<td style="text-align:left;">
-								<div>Beispielkonfigurationen:</div>
-								<a href="#" style="color:#3a63ad;" onclick="javascript:setPreset(1);setPreset(1);">Anwendungsfall 1: Familie Schmidt</a><br/>
-								<a href="#" style="color:#3a63ad;" onclick="javascript:setPreset(2);setPreset(2);">Anwendungsfall 2: Volker M&uuml;ller</a><br/>
-								<a href="#" style="color:#3a63ad;" onclick="javascript:setPreset(3);setPreset(3);">Anwendungsfall 3: Frau Friedrich</a>
-							</td>
-							<td valign="top" style="text-align:right;"><a href="#" style="color:#3a63ad;" onclick="javascript:window.open('manual.html', 'ManualWindow', 'width=700,height=550');">Anleitung</a></td>							
-						</tr>
-					</table>
-				</td>
-			</tr>
-		</table>			
-	</div>
-	-->
 
