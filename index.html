@@ -2,6 +2,9 @@
 <html>
 <head>
 	<title>LISA - Koblenz Edition</title>
+	<script src="http://userpages.uni-koblenz.de/~smagnus/opencities2012/php/osm2json.php" type="text/javascript"></script>
+	<script src="js/loadpoi.js" type="text/javascript"></script>
+
 	<script src="js/jquery-1.8.0.min.js" type="text/javascript"></script>
 	<script src="js/jquery.qtip-1.0.0-rc3.min.js" type="text/javascript"></script>
 	<link rel="stylesheet" type="text/css" href="css/ui-lightness/jquery-ui-1.8.23.custom.css">
@@ -43,6 +46,7 @@
 
 </head>
 <body>
+<script>document.write(poipub[0].name);</script>
 <div id="map"></div>
 <div id="widtest" class="ui-widget ui-widget-content ui-corner-all">
 	<div class="ui-dialog-content ui-widget-content">

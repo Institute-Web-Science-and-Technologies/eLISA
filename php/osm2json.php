@@ -50,20 +50,30 @@ function testZugriff(){
 ?>
 }
 
-function osm2json(){
-<?php
-//debug $url="text.xml";
-// debug $url='http://www.overpass-api.de/api/xapi?node[amenity=pub][bbox=7.465428457808391,50.31548578150301,7.740086660922425,50.414037899703885]';
-$data = file_get_contents('http://www.overpass-api.de/api/xapi?node[amenity=pub][bbox=7.465428457808391,50.31548578150301,7.740086660922425,50.414037899703885]');
 
+<?php
 // Liest aus einer OSM-xml und gibt diese als json in ein Javascript aus
 // Dieses wird in eine json Variable geschrieben und als Rückgabewert der dynamisch erzeugten JavaScript Funktion übergeben.
+
+// Neue Suchbegriffe können hier eingefügt werden, müssen aber ein gültiges OSM-amenity haben.
+
+$amenityarray = array("pub", "restaurant", "fastfood", "school", "kindergarten", "fuel", "parking", "doctors", "pharmacy", "atm");
+foreach($amenityarray as $ame){
+
+echo "function ".$ame."2json(){";
+
+//debug $url="text.xml";
+// debug $url='http://www.overpass-api.de/api/xapi?node[amenity=pub][bbox=7.465428457808391,50.31548578150301,7.740086660922425,50.414037899703885]';
+$url="http://www.overpass-api.de/api/xapi?node[amenity=".$ame."][bbox=7.465428457808391,50.31548578150301,7.740086660922425,50.414037899703885]";
+$data = file_get_contents($url);
+
+
 //debug echo "document.write('<br>Anfang');" ;
 // if (file_exists($url)) {
 //  	 	$xml = simplexml_load_file($url);
   	 	$xml = simplexml_load_string($data);
   	 	// Wandle alle Nodes in ein Objekt um
-  	 	echo "\nvar pois = [";
+  	 	echo "\nvar poi".$ame." = [";
 	 	foreach ($xml->node as $node){
 	 		echo "\n{";
 			// Wandle wichtige Attribute in Name-Wert Paare um (mit Umbenennung)
@@ -81,15 +91,16 @@ $data = file_get_contents('http://www.overpass-api.de/api/xapi?node[amenity=pub]
 	 	}
 	 	echo "];\n";
 
-		echo "return (pois);";
+		echo "return (poi".$ame.");\n}\n\n";
 //  	} else {
 //   	exit('Konnte Datei nicht laden.');
 //	}
 
 //debug echo "\ndocument.write('<br>Ende');" ;
+}
 ?>
 
-}
+
 
 
 

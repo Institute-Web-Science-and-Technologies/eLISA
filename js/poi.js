@@ -21,6 +21,7 @@ function poi_draw(poi_options, callback) {
 	loadFiles(urlList, function(xmlDoc, url, done) {
 		var poi = urlsToLoad[url];
 		poi_cache[poi.id] = parsePOIs(xmlDoc);
+//		poi_cache[poi.id] = parsePOIsjson(poipub);
 		drawPoiMarker(poi.id, poi.weight);
 
 		// signal done when all POI data has been loaded
@@ -88,6 +89,19 @@ function parsePOIs(xmlDoc) {
 		var lon = nodes[i].getAttribute('lon');
 		var lat = nodes[i].getAttribute('lat');
 		points.push(new OpenLayers.LonLat(lon, lat).transform(map.displayProjection,map.getProjectionObject()));
+	}
+	return points;
+}
+
+// Neue Version von parsePOIs, die von loadpoi.js eingelesene json-poi verwendet. Der Array wird als  Parameter jsonpoi übergeben (z.B. "poischool")
+// die OpenLayer-Kartenpunkte werde zurückgegeben.
+function parsePOIsjson(jsonpoi) {
+	var points = new Array();
+	for (var i=0; i<jsonpoi.length; i++) {
+		try{
+		   points.push(new OpenLayers.LonLat(jsonpoi[i].lng, jsonpoi[i].lat).transform(map.displayProjection,map.getProjectionObject()));
+		} catch(e){
+		}
 	}
 	return points;
 }
