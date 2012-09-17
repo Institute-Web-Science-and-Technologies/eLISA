@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Osmosis SNAPSHOT-r26564" xapi:planetDate="2012-03-30T00:17:05Z" xmlns:xapi="http://jxapi.openstreetmap.org/">
+  <node id="30150189" version="4" timestamp="2011-10-05T22:22:37Z" uid="290680" user="wheelmap_visitor" changeset="9474855" lat="50.3591778" lon="7.6005843">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="phone" v="+49-261-1004666"/>
+    <tag k="fax" v="+49-261-1004667"/>
+    <tag k="website" v="http://www.enchilada.de"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Gerichtsstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="opening_hours" v="Su-Th 18:00-01:00;Fr-Sa 18:00-02:00"/>
+    <tag k="email" v="koblenz@enchilada.de"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="food" v="yes"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Enchilada"/>
+  </node>
+  <node id="31079985" version="2" timestamp="2012-03-14T17:02:31Z" uid="290680" user="wheelmap_visitor" changeset="10974576" lat="50.3636294" lon="7.5768073">
+    <tag k="created_by" v="JOSM"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Schlachthof"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="301102649" version="4" timestamp="2011-09-24T14:35:56Z" uid="290680" user="wheelmap_visitor" changeset="9383846" lat="50.3621367" lon="7.5939877">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="SK2"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="301103058" version="3" timestamp="2011-10-04T14:39:35Z" uid="290680" user="wheelmap_visitor" changeset="9466302" lat="50.3620113" lon="7.5952643">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Rockbar Florinsmarkt"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Burgstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="16"/>
+  </node>
+  <node id="301103196" version="9" timestamp="2011-07-01T20:06:03Z" uid="178113" user="KO-TG" changeset="8602576" lat="50.362148" lon="7.5953005">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="phone" v="+49-261-2961100"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="website" v="http://www.druckluftkammer.de"/>
+    <tag k="email" v="info@druckluftkammer.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Druckluftkammer"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Burgstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="3 - 7"/>
+  </node>
+  <node id="310843422" version="3" timestamp="2011-10-04T14:39:39Z" uid="290680" user="wheelmap_visitor" changeset="9466302" lat="50.3617324" lon="7.5948629">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Sugar Ray"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="310843748" version="3" timestamp="2010-12-16T19:34:25Z" uid="363904" user="maltejohannson" changeset="6680260" lat="50.3622029" lon="7.5948066">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Irish Pub Koblenz"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="310844408" version="4" timestamp="2011-10-08T11:30:13Z" uid="290680" user="wheelmap_visitor" changeset="9499106" lat="50.3611029" lon="7.5990623">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Mephisto"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Eltzerhofstraße"/>
+    <tag k="addr:housenumber" v="3"/>
+  </node>
+  <node id="310911583" version="4" timestamp="2011-02-15T13:19:38Z" uid="290680" user="wheelmap_visitor" changeset="7293585" lat="50.3613486" lon="7.5923532">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="smoking" v="isolated"/>
+    <tag k="name" v="Spökes"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="362173769" version="3" timestamp="2011-04-04T18:14:43Z" uid="290680" user="wheelmap_visitor" changeset="7763687" lat="50.3622444" lon="7.5954051">
+    <tag k="phone" v="026134349"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Im Winkel"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Florinsmarkt"/>
+    <tag k="addr:housenumber" v="1"/>
+  </node>
+  <node id="408503297" version="2" timestamp="2012-03-14T13:29:35Z" uid="290680" user="wheelmap_visitor" changeset="10974576" lat="50.3605" lon="7.5820721">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Germania Eck"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="452738134" version="2" timestamp="2011-10-04T14:43:51Z" uid="290680" user="wheelmap_visitor" changeset="9466302" lat="50.3609254" lon="7.596507">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Zum Schiffchen"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="An der Liebfrauenkirche"/>
+    <tag k="addr:city" v="Koblenz"/>
+  </node>
+  <node id="497561584" version="2" timestamp="2011-10-02T17:04:25Z" uid="290680" user="wheelmap_visitor" changeset="9447804" lat="50.3345096" lon="7.7144909">
+    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Schnick-Schnack"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="525162073" version="2" timestamp="2011-10-04T20:31:06Z" uid="290680" user="wheelmap_visitor" changeset="9466302" lat="50.3543294" lon="7.5901098">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Hexenkessel"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Rizzastraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="51"/>
+  </node>
+  <node id="527469110" version="3" timestamp="2010-04-12T21:04:46Z" uid="178444" user="wrifka" changeset="4408936" lat="50.3673061" lon="7.6503547">
+    <tag k="addr:postcode" v="56077"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Klönsack"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Pfarrer-Kraus-Straße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="92"/>
+  </node>
+  <node id="564916588" version="3" timestamp="2012-03-14T17:12:09Z" uid="290680" user="wheelmap_visitor" changeset="10974576" lat="50.3610335" lon="7.582893">
+    <tag k="addr:postcode" v="56073"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Altdeutsche Bierstube"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Moselweißer Straße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="30"/>
+  </node>
+   <node id="567835696" version="3" timestamp="2011-10-06T16:54:42Z" uid="290680" user="wheelmap_visitor" changeset="9482892" lat="50.3621264" lon="7.5941486">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Excalibur"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+
+  <node id="567833363" version="1" timestamp="2009-11-21T10:59:59Z" uid="44217" user="kjon" changeset="3174828" lat="50.3500418" lon="7.5950612">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Piper's Corner"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Markenbildchenweg"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="10"/>
+  </node>
+  <node id="567839208" version="6" timestamp="2011-10-30T14:43:47Z" uid="290680" user="wheelmap_visitor" changeset="9690785" lat="50.351477" lon="7.5895248">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Königsbacher Treff"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Löhrstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="143"/>
+  </node>
+  <node id="597455320" version="4" timestamp="2010-09-02T14:09:00Z" uid="201763" user="Kaweichert" changeset="5662635" lat="50.3849768" lon="7.7115054">
+    <tag k="addr:postcode" v="56335"/>
+    <tag k="phone" v="+49 26 20 24 30"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="name" v="Knusperhäuschen"/>
+    <tag k="sport" v="dart"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Kadenbacher Straße"/>
+    <tag k="addr:city" v="Neuhäusel"/>
+    <tag k="addr:housenumber" v="7"/>
+  </node>
+  <node id="597508672" version="4" timestamp="2010-09-02T14:08:57Z" uid="201763" user="Kaweichert" changeset="5662635" lat="50.3851392" lon="7.7113189">
+    <tag k="addr:postcode" v="56335"/>
+    <tag k="phone" v="+49 2620 95 59 44"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="smoking" v="no"/>
+    <tag k="name" v="Hotel Link"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="addr:city" v="Neuhäusel"/>
+    <tag k="addr:housenumber" v="27-29"/>
+  </node>
+  <node id="603877850" version="4" timestamp="2011-10-21T12:39:10Z" uid="290680" user="wheelmap_visitor" changeset="9613553" lat="50.3609321" lon="7.5990268">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Stilbruch"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Görresstraße"/>
+    <tag k="addr:housenumber" v="12"/>
+  </node>
+    <node id="603877853" version="3" timestamp="2011-10-21T12:39:11Z" uid="290680" user="wheelmap_visitor" changeset="9613553" lat="50.3608281" lon="7.5989904">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Daddy-O's American Cocktail Bar"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Eltzerhofstraße"/>
+    <tag k="addr:housenumber" v="1"/>
+  </node>
+  <node id="615420684" version="4" timestamp="2011-01-03T05:34:15Z" uid="86317" user="GeoGerd" changeset="6846261" lat="50.3610302" lon="7.5939487">
+    <tag k="smoking" v="yes"/>
+    <tag k="name" v="Apparat"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="619342098" version="2" timestamp="2012-03-16T13:53:35Z" uid="358799" user="macron79" changeset="10998535" lat="50.3580583" lon="7.5974581">
+    <tag k="name" v="Marlene"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="625810863" version="5" timestamp="2011-07-01T20:20:46Z" uid="178113" user="KO-TG" changeset="8602576" lat="50.3593079" lon="7.6002525">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="phone" v="+49-261-92179902"/>
+    <tag k="website" v="http://www.zenit-koblenz.de"/>
+    <tag k="email" v="info@zenit-koblenz.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Zenit"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Josef-Görres-Platz"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="opening_hours" v="Mo-Su 18:00"/>
+  </node>
+  <node id="634518626" version="2" timestamp="2011-01-03T18:42:44Z" uid="44217" user="kjon" changeset="6852963" lat="50.3704978" lon="7.5744739">
+    <tag k="addr:postcode" v="56072"/>
+    <tag k="phone" v="+49-261-25415"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Zur Glocke"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Trierer Straße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="39"/>
+  </node>
+  <node id="651273026" version="1" timestamp="2010-02-23T07:40:53Z" uid="44217" user="kjon" changeset="3949894" lat="50.358723" lon="7.6004076">
+    <tag k="name" v="Im Häusje"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Poststraße"/>
+    <tag k="addr:housenumber" v="1"/>
+  </node>
+  <node id="651872544" version="4" timestamp="2010-12-16T15:09:39Z" uid="363904" user="maltejohannson" changeset="6677595" lat="50.3595086" lon="7.6000542">
+    <tag k="name" v="Buggi-Woogie"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Josef-Görres-Platz"/>
+    <tag k="addr:housenumber" v="14"/>
+  </node>
+  <node id="878843752" version="2" timestamp="2010-08-27T14:21:25Z" uid="74410" user="hdEATH" changeset="5608186" lat="50.4100473" lon="7.6008177">
+    <tag k="addr:postcode" v="56191"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Klein"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="addr:city" v="Weitersburg"/>
+  </node>
+  <node id="891891732" version="2" timestamp="2011-07-11T21:42:40Z" uid="114405" user="Pajopath" changeset="8698184" lat="50.3503726" lon="7.5921611">
+    <tag k="name" v="Zum Rondell"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="993834230" version="1" timestamp="2010-11-18T18:34:58Z" uid="362386" user="mtbbassenheim" changeset="6401891" lat="50.3697532" lon="7.4774291">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="1007553596" version="2" timestamp="2011-11-15T10:23:31Z" uid="553843" user="peisen" changeset="9833307" lat="50.3617268" lon="7.5959307">
+    <tag k="name" v="Handelshof"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="1007553600" version="2" timestamp="2011-10-04T14:39:36Z" uid="290680" user="wheelmap_visitor" changeset="9466302" lat="50.3619553" lon="7.5956131">
+    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Doc´s Backstage"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="1007553607" version="3" timestamp="2011-10-04T14:39:37Z" uid="290680" user="wheelmap_visitor" changeset="9466302" lat="50.3618136" lon="7.595288">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="name" v="Sansibar"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="1007553615" version="1" timestamp="2010-11-27T13:39:41Z" uid="355799" user="Koblenzer" changeset="6469870" lat="50.3618218" lon="7.5967986">
+    <tag k="name" v="MyWay"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="1007567169" version="1" timestamp="2010-11-27T13:44:59Z" uid="355799" user="Koblenzer" changeset="6469870" lat="50.3621538" lon="7.5938214">
+    <tag k="name" v="Maxim Kneipe"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="1519476613" version="2" timestamp="2011-11-27T14:05:20Z" uid="396278" user="Natminwas" changeset="9966836" lat="50.3265308" lon="7.6672407">
+    <tag k="name" v="Zum Alten Dorfbrunnen"/>
+    <tag k="amenity" v="pub"/>
+  </node>
+</osm>

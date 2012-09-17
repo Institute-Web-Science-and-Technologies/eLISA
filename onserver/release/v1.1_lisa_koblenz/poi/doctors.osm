@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis SNAPSHOT-r26564">
+  <node id="321342413" version="1" timestamp="2008-12-23T20:22:55Z" uid="6871" user="smsm1" changeset="570981" lat="50.3461966" lon="7.5951329">
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="441788960" version="3" timestamp="2010-04-15T15:59:08Z" uid="70696" user="xybot" changeset="4431179" lat="50.312275" lon="7.5182147">
+    <tag k="addr:postcode" v="56333"/>
+    <tag k="phone" v="+4926062287"/>
+    <tag k="name" v="Dr. Hannappel"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Kirchstraße"/>
+    <tag k="addr:city" v="Winningen"/>
+    <tag k="addr:housenumber" v="12"/>
+  </node>
+  <node id="512542117" version="2" timestamp="2010-07-18T17:34:24Z" uid="42123" user="Ropino" changeset="5253517" lat="50.3583956" lon="7.5926549">
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="672803387" version="4" timestamp="2011-04-13T13:12:40Z" uid="363904" user="maltejohannson" changeset="7851751" lat="50.3537725" lon="7.595204">
+    <tag k="name" v="Kieferorthopäden"/>
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="693735742" version="1" timestamp="2010-04-11T21:35:51Z" uid="178444" user="wrifka" changeset="4399473" lat="50.3675804" lon="7.6461844">
+    <tag k="addr:postcode" v="56077"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Andreas Trog"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Pfarrer-Kraus-Straße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="52"/>
+  </node>
+  <node id="1229381159" version="1" timestamp="2011-04-02T15:48:13Z" uid="118064" user="schlossi" changeset="7745216" lat="50.2840587" lon="7.6154181">
+    <tag k="amenity" v="doctors"/>
+  </node>
+  <node id="1341737762" version="1" timestamp="2011-06-27T22:10:02Z" uid="178444" user="wrifka" changeset="8566999" lat="50.3673002" lon="7.651795">
+    <tag k="addr:postcode" v="56077"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. med. Bernhard Wolf"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="addr:street" v="Pfarrer-Kraus-Straße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="101"/>
+  </node>
+</osm>

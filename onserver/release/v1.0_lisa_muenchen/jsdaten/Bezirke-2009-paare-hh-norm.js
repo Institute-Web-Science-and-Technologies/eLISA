@@ -1,0 +1,30 @@
+var Bezirke2009paarehhnorm = new Array();
+
+Bezirke2009paarehhnorm[0] = new Array("BERICHTSMONAT","NUMMER","BEZIRK","1_PERS_HH_DT","1_PERS_HH_AUSL","2_PERS_HH_DT","2_PERS_HH_AUSL","2_PERS_HH_GEM","3_PERS_HH_DT","3_PERS_HH_AUSL","3_PERS_HH_GEM","4_PERS_HH_DT","4_PERS_HH_AUSL","4_PERS_HH_GEM","5_U_M_PERS_HH_DT","5_U_M_PERS_HH_AUSL","5_U_M_PERS_GEM","HH_ohne_Angaben");
+Bezirke2009paarehhnorm[1] = new Array(200912,1,"Altstadt-Lehel",0.95,0.91,0.49,0.23,0.91,0.20,0.13,0.13,0.11,0.08,0.03,0.29,0.00,0.00,0);
+Bezirke2009paarehhnorm[2] = new Array(200912,2,"Ludwisvorstadt-Isarvorstadt",0.83,1.00,0.18,0.46,0.80,0.13,0.38,0.24,0.06,0.23,0.13,0.07,0.22,0.15,0);
+Bezirke2009paarehhnorm[3] = new Array(200912,3,"Maxvorstadt",1.00,0.88,0.29,0.20,0.72,0.10,0.08,0.06,0.00,0.00,0.00,0.03,0.12,0.06,0);
+Bezirke2009paarehhnorm[4] = new Array(200912,4,"Schwabing-West",0.80,0.62,0.57,0.17,0.82,0.36,0.11,0.33,0.18,0.01,0.14,0.24,0.08,0.18,0);
+Bezirke2009paarehhnorm[5] = new Array(200912,5,"Au-Haidhausen",0.74,0.64,0.44,0.32,0.68,0.40,0.30,0.44,0.26,0.15,0.21,0.18,0.11,0.29,0);
+Bezirke2009paarehhnorm[6] = new Array(200912,6,"Sendling",0.66,0.58,0.49,0.49,0.87,0.39,0.50,0.54,0.17,0.45,0.38,0.01,0.42,0.32,0);
+Bezirke2009paarehhnorm[7] = new Array(200912,7,"Sendling-Westpark",0.54,0.45,0.67,0.43,0.74,0.35,0.43,0.51,0.25,0.50,0.51,0.21,0.34,0.34,0);
+Bezirke2009paarehhnorm[8] = new Array(200912,8,"Schwanthalerh�he",0.55,0.97,0.00,1.00,0.95,0.04,1.00,0.78,0.00,0.80,0.71,0.00,0.69,0.59,0);
+Bezirke2009paarehhnorm[9] = new Array(200912,9,"Neuhausen-Nymphenburg",0.66,0.42,0.64,0.23,0.67,0.41,0.25,0.46,0.23,0.20,0.28,0.30,0.21,0.26,0);
+Bezirke2009paarehhnorm[10] = new Array(200912,10,"Moosach",0.31,0.37,0.57,0.47,0.53,0.47,0.58,0.80,0.38,0.56,0.71,0.24,0.52,0.50,0);
+Bezirke2009paarehhnorm[11] = new Array(200912,11,"Milbertshofen",0.25,0.64,0.10,0.73,0.88,0.00,0.93,0.93,0.05,1.00,1.00,0.14,0.92,1.00,0);
+Bezirke2009paarehhnorm[12] = new Array(200912,12,"Schwabing",0.55,0.47,0.40,0.11,0.49,0.36,0.05,0.35,0.30,0.20,0.32,0.37,0.23,0.41,0);
+Bezirke2009paarehhnorm[13] = new Array(200912,13,"Bogenhausen",0.43,0.31,0.91,0.15,0.66,0.74,0.10,0.52,0.52,0.32,0.31,0.53,0.17,0.24,0);
+Bezirke2009paarehhnorm[14] = new Array(200912,14,"Berg am Laim",0.45,0.49,0.61,0.49,0.96,0.23,0.66,0.88,0.12,0.67,0.71,0.14,0.63,0.46,0);
+Bezirke2009paarehhnorm[15] = new Array(200912,15,"Trudering-Riem",0.08,0.07,0.73,0.00,0.20,0.84,0.04,0.49,0.96,0.25,0.68,0.88,0.37,0.62,0);
+Bezirke2009paarehhnorm[16] = new Array(200912,16,"Ramersdorf-Perlach",0.16,0.33,0.56,0.52,0.78,0.39,0.74,1.00,0.30,0.99,0.92,0.37,0.77,0.83,0);
+Bezirke2009paarehhnorm[17] = new Array(200912,17,"Obergiesing-Fasangarten",0.54,0.66,0.36,0.53,1.00,0.16,0.78,0.72,0.11,0.50,0.48,0.08,0.56,0.34,0);
+Bezirke2009paarehhnorm[18] = new Array(200912,18,"Untergiesing-Harlaching",0.74,0.46,0.75,0.23,0.67,0.37,0.22,0.31,0.32,0.21,0.09,0.26,0.19,0.20,0);
+Bezirke2009paarehhnorm[19] = new Array(200912,19,"Thalkirchen-Obersendling",0.43,0.26,1.00,0.24,0.67,0.58,0.24,0.47,0.41,0.20,0.29,0.43,0.18,0.20,0);
+Bezirke2009paarehhnorm[20] = new Array(200912,20,"Hadern",0.16,0.14,0.78,0.17,0.28,0.57,0.33,0.52,0.49,0.53,0.61,0.44,0.41,0.49,0);
+Bezirke2009paarehhnorm[21] = new Array(200912,21,"Pasing-Obermenzing",0.33,0.17,0.87,0.13,0.16,0.68,0.05,0.00,0.78,0.08,0.25,0.74,0.29,0.26,0);
+Bezirke2009paarehhnorm[22] = new Array(200912,22,"Aubing-Lochhausen",0.05,0.00,0.91,0.10,0.22,1.00,0.30,0.41,0.76,0.44,0.61,0.61,0.71,0.65,0);
+Bezirke2009paarehhnorm[23] = new Array(200912,23,"Allach-Untermenzing",0.07,0.04,0.98,0.12,0.00,0.98,0.00,0.09,1.00,0.22,0.17,1.00,0.17,0.19,0);
+Bezirke2009paarehhnorm[24] = new Array(200912,24,"Feldmoching-Hasenbergl",0.00,0.23,0.53,0.39,0.28,0.73,0.56,0.55,0.53,0.78,0.79,0.64,1.00,0.82,0);
+Bezirke2009paarehhnorm[25] = new Array(200912,25,"Laim",0.68,0.49,0.80,0.38,0.76,0.35,0.35,0.36,0.17,0.38,0.25,0.09,0.28,0.26,0);
+Bezirke2009paarehhnorm[26] = new Array(200912,99,"nicht zuzuordnen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+

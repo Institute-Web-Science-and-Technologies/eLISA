@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis SNAPSHOT-r26564">
+  <node id="441789681" version="3" timestamp="2010-04-15T15:59:08Z" uid="70696" user="xybot" changeset="4431179" lat="50.310963" lon="7.5151463">
+    <tag k="addr:postcode" v="56333"/>
+    <tag k="phone" v="+492606656"/>
+    <tag k="name" v="Männicke"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Schulstraße"/>
+    <tag k="addr:city" v="Winningen"/>
+    <tag k="addr:housenumber" v="26"/>
+  </node>
+  <node id="512542116" version="2" timestamp="2010-08-10T08:18:58Z" uid="178113" user="KO-TG" changeset="5451555" lat="50.360657" lon="7.6111685">
+    <tag k="name" v="Dr. Marion Berger"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="1229381157" version="2" timestamp="2011-04-03T16:36:26Z" uid="118064" user="schlossi" changeset="7756213" lat="50.2845171" lon="7.6143396">
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="1341737810" version="1" timestamp="2011-06-27T22:10:04Z" uid="178444" user="wrifka" changeset="8566999" lat="50.3673892" lon="7.6508402">
+    <tag k="addr:postcode" v="56077"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. Schmincke"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Pfarrer-Kraus-Straße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="93"/>
+  </node>
+</osm>

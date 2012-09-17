@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis SNAPSHOT-r26564">
+  <node id="246764073" version="4" timestamp="2010-11-07T14:32:53Z" uid="89073" user="eimer42" changeset="6311897" lat="48.134506" lon="11.3856485">
+    <tag k="name" v="Dr. Constanze Spett"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="349059048" version="3" timestamp="2011-12-28T09:36:08Z" uid="72235" user="Basstoelpel" changeset="10223708" lat="48.1957079" lon="11.5515632">
+    <tag k="addr:postcode" v="80935"/>
+    <tag k="name" v="Zahnärztliche Partnerschaft Rolf Sperber, Dr. Reinhold Grabasch, Dr. Rolf Löffelhardt"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Waldrebenstraße"/>
+    <tag k="addr:housenumber" v="19"/>
+  </node>
+  <node id="389457972" version="3" timestamp="2011-12-10T15:26:30Z" uid="92311" user="negro" changeset="10081950" lat="48.2018904" lon="11.5673431">
+    <tag k="addr:postcode" v="80937"/>
+    <tag k="website" v="www.zahnarzt-zuka.de"/>
+    <tag k="name" v="Dr. Abdullah Zuka"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Rathenaustraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="126"/>
+  </node>
+  <node id="417644931" version="6" timestamp="2009-10-03T18:39:46Z" uid="179968" user="Ich_hasse_doitsche_OSM-Korinthenkacker" changeset="2727120" lat="48.0764926" lon="11.5266731">
+    <tag k="name" v="Zahnarzt"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="418673258" version="1" timestamp="2009-06-11T10:17:52Z" uid="22450" user="Schoos" changeset="1485067" lat="48.1799197" lon="11.5697643">
+    <tag k="name" v="Kim R. Grebosch"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="448883519" version="2" timestamp="2011-06-12T15:17:22Z" uid="342705" user="KLMB" changeset="8416353" lat="48.1621146" lon="11.4749825">
+    <tag k="name" v="Dr. med. dent. Armin Dylla"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="494177850" version="1" timestamp="2009-09-12T14:31:56Z" uid="89073" user="eimer42" changeset="2458033" lat="48.131717" lon="11.3641394">
+    <tag k="addr:postcode" v="82110"/>
+    <tag k="name" v="Dr. Mayr-Durach"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Untere Bahnhofstraße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="addr:housenumber" v="36"/>
+  </node>
+  <node id="497223783" version="1" timestamp="2009-09-15T18:36:03Z" uid="51782" user="maxbe" changeset="2494972" lat="48.1715022" lon="11.7179499">
+    <tag k="addr:postcode" v="85609"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Werner Riedl"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Erdinger Straße"/>
+    <tag k="addr:city" v="Aschheim"/>
+    <tag k="addr:housenumber" v="7"/>
+  </node>
+  <node id="652707640" version="4" timestamp="2011-12-29T22:31:26Z" uid="344721" user="stumpi80" changeset="10240631" lat="48.1906926" lon="11.6158929">
+    <tag k="addr:postcode" v="80939"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. Scherer"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Situlistraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="29"/>
+  </node>
+  <node id="654027044" version="1" timestamp="2010-02-26T09:09:59Z" uid="47544" user="SveLil" changeset="3978377" lat="48.121478" lon="11.5228367">
+    <tag k="name" v="Dr. Maya Kober;Dr. Claudia Stecher"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="662525296" version="1" timestamp="2010-03-07T20:03:00Z" uid="72235" user="Basstoelpel" changeset="4065684" lat="48.1980014" lon="11.5346475">
+    <tag k="name" v="A. Schuckall-Hen; Marianne-C. Tisowsky"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="703266510" version="2" timestamp="2011-02-03T20:12:32Z" uid="8748" user="ToniE" changeset="7177410" lat="48.1387226" lon="11.5746743">
+    <tag k="name" v="Frachpraxis Frauenplatz"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="703266511" version="3" timestamp="2011-04-02T06:57:19Z" uid="5359" user="user_5359" changeset="7741397" lat="48.1387105" lon="11.5746765">
+    <tag k="phone" v="+49 89 13012240"/>
+    <tag k="name" v="Labor Dental X"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="703266514" version="4" timestamp="2011-04-02T06:57:19Z" uid="5359" user="user_5359" changeset="7741397" lat="48.1387303" lon="11.5746733">
+    <tag k="phone" v="+49 89 23241980"/>
+    <tag k="fax" v="+49 89 2324198198"/>
+    <tag k="website" v="http://www.dr-engelschalk.de/"/>
+    <tag k="name" v="Dr M. Engelschalk"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="opening_hours" v="Mo 08:00-12:00, 13:30-17:00; Tu 08:00-15:00; We 08:00-12:00, 13:30-17:00; Th 08:00-12:00, 13:30-19:30; Fr 08:00-12:00"/>
+  </node>
+  <node id="839159525" version="3" timestamp="2010-08-26T18:43:23Z" uid="323389" user="Michael_H" changeset="5601559" lat="48.1338186" lon="11.363928">
+    <tag k="addr:postcode" v="82110"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Andrea Roth"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Untere Bahnhofstraße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="addr:housenumber" v="17"/>
+  </node>
+  <node id="884301486" version="1" timestamp="2010-08-28T11:04:21Z" uid="91790" user="morray" changeset="5614993" lat="48.1599444" lon="11.5813347">
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="884575388" version="1" timestamp="2010-08-28T14:34:05Z" uid="323389" user="Michael_H" changeset="5616610" lat="48.1322757" lon="11.3615313">
+    <tag k="name" v="Brigitta Göttling-D. / Christian Drägert"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="884917120" version="1" timestamp="2010-08-28T17:10:15Z" uid="323389" user="Michael_H" changeset="5618178" lat="48.135122" lon="11.3625844">
+    <tag k="addr:postcode" v="82110"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Franz-Josef Wich"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Untere Bahnhofstraße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="addr:housenumber" v="10a"/>
+  </node>
+  <node id="944697318" version="3" timestamp="2010-12-27T18:27:12Z" uid="65148" user="tixuwuoz" changeset="6780657" lat="48.1622487" lon="11.5278547">
+    <tag k="addr:postcode" v="80638"/>
+    <tag k="contact:fax" v="089/14343315"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Agathe Weber"/>
+    <tag k="contact:website" v="www.zahnaerztin-weber.de"/>
+    <tag k="contact:phone" v="089/1577777"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Tizianstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="note" v="Eingang: Magdalenenstraße"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="opening_hours" v="Mo 15:30-19:15; Tu 08:00-12:30,15:30-19:30; We 08:00-12:30,16:00-20:00; Th 08:30-13:00"/>
+  </node>
+  <node id="954223157" version="2" timestamp="2010-10-17T10:19:31Z" uid="3360" user="RalfZ" changeset="6065233" lat="48.1400092" lon="11.6784682">
+    <tag k="addr:postcode" v="81829"/>
+    <tag k="phone" v="+49 89 9450 0525"/>
+    <tag k="name" v="Ines Oheim"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Riemer Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="334"/>
+  </node>
+  <node id="957252287" version="2" timestamp="2010-10-20T19:39:05Z" uid="70696" user="xybot" changeset="6119261" lat="48.074902" lon="11.609624">
+    <tag k="name" v="Maria Rogala"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Fasanenstraße"/>
+    <tag k="addr:housenumber" v="68"/>
+  </node>
+  <node id="973833105" version="3" timestamp="2011-08-24T07:13:40Z" uid="42875" user="burnus" changeset="9109747" lat="48.160581" lon="11.5670216">
+    <tag k="contact:phone" v="+49-89-2714172"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="operator" v="Dr. Peter Starosccik"/>
+    <tag k="opening_hours" v="Mo-Tu, Th 07:00-14:30; We 10:00-20:00; Fr 08:00-13:00"/>
+  </node>
+  <node id="980492680" version="2" timestamp="2011-03-16T20:06:28Z" uid="323389" user="Michael_H" changeset="7579087" lat="48.1330559" lon="11.3859994">
+    <tag k="addr:postcode" v="82110"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Klaus Kreger"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Waldhornstraße"/>
+    <tag k="addr:city" v="Germering"/>
+    <tag k="addr:housenumber" v="5"/>
+  </node>
+  <node id="1027002565" version="3" timestamp="2011-04-10T16:54:09Z" uid="80117" user="kartenleser" changeset="7824928" lat="48.0818207" lon="11.4845649">
+    <tag k="addr:postcode" v="81475"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. S. Baumann / Dr. D. Berger"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Kemptener Straße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="5"/>
+  </node>
+  <node id="1043623048" version="1" timestamp="2010-12-17T20:07:01Z" uid="191141" user="raiwal" changeset="6690210" lat="48.1180164" lon="11.5285176">
+    <tag k="name" v="Dr. Tarloz"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="1062325470" version="1" timestamp="2010-12-24T17:19:57Z" uid="65148" user="tixuwuoz" changeset="6756193" lat="48.149501" lon="11.5426211">
+    <tag k="addr:postcode" v="80636"/>
+    <tag k="contact:email" v="info@zahnarzt-dr-jehle.de"/>
+    <tag k="contact:fax" v="089/12164294-5"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. Med. Dent- Thomas Jehle"/>
+    <tag k="contact:website" v="www.zahnarzt-dr-jehle.de"/>
+    <tag k="contact:phone" v="089/12164294-5"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Elvirastraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="opening_hours" v="Mo-Th 08:00-12:00,14:00-18:00"/>
+  </node>
+  <node id="1066578390" version="3" timestamp="2011-12-22T13:13:46Z" uid="64164" user="osmkurt" changeset="10179279" lat="48.1146499" lon="11.5794226">
+    <tag k="name" v="Dr. med. dent. Stephan Klinger"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Tegernseer Landstraße"/>
+    <tag k="addr:housenumber" v="75"/>
+  </node>
+  <node id="1107512763" version="3" timestamp="2011-07-05T15:10:46Z" uid="56526" user="JJ Rammerl" changeset="8639988" lat="48.2498308" lon="11.6503659">
+    <tag k="addr:postcode" v="85748"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Bürgerplatz"/>
+    <tag k="addr:city" v="Garching b. München"/>
+    <tag k="addr:housenumber" v="7"/>
+  </node>
+  <node id="1138788466" version="1" timestamp="2011-02-06T09:28:22Z" uid="42875" user="burnus" changeset="7200694" lat="48.1315864" lon="11.565782">
+    <tag k="addr:postcode" v="80337"/>
+    <tag k="contact:fax" v="+49 89 26022071"/>
+    <tag k="phone" v="+49 89 2604796"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. med. Daniel Balan"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Augsburgerstraße"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="healthcare" v="dentist"/>
+  </node>
+  <node id="1144060338" version="2" timestamp="2011-07-18T09:23:10Z" uid="162465" user="ckol" changeset="8756106" lat="48.1660222" lon="11.6307537">
+    <tag k="name" v="Dr. Judith Krack"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="opening_hours" v="&quot;nach Vereinbarung&quot;"/>
+  </node>
+  <node id="1157170446" version="2" timestamp="2011-03-25T10:46:51Z" uid="293774" user="Oli-Wan" changeset="7664389" lat="48.1783242" lon="11.585992">
+    <tag k="shop" v="yes"/>
+    <tag k="addr:postcode" v="80802"/>
+    <tag k="phone" v="089/35895880"/>
+    <tag k="fax" v="089/358958869"/>
+    <tag k="website" v="http://www.z-tagesklinik.de/"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Leopoldstraße"/>
+    <tag k="addr:housename" v="Comerzbank"/>
+    <tag k="operator" v="Dr. Eichenseer und Kollegen"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-21:00; Sa 09:00-18:00; Su, PH 09:00-12:00"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Zahnärztliche Tagesklinik Praxis München"/>
+  </node>
+  <node id="1225723694" version="1" timestamp="2011-03-30T19:07:13Z" uid="36167" user="Warden" changeset="7719404" lat="48.1767151" lon="11.4067789">
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="1254036738" version="3" timestamp="2011-08-21T07:42:56Z" uid="42393" user="mawi42" changeset="9081331" lat="48.1590387" lon="11.5623796">
+    <tag k="source" v="Bing"/>
+    <tag k="name" v="Dr. Simon-Lang"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="1267609094" version="1" timestamp="2011-04-30T17:03:19Z" uid="72235" user="Basstoelpel" changeset="8013588" lat="48.186366" lon="11.5522911">
+    <tag k="website" v="www.sitek-dent.de"/>
+    <tag k="name" v="Christian Sitek M.A."/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="1272946449" version="1" timestamp="2011-05-05T10:45:29Z" uid="289116" user="Dauerläufer" changeset="8056185" lat="48.1129159" lon="11.7031132">
+    <tag k="name" v="Dr. Schlamminger"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="1314356355" version="1" timestamp="2011-06-06T18:33:05Z" uid="336643" user="BigBen2003" changeset="8363001" lat="48.116202" lon="11.5249126">
+    <tag k="addr:postcode" v="81369"/>
+    <tag k="phone" v="+49 (0) 82 61 / 7 60 72 60"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Gemeinschaftspraxis"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Albert-Roßhaupter-Straße"/>
+    <tag k="addr:state" v="Bayern"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="operator" v="Dr. med. dent. Frederic W. Hollay, Dr. med. dent. Henrik-Christian Hollay"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="opening_hours" v="Mo 08:30-13:00,14:30-18:00; Tu,Fr 08:30-13:00; We 08:30-13:00,14:30-19:00; Th 08:30-15:00"/>
+  </node>
+  <node id="1314437918" version="1" timestamp="2011-06-06T19:47:14Z" uid="336643" user="BigBen2003" changeset="8363871" lat="48.1161407" lon="11.5273712">
+    <tag k="addr:postcode" v="81369"/>
+    <tag k="phone" v="+49 (0) 89 / 760 17 90"/>
+    <tag k="fax" v="+49 (0) 89 / 760 83 80"/>
+    <tag k="website" v="http://www.dga-medien.com/cms/index.php?id=732646"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. Antoinette de Roy"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Albert-Roßhaupter-Straße"/>
+    <tag k="addr:state" v="Bayern"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="opening_hours" v="Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00"/>
+  </node>
+  <node id="1397770218" version="2" timestamp="2011-08-13T23:26:05Z" uid="505600" user="Drea58" changeset="9010793" lat="48.2021233" lon="11.6065567">
+    <tag k="name" v="Dr. Thomas Haas"/>
+    <tag k="contact:phone" v="(089) 3112323"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="1471042833" version="4" timestamp="2011-12-04T10:39:40Z" uid="72235" user="Basstoelpel" changeset="10031684" lat="48.1428979" lon="11.6493935">
+    <tag k="addr:postcode" v="81929"/>
+    <tag k="phone" v="+49 (0) 89/9301667"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Zahnarztpraxis Bettina Gerber-Harant"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Walter-Meckauer-Weg"/>
+    <tag k="addr:city" v="München"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="opening_hours" v="by_appointment"/>
+  </node>
+  <node id="1543615174" version="3" timestamp="2012-01-03T19:02:41Z" uid="336643" user="BigBen2003" changeset="10284527" lat="48.1555832" lon="11.6175294">
+    <tag k="addr:postcode" v="81925"/>
+    <tag k="phone" v="+49 (0) 89/98108384"/>
+    <tag k="website" v="www.zahnarztpraxis-bogenhausen.de"/>
+    <tag k="name" v="Dr. Franz Xaver Wack, Dr. Markus Regensburger"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Effnerstraße"/>
+    <tag k="note" v="Zahnarztpraxis Bogenhausen Meisterlabor für ästetische Zahntechnik"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="opening_hours" v="Mo-Th 09:00-13:00,14:00-18:00; Fr 09:00-14:00"/>
+  </node>
+</osm>

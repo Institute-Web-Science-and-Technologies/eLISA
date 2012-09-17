@@ -1,0 +1,439 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis SNAPSHOT-r26564">
+  <node id="269325980" version="5" timestamp="2011-09-13T21:38:00Z" uid="114405" user="Pajopath" changeset="9293926" lat="50.3465832" lon="7.6151804">
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Asterstein"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Lehrhohl"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="42-44"/>
+  </node>
+  <node id="269325982" version="5" timestamp="2011-09-13T21:38:00Z" uid="114405" user="Pajopath" changeset="9293926" lat="50.3453783" lon="7.6185804">
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Albert-Schweitzer-Schule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Lehrhohl"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="46"/>
+  </node>
+  <node id="269352901" version="5" timestamp="2010-09-28T08:50:50Z" uid="43447" user="astersteiner" changeset="5901836" lat="50.3461068" lon="7.6161199">
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Schule am Bienhorntal"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Lehrhohl"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="42-44"/>
+  </node>
+  <node id="269352903" version="4" timestamp="2010-03-01T16:08:30Z" uid="44217" user="kjon" changeset="4009656" lat="50.3449766" lon="7.6196103">
+    <tag k="website" v="www.gymnasium-asterstein.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Gymnasium auf dem Asterstein"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Lehrhohl"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="50"/>
+  </node>
+  <node id="282367758" version="5" timestamp="2011-04-13T08:42:34Z" uid="363904" user="maltejohannson" changeset="7849706" lat="50.3621512" lon="7.5914169">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Clemens-Brentano-Realschule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Weißer Gasse"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="6"/>
+  </node>
+  <node id="282367759" version="4" timestamp="2011-04-13T13:12:41Z" uid="363904" user="maltejohannson" changeset="7851751" lat="50.3554423" lon="7.5969335">
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Hildegard-von-Bingen-Schule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Friedrichstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="3"/>
+  </node>
+  <node id="282367760" version="4" timestamp="2010-09-02T10:44:33Z" uid="202746" user="patrick1204" changeset="5661093" lat="50.360768" lon="7.6019112">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Sankt Castor"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Nagelsgasse"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="6"/>
+  </node>
+  <node id="282367761" version="4" timestamp="2010-03-04T14:30:27Z" uid="44217" user="kjon" changeset="4033166" lat="50.3453462" lon="7.5903847">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Schenkendorf-Schule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Schenkendorfstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="15"/>
+  </node>
+  <node id="282368090" version="4" timestamp="2011-07-11T21:42:39Z" uid="114405" user="Pajopath" changeset="8698184" lat="50.3484475" lon="7.5912127">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Comenius-Hauptschule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Hohenzollernstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="67"/>
+  </node>
+  <node id="282368091" version="7" timestamp="2011-10-03T16:52:32Z" uid="290680" user="wheelmap_visitor" changeset="9456721" lat="50.3532443" lon="7.5936304">
+    <tag k="wheelchair" v="no"/>
+    <tag k="website" v="www.cusanus-gymnasium.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Bischöfliches Cusanus-Gymnasium"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Hohenzollernstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="13"/>
+  </node>
+  <node id="284154213" version="2" timestamp="2010-03-01T16:47:36Z" uid="44217" user="kjon" changeset="4009962" lat="50.3389251" lon="7.6146191">
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Balthasar-Neumann-Schule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Karl-Friedrich-Goerdeler-Straße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="8"/>
+  </node>
+  <node id="309891634" version="5" timestamp="2008-11-17T13:17:53Z" uid="64783" user="DAIMO" changeset="762722" lat="50.3897995" lon="7.4873318">
+    <tag k="name" v="Christophorus Grundschule"/>
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="311009805" version="1" timestamp="2008-11-10T11:09:02Z" uid="64783" user="DAIMO" changeset="731348" lat="50.3891797" lon="7.5005336">
+    <tag k="name" v="Grundschule Mülheim"/>
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="336398659" version="3" timestamp="2010-12-17T23:08:03Z" uid="44217" user="kjon" changeset="6691789" lat="50.3678154" lon="7.5973008">
+    <tag k="addr:postcode" v="56070"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Hans-Zulliger-Schule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Brenderweg"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="23"/>
+  </node>
+  <node id="369605312" version="2" timestamp="2010-03-01T17:05:19Z" uid="44217" user="kjon" changeset="4010097" lat="50.373759" lon="7.5739537">
+    <tag k="website" v="www.igs-koblenz-pollenfeld.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Integrierte Gesamtschule Koblenz"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Johannesstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="58-60"/>
+  </node>
+  <node id="384298065" version="1" timestamp="2009-04-25T07:28:55Z" uid="86317" user="GeoGerd" changeset="938100" lat="50.3506496" lon="7.5970015">
+    <tag k="name" v="Koblenz Kolleg"/>
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="400709353" version="2" timestamp="2010-03-01T16:27:50Z" uid="44217" user="kjon" changeset="4009791" lat="50.3285789" lon="7.5959302">
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Horchheim"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Kirchstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="8"/>
+  </node>
+  <node id="453262645" version="4" timestamp="2011-10-10T14:43:24Z" uid="290680" user="wheelmap_visitor" changeset="9518514" lat="50.351089" lon="7.5953389">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="website" v="www.hilda-gymnasium.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Hilda-Gymnasium Koblenz"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Kurfürstenstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="40"/>
+  </node>
+  <node id="480315102" version="2" timestamp="2010-12-17T20:27:54Z" uid="44217" user="kjon" changeset="6690419" lat="50.3404013" lon="7.5434861">
+    <tag k="addr:postcode" v="56072"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Güls"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Karl-Möhlig-Straße"/>
+    <tag k="addr:city" v="Koblenz-Güls"/>
+    <tag k="addr:housenumber" v="12"/>
+  </node>
+  <node id="484255909" version="1" timestamp="2009-09-05T09:46:42Z" uid="44217" user="kjon" changeset="2377877" lat="50.3579322" lon="7.5972368">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Musikschule der Stadt Koblenz"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Casinostraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="31"/>
+  </node>
+  <node id="484255914" version="2" timestamp="2010-02-23T19:11:08Z" uid="44217" user="kjon" changeset="3957258" lat="50.357032" lon="7.5935323">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Kölner Wirtschaftsfachschule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Schloßstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="40"/>
+  </node>
+  <node id="484255919" version="3" timestamp="2011-04-13T13:55:59Z" uid="363904" user="maltejohannson" changeset="7852130" lat="50.3490778" lon="7.5961388">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Dr. Zimermannsche Wirtschaftsschule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Mainzer Straße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="50"/>
+  </node>
+  <node id="484255958" version="2" timestamp="2010-09-02T10:44:32Z" uid="202746" user="patrick1204" changeset="5661093" lat="50.3610093" lon="7.6023377">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Diesterweg-Schule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Kastorpfaffenstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="9-11"/>
+  </node>
+  <node id="484260003" version="2" timestamp="2011-10-02T21:18:47Z" uid="290680" user="wheelmap_visitor" changeset="9447804" lat="50.3557144" lon="7.5810234">
+    <tag k="addr:postcode" v="56073"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Overberg Hauptschule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Gutenbergstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="40-48"/>
+  </node>
+  <node id="484260005" version="3" timestamp="2011-11-05T22:36:11Z" uid="290680" user="wheelmap_visitor" changeset="9744488" lat="50.3616665" lon="7.5780607">
+    <tag k="addr:postcode" v="56073"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Freiherr-vom-Stein-Schule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Steinstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="20"/>
+  </node>
+  <node id="484261789" version="4" timestamp="2011-10-09T15:46:12Z" uid="290680" user="wheelmap_visitor" changeset="9508573" lat="50.3502853" lon="7.5641248">
+    <tag k="addr:postcode" v="56073"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="website" v="www.julius-wegeler-schule.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Julius-Wegeler-Schule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Beatusstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="143-147"/>
+  </node>
+  <node id="484261790" version="3" timestamp="2011-06-11T15:18:59Z" uid="290680" user="wheelmap_visitor" changeset="8406884" lat="50.3508946" lon="7.5644467">
+    <tag k="addr:postcode" v="56073"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="website" v="www.bbs-technik-koblenz.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Carl-Benz-Schule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Beatusstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="143-147"/>
+  </node>
+  <node id="484261791" version="3" timestamp="2010-02-09T20:06:36Z" uid="44217" user="kjon" changeset="3835462" lat="50.3516543" lon="7.5565829">
+    <tag k="addr:postcode" v="56073"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Moselweiß"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Schulgasse"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="16"/>
+  </node>
+  <node id="484262633" version="3" timestamp="2011-11-05T22:35:08Z" uid="290680" user="wheelmap_visitor" changeset="9744488" lat="50.3639143" lon="7.5510508">
+    <tag k="addr:postcode" v="56072"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Metternich Oberdorf"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Raiffeisenstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="6"/>
+  </node>
+  <node id="484262634" version="2" timestamp="2011-10-10T19:55:24Z" uid="290680" user="wheelmap_visitor" changeset="9518514" lat="50.3687842" lon="7.5641577">
+    <tag k="addr:postcode" v="56072"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Rohrerdorf"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Trierer Straße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="130"/>
+  </node>
+  <node id="484263679" version="1" timestamp="2009-09-05T10:21:26Z" uid="44217" user="kjon" changeset="2377877" lat="50.3669337" lon="7.5884392">
+    <tag k="addr:postcode" v="56070"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Lützel"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Weinbergstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="4"/>
+  </node>
+  <node id="489820715" version="3" timestamp="2010-08-12T16:03:19Z" uid="44217" user="kjon" changeset="5474275" lat="50.3596837" lon="7.6011873">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Verwaltungs- und Wirtschafts-Akademie"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Josef-Görres-Platz"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="11"/>
+  </node>
+  <node id="489820722" version="1" timestamp="2009-09-08T18:04:52Z" uid="44217" user="kjon" changeset="2416366" lat="50.3607514" lon="7.5973251">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Academia Espanola"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Entenpfuhl"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="37"/>
+  </node>
+  <node id="489820739" version="2" timestamp="2009-11-21T11:46:49Z" uid="121271" user="migath" changeset="3175199" lat="50.3528116" lon="7.5895746">
+    <tag k="addr:postcode" v="56068"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Bénédict-Akademie Koblenz"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Löhrstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="127"/>
+  </node>
+  <node id="489831016" version="1" timestamp="2009-09-08T18:10:00Z" uid="44217" user="kjon" changeset="2416428" lat="50.3690998" lon="7.5851799">
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Berufsfachschule für Ganzheitskosmetik"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Mayener Straße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="113"/>
+  </node>
+  <node id="511155161" version="4" timestamp="2010-03-01T16:18:44Z" uid="44217" user="kjon" changeset="4009727" lat="50.3683313" lon="7.6499709">
+    <tag k="addr:postcode" v="56077"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Arenberg"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Urbarer Straße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="8"/>
+  </node>
+  <node id="534886225" version="1" timestamp="2009-10-18T20:31:00Z" uid="178444" user="wrifka" changeset="2888058" lat="50.3735686" lon="7.6544279">
+    <tag k="addr:postcode" v="56077"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="St. Christophorus Grundschule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Schloßhofstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="32"/>
+  </node>
+  <node id="556889718" version="2" timestamp="2010-03-01T16:20:09Z" uid="44217" user="kjon" changeset="4009737" lat="50.3544265" lon="7.6266899">
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Arzheim"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="In der Felsch"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="15"/>
+  </node>
+  <node id="571114433" version="3" timestamp="2011-10-02T21:18:46Z" uid="290680" user="wheelmap_visitor" changeset="9447804" lat="50.3558078" lon="7.5822108">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Pestalozzi-Grundschule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Gutenbergstraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="30-38"/>
+  </node>
+  <node id="601038336" version="2" timestamp="2010-12-31T12:24:12Z" uid="44217" user="kjon" changeset="6818959" lat="50.3892564" lon="7.6324318">
+    <tag k="name" v="Konrad-Adenauer-Schule"/>
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="618832957" version="1" timestamp="2010-01-23T18:53:20Z" uid="191633" user="Der Schnerv" changeset="3694562" lat="50.3103714" lon="7.596079">
+    <tag k="name" v="Johannes-Gymnasium"/>
+    <tag k="amenity" v="school"/>
+  </node>
+  <node id="648226870" version="1" timestamp="2010-02-20T15:37:52Z" uid="44217" user="kjon" changeset="3924597" lat="50.3537861" lon="7.59372">
+    <tag k="website" v="www.isl-sprachschule.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="ISL Sprachschule"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Rizzastraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="35"/>
+  </node>
+  <node id="658437532" version="3" timestamp="2011-06-11T15:21:00Z" uid="290680" user="wheelmap_visitor" changeset="8406884" lat="50.345749" lon="7.5775893">
+    <tag k="addr:postcode" v="56075"/>
+    <tag k="phone" v="026120025120"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="website" v="www.julius-wegeler-schule.de"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Julius-Wegeler-Schule (Außenstelle Finkenherd)"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Finkenherd"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="4"/>
+  </node>
+  <node id="658443158" version="3" timestamp="2011-11-03T16:01:27Z" uid="290680" user="wheelmap_visitor" changeset="9727851" lat="50.3472288" lon="7.5804643">
+    <tag k="wheelchair" v="limited"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule am Löwentor"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Finkenherd"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="2"/>
+  </node>
+  <node id="658444210" version="1" timestamp="2010-03-01T16:22:19Z" uid="44217" user="kjon" changeset="4009745" lat="50.3587154" lon="7.6122587">
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Ehrenbreitstein"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Im Teichert"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="110"/>
+  </node>
+  <node id="658447438" version="1" timestamp="2010-03-01T16:32:08Z" uid="44217" user="kjon" changeset="4009823" lat="50.3977943" lon="7.5831135">
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Kesselheim"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Kurfürst-Schönborn-Straße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="55a"/>
+  </node>
+  <node id="658450775" version="1" timestamp="2010-03-01T16:36:36Z" uid="44217" user="kjon" changeset="4009860" lat="50.321168" lon="7.5399518">
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Lay"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Karolastraße"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="2"/>
+  </node>
+  <node id="658456138" version="1" timestamp="2010-03-01T16:43:13Z" uid="44217" user="kjon" changeset="4009922" lat="50.37212" lon="7.6331319">
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Grundschule Niederberg"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Niederberger Höhe"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="16"/>
+  </node>
+  <node id="658458451" version="1" timestamp="2010-03-01T16:51:33Z" uid="44217" user="kjon" changeset="4009992" lat="50.3684381" lon="7.5230215">
+    <tag k="name" v="Grundschule Rübenach"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="In der Klause"/>
+    <tag k="addr:housenumber" v="2"/>
+  </node>
+  <node id="658459107" version="1" timestamp="2010-03-01T16:55:15Z" uid="44217" user="kjon" changeset="4010016" lat="50.3845001" lon="7.6075165">
+    <tag k="name" v="Grundschule Wallersheim"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Kammertsweg"/>
+    <tag k="addr:housenumber" v="27"/>
+  </node>
+  <node id="863699381" version="1" timestamp="2010-08-16T18:22:31Z" uid="44217" user="kjon" changeset="5511586" lat="50.3149956" lon="7.5194159">
+    <tag k="name" v="Musikschule Op den Kamp"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="August-Horch-Straße"/>
+    <tag k="addr:housenumber" v="18"/>
+  </node>
+  <node id="1030664767" version="2" timestamp="2011-10-10T14:47:31Z" uid="290680" user="wheelmap_visitor" changeset="9518514" lat="50.3550983" lon="7.5954277">
+    <tag k="wheelchair" v="no"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="name" v="Eichendorff-Gymnasium"/>
+    <tag k="amenity" v="school"/>
+    <tag k="addr:street" v="Friedrich-Ebert-Ring"/>
+    <tag k="addr:city" v="Koblenz"/>
+    <tag k="addr:housenumber" v="26"/>
+  </node>
+</osm>
