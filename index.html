@@ -109,17 +109,32 @@ jQuery(document).ready(function() {
 		max: 200,
 		value: 100,
 		change: function(event, ui) {
-			if(jQuery(this).attr("kind") == "feature")
-				features_weight[jQuery(this).attr("number")] = ui.value / 200;
-			else{
-				pois_weight[jQuery(this).attr("number")] = ui.value / 200;
+			if(jQuery(this).parent().find("input[type=checkbox]").is(":checked")) {
+				if(jQuery(this).attr("kind") == "feature")
+					features_weight[jQuery(this).attr("number")] = ui.value / 200;
+				else{
+					pois_weight[jQuery(this).attr("number")] = ui.value / 200;
+				}
+				
+				handleUpdate(features, features_labels, features_selection, features_weight, pois, pois_labels, pois_selection, pois_weight);	
 			}
-			handleUpdate(features, features_labels, features_selection, features_weight, pois, pois_labels, pois_selection, pois_weight);	
 		}
 	});
 	
-	jQuery("input[type=checkbox]").button();
-});u
+	jQuery("input[type=checkbox]").button({label:"inactive", diabled:true});
+	
+	jQuery("input[type=checkbox]").click(function() {
+		if(jQuery(this).is(":checked")) {
+			jQuery(this).button("option","label","active");
+			
+		}
+		else {
+			jQuery(this).button("option","label","inactive");
+		}
+		handleFeatureSelection();
+		handlePoisSelection();
+	});
+});
 </script>
 </body>
 </html>
