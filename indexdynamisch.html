@@ -10,7 +10,6 @@
 	<link rel="stylesheet" type="text/css" href="css/ui-lightness/jquery-ui-1.8.23.custom.css">
 	<script src="js/jquery-ui-1.8.23.custom.min.js" type="text/javascript"></script>
 	<script src="js/main.js" type="text/javascript"></script>
-	<script src="js/main__gui.js" type="text/javascript"></script>
 	<script src="js/main__vars.js" type="text/javascript"></script>
 	<script src="js/map.js" type="text/javascript"></script>
 	<script src="js/poly.js" type="text/javascript"></script>
@@ -79,55 +78,57 @@
 				<h2><a href="#">kindergartens (from 'unimportant' to 'important')</a></h2>
 				<div>
 					<div id="slider_poi_kindergartens" kind="poi" number="0" class="slider" style="width:200px;"></div>
-					<input type="checkbox" id="kindergartens"/><label for="kindergartens">active</label>
+					<input type="checkbox" name="poi" value="kindergartens">active</input>
 				</div>
 				<h2><a href="#">gas stations (from 'unimportant' to 'important')</a></h2>
 				<div>
 					<div id="slider_poi_gasstations" kind="poi" number="1" class="slider" style="width:200px;"></div>
-					<input type="checkbox" id="gassstations" /><label for="gassstations">active</label>
+					<input type="checkbox" name="poi" value="gassstations">active</input>
 				</div>
 				<h2><a href="#">schools (from 'unimportant' to 'important')</a></h2>
 				<div>
 					<div id="slider_poi_schools" kind="poi" number="2" class="slider" style="width:200px;"></div>
-					<input type="checkbox" id="schools" /><label for="schools">active</label>
+					<input type="checkbox" name="poi" value="schools">active</input>
 				</div>
 				
 				<h2><a href="#">fastfood (from 'unimportant' to 'important')</a></h2>
 				<div>
 					<div id="slider_poi_fastfood" kind="poi" number="3" class="slider" style="width:200px;"></div>
-					<input type="checkbox" id="fastfood" /><label for="fastfood">active</label>
+					<input type="checkbox" name="poi" value="fastfood">active</input>
 				</div>
 
 				<h2><a href="#">restaurants (from 'unimportant' to 'important')</a></h2>
 				<div>
 					<div id="slider_poi_restaurants" kind="poi" number="4" class="slider" style="width:200px;"></div>
-					<input type="checkbox" id="restaurants" /><label for="restaurants">active</label>
+					<input type="checkbox" name="poi" value="restaurants">active</input>
 				</div>
 
 				<h2><a href="#">doctors (from 'unimportant' to 'important')</a></h2>
 				<div>
 					<div id="slider_poi_doctors" kind="poi" number="5" class="slider" style="width:200px;"></div>
-					<input type="checkbox" id="doctors" /><label for="doctors">active</label>
+					<input type="checkbox" name="poi" value="doctors">active</input>
 				</div>
 				<h2><a href="#">pharmacies (from 'unimportant' to 'important')</a></h2>
 				<div>
 					<div id="slider_poi_pharmacies" kind="poi" number="6" class="slider" style="width:200px;"></div>
-					<input type="checkbox" id="pharmacies" /><label for="pharmacies">active</label>
+					<input type="checkbox" name="poi" value="pharmacies">active</input>
 				</div>
 				<h2><a href="#">pubs (from 'unimportant' to 'important')</a></h2>
 				<div>
 					<div id="slider_poi_pubs" kind="poi" number="7" class="slider" style="width:200px;"></div>
-					<input type="checkbox" id="pubs" /><label for="pubs">active</label>
+					<input type="checkbox" name="poi" value="pubs">active</input>
 				</div>
 				<h2><a href="#">parking (from 'unimportant' to 'important')</a></h2>
 				<div>
 					<div id="slider_poi_parking" kind="poi" number="8" class="slider" style="width:200px;"></div>
-					<input type="checkbox" id="parking" /><label for="parking">active</label>
+					<input type="checkbox" name="poi" value="parking">active</input>
 				</div>
-				<h2><a href="#">ATM (from 'unimportant' to 'important')</a></h2>
+				<h2><a href="#">atm (from 'unimportant' to 'important')</a></h2>
 				<div>
 					<div id="slider_poi_atm" kind="poi" number="9" class="slider" style="width:200px;"></div>
-					<input type="checkbox" id="atm" /><label for="atm">active</label>
+					<input type="checkbox" name="poi" value="atm">active</input>
+				</div>
+
 			</div>
 		</div>
 	</div>
@@ -144,31 +145,16 @@ jQuery(document).ready(function() {
 		max: 200,
 		value: 100,
 		change: function(event, ui) {
-			if(jQuery(this).parent().find("input[type=checkbox]").is(":checked")) {
-				if(jQuery(this).attr("kind") == "feature")
-					features_weight[jQuery(this).attr("number")] = ui.value / 200;
-				else{
-					pois_weight[jQuery(this).attr("number")] = ui.value / 200;
-				}
-				handleUpdate(features, features_labels, features_selection, features_weight, pois, pois_labels, pois_selection, pois_weight);	
+			if(jQuery(this).attr("kind") == "feature")
+				features_weight[jQuery(this).attr("number")] = ui.value / 200;
+			else{
+				pois_weight[jQuery(this).attr("number")] = ui.value / 200;
 			}
+			handleUpdate(features, features_labels, features_selection, features_weight, pois, pois_labels, pois_selection, pois_weight);	
 		}
 	});
 	
-	jQuery("input[type=checkbox]").button({label:"inactive", diabled:true});
-	
-	jQuery("input[type=checkbox]").click(function() {
-		if(jQuery(this).is(":checked")) {
-			jQuery(this).button("option","label","active");
-			features_selection[features[jQuery(this).attr("id")]] = true;
-		}
-		else {
-			jQuery(this).button("option","label","inactive");
-			features_selection[features[jQuery(this).attr("id")]] = false;
-		}
-		
-		handleUpdate(features, features_labels, features_selection, features_weight, pois, pois_labels, pois_selection, pois_weight);	
-	});
+	jQuery("input[type=checkbox]").button();
 });
 </script>
 </body>
