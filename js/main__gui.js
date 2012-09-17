@@ -42,9 +42,9 @@ function setPreset(preset){
 	pois_weight[6] = 0.1;
 	pois_selection[7] = false;
 	pois_weight[7] = false;
-	pois_selection[8] = present == 1;
+	pois_selection[8] = preset == 1 || preset == 2;
 	pois_weight[8] = 0;
-	pois_selection[9] = present == 1;
+	pois_selection[9] = preset == 1 || preset == 3;
 	pois_weight[9] = 0;
 	
 	for(i = 0; i< 4; i++)
