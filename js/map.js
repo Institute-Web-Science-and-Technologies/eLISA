@@ -45,7 +45,8 @@ function map_init() {
 			new OpenLayers.Control.LayerSwitcher(),
 			new OpenLayers.Control.KeyboardDefaults()
 		],
-		restrictedExtent: extent,  // set maximum map boundaries
+// this restriction covers some part of Koblenz by the control panel. We shold find a better boundary. in the meantime, the restriction is deactivated.
+//		restrictedExtent: extent,  // set maximum map boundaries
 		displayProjection: new OpenLayers.Projection("EPSG:4326")
 	} );
 
